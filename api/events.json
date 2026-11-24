@@ -4,7 +4,7 @@
  "home_url": "https://thelocalnational.com",
  "page_url": "https://thelocalnational.com/conferences/",
  "base_url": "https://calendar.thelocalnational.com",
- "updated": "2026-11-24T11:30:19-05:00",
+ "updated": "2026-11-24T11:50:16-05:00",
  "updated_label": "Tuesday, Nov. 24, 2026",
  "generated_for": "2026-11-24",
  "timezone": "America/New_York",
@@ -17,7 +17,7 @@
    "kind": "all",
    "feed_name": "The Local National: D.C. Conferences",
    "description": "Every conference, summit and public forum on the calendar.",
-   "count": 37,
+   "count": 38,
    "links": {
     "ics": "https://calendar.thelocalnational.com/feeds/all.ics",
     "webcal": "webcal://calendar.thelocalnational.com/feeds/all.ics",
@@ -1525,6 +1525,71 @@
    }
   },
   {
+   "id": "76daf53705a5",
+   "title": "Is the United States prepared to meet the long-term care needs of the baby boom generation?",
+   "start_date": "2026-12-09",
+   "end_date": "2026-12-09",
+   "start_time": "09:00",
+   "end_time": "",
+   "all_day": false,
+   "start": "2026-12-09T09:00:00-05:00",
+   "end": "2026-12-09T11:00:00-05:00",
+   "timezone": "America/New_York",
+   "when": "Wednesday, Dec. 9, 9 a.m.",
+   "venue": "",
+   "address": "",
+   "city": "Washington, DC",
+   "location": "Washington, DC",
+   "organizer": "Brookings Institution",
+   "format": "unknown",
+   "format_label": "",
+   "cost": "",
+   "summary": "",
+   "event_url": "https://www.brookings.edu/events/is-the-united-states-prepared-to-meet-the-long-term-care-needs-of-the-baby-boom-generation/",
+   "registration_url": "",
+   "segments": [],
+   "segment_names": [],
+   "tln_pick": false,
+   "first_seen": "2026-11-24",
+   "last_updated": "2026-11-24",
+   "group": "December 2026",
+   "badge": {
+    "month": "Dec",
+    "day": "9",
+    "range": ""
+   },
+   "links": {
+    "page": "https://thelocalnational.com/conferences/#e-76daf53705a5",
+    "ics": "https://calendar.thelocalnational.com/events/76daf53705a5.ics",
+    "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Is%20the%20United%20States%20prepared%20to%20meet%20the%20long-term%20care%20needs%20of%20the%20baby%20boom%20generation%3F&dates=20261209T090000%2F20261209T110000&details=Event%20page%3A%20https%3A%2F%2Fwww.brookings.edu%2Fevents%2Fis-the-united-states-prepared-to-meet-the-long-term-care-needs-of-the-baby-boom-generation%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-76daf53705a5&location=Washington%2C%20DC&ctz=America%2FNew_York",
+    "outlook": "https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=Is%20the%20United%20States%20prepared%20to%20meet%20the%20long-term%20care%20needs%20of%20the%20baby%20boom%20generation%3F&startdt=2026-12-09T09%3A00%3A00-05%3A00&enddt=2026-12-09T11%3A00%3A00-05%3A00&allday=false&body=Event%20page%3A%20https%3A%2F%2Fwww.brookings.edu%2Fevents%2Fis-the-united-states-prepared-to-meet-the-long-term-care-needs-of-the-baby-boom-generation%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-76daf53705a5&location=Washington%2C%20DC",
+    "office": "https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=Is%20the%20United%20States%20prepared%20to%20meet%20the%20long-term%20care%20needs%20of%20the%20baby%20boom%20generation%3F&startdt=2026-12-09T09%3A00%3A00-05%3A00&enddt=2026-12-09T11%3A00%3A00-05%3A00&allday=false&body=Event%20page%3A%20https%3A%2F%2Fwww.brookings.edu%2Fevents%2Fis-the-united-states-prepared-to-meet-the-long-term-care-needs-of-the-baby-boom-generation%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-76daf53705a5&location=Washington%2C%20DC"
+   },
+   "schema": {
+    "@type": "Event",
+    "name": "Is the United States prepared to meet the long-term care needs of the baby boom generation?",
+    "startDate": "2026-12-09T09:00:00-05:00",
+    "endDate": "2026-12-09T11:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+     "@type": "Place",
+     "name": "Washington, DC",
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Washington",
+      "addressRegion": "DC",
+      "addressCountry": "US"
+     }
+    },
+    "organizer": {
+     "@type": "Organization",
+     "name": "Brookings Institution"
+    },
+    "url": "https://www.brookings.edu/events/is-the-united-states-prepared-to-meet-the-long-term-care-needs-of-the-baby-boom-generation/"
+   }
+  },
+  {
    "id": "1d9591cd5245",
    "title": "A Conversation with Chairman Carr: The FCC’s New National Security Mandate",
    "start_date": "2026-12-09",
@@ -1972,7 +2037,7 @@
    "format": "in-person",
    "format_label": "In person",
    "cost": "",
-   "summary": "Te head of Air Combat Command joins the Atlantic Council to discuss Air Force strategic priorities.",
+   "summary": "The head of Air Combat Command joins the Atlantic Council to discuss Air Force strategic priorities.",
    "event_url": "https://www.atlanticcouncil.org/event/general-adrian-spain-on-regaining-air-superiority-in-a-contested-era/",
    "registration_url": "",
    "segments": [],
@@ -1989,9 +2054,9 @@
    "links": {
     "page": "https://thelocalnational.com/conferences/#e-7f2321bf5bb0",
     "ics": "https://calendar.thelocalnational.com/events/7f2321bf5bb0.ics",
-    "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=General%20Adrian%20Spain%20on%20regaining%20air%20superiority%20in%20a%20contested%20era&dates=20261217T140000%2F20261217T160000&details=Te%20head%20of%20Air%20Combat%20Command%20joins%20the%20Atlantic%20Council%20to%20discuss%20Air%20Force%20strategic%20priorities.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.atlanticcouncil.org%2Fevent%2Fgeneral-adrian-spain-on-regaining-air-superiority-in-a-contested-era%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-7f2321bf5bb0&location=Atlantic%20Council%20Headquarters%2C%201400%20L%20Street%20NW%20%E2%80%A2%20Floor%2011%2C%20Washington%2C%20DC&ctz=America%2FNew_York",
-    "outlook": "https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=General%20Adrian%20Spain%20on%20regaining%20air%20superiority%20in%20a%20contested%20era&startdt=2026-12-17T14%3A00%3A00-05%3A00&enddt=2026-12-17T16%3A00%3A00-05%3A00&allday=false&body=Te%20head%20of%20Air%20Combat%20Command%20joins%20the%20Atlantic%20Council%20to%20discuss%20Air%20Force%20strategic%20priorities.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.atlanticcouncil.org%2Fevent%2Fgeneral-adrian-spain-on-regaining-air-superiority-in-a-contested-era%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-7f2321bf5bb0&location=Atlantic%20Council%20Headquarters%2C%201400%20L%20Street%20NW%20%E2%80%A2%20Floor%2011%2C%20Washington%2C%20DC",
-    "office": "https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=General%20Adrian%20Spain%20on%20regaining%20air%20superiority%20in%20a%20contested%20era&startdt=2026-12-17T14%3A00%3A00-05%3A00&enddt=2026-12-17T16%3A00%3A00-05%3A00&allday=false&body=Te%20head%20of%20Air%20Combat%20Command%20joins%20the%20Atlantic%20Council%20to%20discuss%20Air%20Force%20strategic%20priorities.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.atlanticcouncil.org%2Fevent%2Fgeneral-adrian-spain-on-regaining-air-superiority-in-a-contested-era%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-7f2321bf5bb0&location=Atlantic%20Council%20Headquarters%2C%201400%20L%20Street%20NW%20%E2%80%A2%20Floor%2011%2C%20Washington%2C%20DC"
+    "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=General%20Adrian%20Spain%20on%20regaining%20air%20superiority%20in%20a%20contested%20era&dates=20261217T140000%2F20261217T160000&details=The%20head%20of%20Air%20Combat%20Command%20joins%20the%20Atlantic%20Council%20to%20discuss%20Air%20Force%20strategic%20priorities.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.atlanticcouncil.org%2Fevent%2Fgeneral-adrian-spain-on-regaining-air-superiority-in-a-contested-era%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-7f2321bf5bb0&location=Atlantic%20Council%20Headquarters%2C%201400%20L%20Street%20NW%20%E2%80%A2%20Floor%2011%2C%20Washington%2C%20DC&ctz=America%2FNew_York",
+    "outlook": "https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=General%20Adrian%20Spain%20on%20regaining%20air%20superiority%20in%20a%20contested%20era&startdt=2026-12-17T14%3A00%3A00-05%3A00&enddt=2026-12-17T16%3A00%3A00-05%3A00&allday=false&body=The%20head%20of%20Air%20Combat%20Command%20joins%20the%20Atlantic%20Council%20to%20discuss%20Air%20Force%20strategic%20priorities.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.atlanticcouncil.org%2Fevent%2Fgeneral-adrian-spain-on-regaining-air-superiority-in-a-contested-era%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-7f2321bf5bb0&location=Atlantic%20Council%20Headquarters%2C%201400%20L%20Street%20NW%20%E2%80%A2%20Floor%2011%2C%20Washington%2C%20DC",
+    "office": "https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=General%20Adrian%20Spain%20on%20regaining%20air%20superiority%20in%20a%20contested%20era&startdt=2026-12-17T14%3A00%3A00-05%3A00&enddt=2026-12-17T16%3A00%3A00-05%3A00&allday=false&body=The%20head%20of%20Air%20Combat%20Command%20joins%20the%20Atlantic%20Council%20to%20discuss%20Air%20Force%20strategic%20priorities.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.atlanticcouncil.org%2Fevent%2Fgeneral-adrian-spain-on-regaining-air-superiority-in-a-contested-era%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-7f2321bf5bb0&location=Atlantic%20Council%20Headquarters%2C%201400%20L%20Street%20NW%20%E2%80%A2%20Floor%2011%2C%20Washington%2C%20DC"
    },
    "schema": {
     "@type": "Event",
@@ -2016,7 +2081,7 @@
      "name": "Atlantic Council"
     },
     "url": "https://www.atlanticcouncil.org/event/general-adrian-spain-on-regaining-air-superiority-in-a-contested-era/",
-    "description": "Te head of Air Combat Command joins the Atlantic Council to discuss Air Force strategic priorities."
+    "description": "The head of Air Combat Command joins the Atlantic Council to discuss Air Force strategic priorities."
    }
   },
   {

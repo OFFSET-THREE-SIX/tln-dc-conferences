@@ -2,7 +2,7 @@
  "name": "D.C. Conference Calendar",
  "publisher": "The Local National",
  "page_url": "https://thelocalnational.com/conferences/",
- "updated": "2026-11-24T11:30:19-05:00",
+ "updated": "2026-11-24T11:50:16-05:00",
  "calendars": [
   {
    "slug": "all",
@@ -10,7 +10,7 @@
    "kind": "all",
    "feed_name": "The Local National: D.C. Conferences",
    "description": "Every conference, summit and public forum on the calendar.",
-   "count": 37,
+   "count": 38,
    "links": {
     "ics": "https://calendar.thelocalnational.com/feeds/all.ics",
     "webcal": "webcal://calendar.thelocalnational.com/feeds/all.ics",

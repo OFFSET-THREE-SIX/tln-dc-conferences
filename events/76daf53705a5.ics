@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:76daf53705a5@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261209T090000
+DTEND;TZID=America/New_York:20261209T110000
+SUMMARY:Is the United States prepared to meet the long-term care needs of t
+ he baby boom generation?
+LOCATION:Washington\, DC
+DESCRIPTION:When: Wednesday\, Dec. 9\, 9 a.m.\nWhere: Washington\, DC\nOrga
+ nizer: Brookings Institution\nEvent page: https://www.brookings.edu/events
+ /is-the-united-states-prepared-to-meet-the-long-term-care-needs-of-the-bab
+ y-boom-generation/\n\nListed by The Local National's D.C. Conference Calen
+ dar. Confirm details with the organizer before you go.\nhttps://thelocalna
+ tional.com/conferences/#e-76daf53705a5
+URL:https://www.brookings.edu/events/is-the-united-states-prepared-to-meet-
+ the-long-term-care-needs-of-the-baby-boom-generation/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
