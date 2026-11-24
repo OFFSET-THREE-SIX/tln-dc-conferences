@@ -12,11 +12,10 @@ DESCRIPTION:Metro\, buses\, streets\, transportation and infrastructure. Fr
  ee to use\, embed and republish with credit to The Local National (theloca
  lnational.com). Confirm details with the organizer before you go.
 X-WR-TIMEZONE:America/New_York
-URL:https://offset-three-six.github.io/tln-dc-conferences/
+URL:https://thelocalnational.com/conferences/
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-SOURCE;VALUE=URI:https://offset-three-six.github.io/tln-dc-conferences/feed
- s/transit.ics
+SOURCE;VALUE=URI:https://calendar.thelocalnational.com/feeds/transit.ics
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -53,7 +52,7 @@ DESCRIPTION:In the culminating event to mark the Urban Institute’s Center
   https://www.urban.org/events/launching-center-nonprofits-and-philanthropy
  s-democracy-and-civil-society-initiative\n\nListed by The Local National's
   D.C. Conference Calendar. Confirm details with the organizer before you g
- o.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-6dc328fa8e4d
+ o.\nhttps://thelocalnational.com/conferences/#e-6dc328fa8e4d
 URL:https://www.urban.org/events/launching-center-nonprofits-and-philanthro
  pys-democracy-and-civil-society-initiative
 CATEGORIES:Transit,Government and democracy
@@ -81,8 +80,7 @@ DESCRIPTION:The 106th annual meeting of the Transportation Research Board:
  ent page: https://www.nationalacademies.org/events/887\nRegister: https://
  www.nationalacademies.org/events/887/registration-2\n\nListed by The Local
   National's D.C. Conference Calendar. Confirm details with the organizer b
- efore you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-e3
- 06f59d9ee1
+ efore you go.\nhttps://thelocalnational.com/conferences/#e-e306f59d9ee1
 URL:https://www.nationalacademies.org/events/887
 CATEGORIES:TLN picks,Major conferences,Transit,Economy,Government and democ
  racy
@@ -107,8 +105,8 @@ DESCRIPTION:Ten-day public auto show with new\, electric and concept vehicl
  st: One-day tickets\; on sale from Nov. 27\nEvent page: https://www.washin
  gtonautoshow.com/show-information/\nRegister: https://www.washingtonautosh
  ow.com/tickets/\n\nListed by The Local National's D.C. Conference Calendar
- . Confirm details with the organizer before you go.\nhttps://offset-three-
- six.github.io/tln-dc-conferences/#e-9ab547f89d4e
+ . Confirm details with the organizer before you go.\nhttps://thelocalnatio
+ nal.com/conferences/#e-9ab547f89d4e
 URL:https://www.washingtonautoshow.com/show-information/
 CATEGORIES:Major conferences,Transit,Economy
 STATUS:CONFIRMED

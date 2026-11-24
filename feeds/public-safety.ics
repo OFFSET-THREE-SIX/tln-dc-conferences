@@ -12,11 +12,11 @@ DESCRIPTION:Public safety\, policing\, crime\, courts and criminal justice.
   Free to use\, embed and republish with credit to The Local National (thel
  ocalnational.com). Confirm details with the organizer before you go.
 X-WR-TIMEZONE:America/New_York
-URL:https://offset-three-six.github.io/tln-dc-conferences/
+URL:https://thelocalnational.com/conferences/
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-SOURCE;VALUE=URI:https://offset-three-six.github.io/tln-dc-conferences/feed
- s/public-safety.ics
+SOURCE;VALUE=URI:https://calendar.thelocalnational.com/feeds/public-safety.
+ ics
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT

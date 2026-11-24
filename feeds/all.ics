@@ -12,11 +12,10 @@ DESCRIPTION:Every conference\, summit and public forum on the calendar. Fre
  e to use\, embed and republish with credit to The Local National (thelocal
  national.com). Confirm details with the organizer before you go.
 X-WR-TIMEZONE:America/New_York
-URL:https://offset-three-six.github.io/tln-dc-conferences/
+URL:https://thelocalnational.com/conferences/
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-SOURCE;VALUE=URI:https://offset-three-six.github.io/tln-dc-conferences/feed
- s/all.ics
+SOURCE;VALUE=URI:https://calendar.thelocalnational.com/feeds/all.ics
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -49,7 +48,7 @@ DESCRIPTION:When: Monday\, Nov. 30\, 9 a.m.\nWhere: Washington\, DC\nOrgani
  nergy-trade-and-the-us-canada-partnership-a-conversation-with-canadas-mini
  ster-of-energy-and-natural-resources/\n\nListed by The Local National's D.
  C. Conference Calendar. Confirm details with the organizer before you go.\
- nhttps://offset-three-six.github.io/tln-dc-conferences/#e-de9b4b25a5fa
+ nhttps://thelocalnational.com/conferences/#e-de9b4b25a5fa
 URL:https://www.brookings.edu/events/energy-trade-and-the-us-canada-partner
  ship-a-conversation-with-canadas-minister-of-energy-and-natural-resources/
 CATEGORIES:Economy
@@ -78,7 +77,7 @@ DESCRIPTION:Artificial intelligence is fundamentally rewiring how tasks in
  ge: https://events.georgetown.edu/live/events/43110-sixth-annual-ai-in-act
  ion-conference-who-does-what\n\nListed by The Local National's D.C. Confer
  ence Calendar. Confirm details with the organizer before you go.\nhttps://
- offset-three-six.github.io/tln-dc-conferences/#e-64e4764f470b
+ thelocalnational.com/conferences/#e-64e4764f470b
 URL:https://events.georgetown.edu/live/events/43110-sixth-annual-ai-in-acti
  on-conference-who-does-what
 CATEGORIES:Health,Economy
@@ -104,8 +103,7 @@ DESCRIPTION:The nation faces a severe\, longstanding shortage of direct car
  vent page: https://bipartisanpolicy.org/event/aging-of-america-supporting-
  family-caregivers-and-direct-care-workers/\n\nListed by The Local National
  's D.C. Conference Calendar. Confirm details with the organizer before you
-  go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-bcec09ca118
- e
+  go.\nhttps://thelocalnational.com/conferences/#e-bcec09ca118e
 URL:https://bipartisanpolicy.org/event/aging-of-america-supporting-family-c
  aregivers-and-direct-care-workers/
 CATEGORIES:Health,Economy
@@ -131,7 +129,7 @@ DESCRIPTION:In the culminating event to mark the Urban Institute’s Center
   https://www.urban.org/events/launching-center-nonprofits-and-philanthropy
  s-democracy-and-civil-society-initiative\n\nListed by The Local National's
   D.C. Conference Calendar. Confirm details with the organizer before you g
- o.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-6dc328fa8e4d
+ o.\nhttps://thelocalnational.com/conferences/#e-6dc328fa8e4d
 URL:https://www.urban.org/events/launching-center-nonprofits-and-philanthro
  pys-democracy-and-civil-society-initiative
 CATEGORIES:Transit,Government and democracy
@@ -156,8 +154,8 @@ DESCRIPTION:At the inaugural Atlantic Council Polar Forum\, experts examine
  ouncil\nFormat: In person\nEvent page: https://www.atlanticcouncil.org/eve
  nt/polar-opposites-geopolitics-in-the-arctic-and-antarctic/\n\nListed by T
  he Local National's D.C. Conference Calendar. Confirm details with the org
- anizer before you go.\nhttps://offset-three-six.github.io/tln-dc-conferenc
- es/#e-340b4678e070
+ anizer before you go.\nhttps://thelocalnational.com/conferences/#e-340b467
+ 8e070
 URL:https://www.atlanticcouncil.org/event/polar-opposites-geopolitics-in-th
  e-arctic-and-antarctic/
 STATUS:CONFIRMED
@@ -177,8 +175,8 @@ DESCRIPTION:When: Tuesday\, Dec. 1\, 3 p.m.\nWhere: Washington\, DC\nOrgani
  zer: Brookings Institution\nEvent page: https://www.brookings.edu/events/t
  he-working-persons-bank-account-a-new-proposal-for-universal-banking/\n\nL
  isted by The Local National's D.C. Conference Calendar. Confirm details wi
- th the organizer before you go.\nhttps://offset-three-six.github.io/tln-dc
- -conferences/#e-a84c1c2db415
+ th the organizer before you go.\nhttps://thelocalnational.com/conferences/
+ #e-a84c1c2db415
 URL:https://www.brookings.edu/events/the-working-persons-bank-account-a-new
  -proposal-for-universal-banking/
 STATUS:CONFIRMED
@@ -198,8 +196,8 @@ DESCRIPTION:When: Wednesday\, Dec. 2\, 9:30 a.m.\nWhere: Washington\, DC\nO
  rganizer: Brookings Institution\nEvent page: https://www.brookings.edu/eve
  nts/can-ai-build-more-shared-power-and-trust-in-health-for-black-communiti
  es/\n\nListed by The Local National's D.C. Conference Calendar. Confirm de
- tails with the organizer before you go.\nhttps://offset-three-six.github.i
- o/tln-dc-conferences/#e-edeaea70bb3e
+ tails with the organizer before you go.\nhttps://thelocalnational.com/conf
+ erences/#e-edeaea70bb3e
 URL:https://www.brookings.edu/events/can-ai-build-more-shared-power-and-tru
  st-in-health-for-black-communities/
 CATEGORIES:Health,Economy
@@ -224,7 +222,7 @@ DESCRIPTION:Join the American Studies Department for this year's Interrogat
  on\nEvent page: https://calendar.gwu.edu/event/interrogating-gw-an-america
  n-studies-undergraduate-conference\n\nListed by The Local National's D.C. 
  Conference Calendar. Confirm details with the organizer before you go.\nht
- tps://offset-three-six.github.io/tln-dc-conferences/#e-def7f1432b1e
+ tps://thelocalnational.com/conferences/#e-def7f1432b1e
 URL:https://calendar.gwu.edu/event/interrogating-gw-an-american-studies-und
  ergraduate-conference
 CATEGORIES:Schools
@@ -246,7 +244,7 @@ DESCRIPTION:The AEI calendar feed doesn't say whether this is in person\; s
  er: American Enterprise Institute\nEvent page: https://www.aei.org/events/
  the-myth-of-transferable-skills/\n\nListed by The Local National's D.C. Co
  nference Calendar. Confirm details with the organizer before you go.\nhttp
- s://offset-three-six.github.io/tln-dc-conferences/#e-7eecf33724e9
+ s://thelocalnational.com/conferences/#e-7eecf33724e9
 URL:https://www.aei.org/events/the-myth-of-transferable-skills/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -268,7 +266,7 @@ DESCRIPTION:This is a citywide listening session in which young people and
  nizer: University of the District of Columbia\nFormat: In person\nEvent pa
  ge: https://www.udc.edu/events/\n\nListed by The Local National's D.C. Con
  ference Calendar. Confirm details with the organizer before you go.\nhttps
- ://offset-three-six.github.io/tln-dc-conferences/#e-ed850afb9929
+ ://thelocalnational.com/conferences/#e-ed850afb9929
 URL:https://www.udc.edu/events/
 CATEGORIES:TLN picks,Schools,Government and democracy
 STATUS:CONFIRMED
@@ -293,7 +291,7 @@ DESCRIPTION:Wealth in the United States is more concentrated today than at
  https://www.urban.org/events/who-shares-gains-income-wealth-and-how-commun
  ities-can-thrive-ai-advances\n\nListed by The Local National's D.C. Confer
  ence Calendar. Confirm details with the organizer before you go.\nhttps://
- offset-three-six.github.io/tln-dc-conferences/#e-8cebd13d5967
+ thelocalnational.com/conferences/#e-8cebd13d5967
 URL:https://www.urban.org/events/who-shares-gains-income-wealth-and-how-com
  munities-can-thrive-ai-advances
 CATEGORIES:Economy
@@ -317,7 +315,7 @@ DESCRIPTION:The AEI calendar feed doesn't say whether this is in person\; s
  he-second-annual-laurence-h-silberman-lecture-on-constitutional-governance
  -with-judge-jeffrey-s-sutton/\n\nListed by The Local National's D.C. Confe
  rence Calendar. Confirm details with the organizer before you go.\nhttps:/
- /offset-three-six.github.io/tln-dc-conferences/#e-0e6b725617f8
+ /thelocalnational.com/conferences/#e-0e6b725617f8
 URL:https://www.aei.org/events/the-second-annual-laurence-h-silberman-lectu
  re-on-constitutional-governance-with-judge-jeffrey-s-sutton/
 CATEGORIES:Government and democracy
@@ -344,8 +342,8 @@ DESCRIPTION:The GW China Conference brings together scholars and policy exp
  ormat: In person and online\nEvent page: https://calendar.gwu.edu/event/18
  th-gw-china-conference\nRegister: https://iiep.gwu.edu/18th-gw-china-confe
  rence\n\nListed by The Local National's D.C. Conference Calendar. Confirm 
- details with the organizer before you go.\nhttps://offset-three-six.github
- .io/tln-dc-conferences/#e-757248e5437d
+ details with the organizer before you go.\nhttps://thelocalnational.com/co
+ nferences/#e-757248e5437d
 URL:https://calendar.gwu.edu/event/18th-gw-china-conference
 CATEGORIES:Economy
 STATUS:CONFIRMED
@@ -368,8 +366,8 @@ DESCRIPTION:In a time of rapid change and evolving challenges to our electo
  m. to 4 p.m.\nWhere: Washington\, DC\nOrganizer: Bipartisan Policy Center\
  nEvent page: https://bipartisanpolicy.org/event/2026-elections-summit/\n\n
  Listed by The Local National's D.C. Conference Calendar. Confirm details w
- ith the organizer before you go.\nhttps://offset-three-six.github.io/tln-d
- c-conferences/#e-4de7a3febabc
+ ith the organizer before you go.\nhttps://thelocalnational.com/conferences
+ /#e-4de7a3febabc
 URL:https://bipartisanpolicy.org/event/2026-elections-summit/
 CATEGORIES:Government and democracy
 STATUS:CONFIRMED
@@ -395,8 +393,7 @@ DESCRIPTION:The Public Diplomacy Council of America's December First Monday
  nFormat: In person\nCost: Free\nEvent page: https://calendar.gwu.edu/event
  /december-first-monday-forum-sports-diplomacy-award\n\nListed by The Local
   National's D.C. Conference Calendar. Confirm details with the organizer b
- efore you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-63
- b16b6e62f3
+ efore you go.\nhttps://thelocalnational.com/conferences/#e-63b16b6e62f3
 URL:https://calendar.gwu.edu/event/december-first-monday-forum-sports-diplo
  macy-award
 STATUS:CONFIRMED
@@ -419,8 +416,8 @@ DESCRIPTION:Everyone should have the opportunity to age with health and fin
  p.m.\nWhere: Washington\, DC\nOrganizer: Urban Institute\nEvent page: http
  s://www.urban.org/events/see-how-older-adults-are-faring-your-state-and-co
  unty\n\nListed by The Local National's D.C. Conference Calendar. Confirm d
- etails with the organizer before you go.\nhttps://offset-three-six.github.
- io/tln-dc-conferences/#e-a8e680b4a94e
+ etails with the organizer before you go.\nhttps://thelocalnational.com/con
+ ferences/#e-a8e680b4a94e
 URL:https://www.urban.org/events/see-how-older-adults-are-faring-your-state
  -and-county
 CATEGORIES:Health
@@ -446,8 +443,8 @@ DESCRIPTION:Former Secretary of the Navy Kenneth Braithwaite and former Act
  n person\nEvent page: https://www.atlanticcouncil.org/event/tomorrows-flee
  t-revitalizing-us-shipbuilding-and-the-maritime-industrial-base/\n\nListed
   by The Local National's D.C. Conference Calendar. Confirm details with th
- e organizer before you go.\nhttps://offset-three-six.github.io/tln-dc-conf
- erences/#e-a49011b8595a
+ e organizer before you go.\nhttps://thelocalnational.com/conferences/#e-a4
+ 9011b8595a
 URL:https://www.atlanticcouncil.org/event/tomorrows-fleet-revitalizing-us-s
  hipbuilding-and-the-maritime-industrial-base/
 STATUS:CONFIRMED
@@ -468,8 +465,7 @@ DESCRIPTION:When: Tuesday\, Dec. 8\, 10 a.m.\nWhere: Washington\, DC\nOrgan
  reimagining-global-economic-governance-challenges-and-opportunities-in-a-s
  hifting-geopolitical-and-technological-landscape/\n\nListed by The Local N
  ational's D.C. Conference Calendar. Confirm details with the organizer bef
- ore you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-2855
- 8e198d55
+ ore you go.\nhttps://thelocalnational.com/conferences/#e-28558e198d55
 URL:https://www.brookings.edu/events/reimagining-global-economic-governance
  -challenges-and-opportunities-in-a-shifting-geopolitical-and-technological
  -landscape/
@@ -496,8 +492,7 @@ DESCRIPTION:Three days of food and agriculture policy events on the Hill an
  eries/\nRegister: https://www.eventbrite.com/e/2nd-annual-food-and-agricul
  ture-policy-summit-week-tickets-1995499841744\n\nListed by The Local Natio
  nal's D.C. Conference Calendar. Confirm details with the organizer before 
- you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-e3ebd10d
- 292a
+ you go.\nhttps://thelocalnational.com/conferences/#e-e3ebd10d292a
 URL:https://foodtank.com/event/2nd-annual-food-agriculture-policy-week-full
  -series/
 CATEGORIES:Major conferences,Health,Economy
@@ -520,8 +515,8 @@ DESCRIPTION:The AEI calendar feed doesn't say whether this is in person\; s
  izer: American Enterprise Institute\nEvent page: https://www.aei.org/event
  s/a-conversation-with-chairman-carr-the-fccs-new-national-security-mandate
  /\n\nListed by The Local National's D.C. Conference Calendar. Confirm deta
- ils with the organizer before you go.\nhttps://offset-three-six.github.io/
- tln-dc-conferences/#e-1d9591cd5245
+ ils with the organizer before you go.\nhttps://thelocalnational.com/confer
+ ences/#e-1d9591cd5245
 URL:https://www.aei.org/events/a-conversation-with-chairman-carr-the-fccs-n
  ew-national-security-mandate/
 STATUS:CONFIRMED
@@ -545,8 +540,8 @@ DESCRIPTION:Communities across the Gulf Coast face growing health risks fro
  p.m.\nWhere: Washington\, DC\nOrganizer: Urban Institute\nEvent page: http
  s://www.urban.org/events/using-climate-scenarios-build-health-resilience-g
  ulf-coast-communities\n\nListed by The Local National's D.C. Conference Ca
- lendar. Confirm details with the organizer before you go.\nhttps://offset-
- three-six.github.io/tln-dc-conferences/#e-e8e855ac50ab
+ lendar. Confirm details with the organizer before you go.\nhttps://theloca
+ lnational.com/conferences/#e-e8e855ac50ab
 URL:https://www.urban.org/events/using-climate-scenarios-build-health-resil
  ience-gulf-coast-communities
 CATEGORIES:Health
@@ -570,8 +565,7 @@ DESCRIPTION:The Atlantic Council\, in partnership with ClearPath\, is pleas
  rmat: In person\nEvent page: https://www.atlanticcouncil.org/event/unlocki
  ng-us-commercial-competitiveness-in-nuclear-energy/\n\nListed by The Local
   National's D.C. Conference Calendar. Confirm details with the organizer b
- efore you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-bd
- d32385ba99
+ efore you go.\nhttps://thelocalnational.com/conferences/#e-bdd32385ba99
 URL:https://www.atlanticcouncil.org/event/unlocking-us-commercial-competiti
  veness-in-nuclear-energy/
 CATEGORIES:Economy
@@ -597,8 +591,8 @@ DESCRIPTION:Join Food Tank\, the Global Food Institute at George Washington
  nnual-food-and-agriculture-policy-summit\nRegister: https://www.eventbrite
  .com/e/2nd-annual-food-and-agriculture-policy-summit-week-tickets-19954998
  41744\n\nListed by The Local National's D.C. Conference Calendar. Confirm 
- details with the organizer before you go.\nhttps://offset-three-six.github
- .io/tln-dc-conferences/#e-8600e6ef1688
+ details with the organizer before you go.\nhttps://thelocalnational.com/co
+ nferences/#e-8600e6ef1688
 URL:https://calendar.gwu.edu/event/2nd-annual-food-and-agriculture-policy-s
  ummit
 CATEGORIES:Health
@@ -625,8 +619,8 @@ DESCRIPTION:The DC Chamber's signature year-end event. It reviews the year\
  Cost: Members $150\; non-members $215\nEvent page: https://dcchamber.org/e
  vents/2026-annual-meeting-and-chairmans-innaugural-breakfast/\n\nListed by
   The Local National's D.C. Conference Calendar. Confirm details with the o
- rganizer before you go.\nhttps://offset-three-six.github.io/tln-dc-confere
- nces/#e-d4f06558b8ae
+ rganizer before you go.\nhttps://thelocalnational.com/conferences/#e-d4f06
+ 558b8ae
 URL:https://dcchamber.org/events/2026-annual-meeting-and-chairmans-innaugur
  al-breakfast/
 CATEGORIES:TLN picks,Economy,Government and democracy
@@ -651,8 +645,8 @@ DESCRIPTION:The Place-Based Professional Learning Community (PLC) aims to c
  p.m.\nWhere: UDC Building 72\, Room W100 - Auditorium\nOrganizer: Universi
  ty of the District of Columbia\nFormat: In person\nEvent page: https://www
  .udc.edu/events/\n\nListed by The Local National's D.C. Conference Calenda
- r. Confirm details with the organizer before you go.\nhttps://offset-three
- -six.github.io/tln-dc-conferences/#e-66cea4ee8d3c
+ r. Confirm details with the organizer before you go.\nhttps://thelocalnati
+ onal.com/conferences/#e-66cea4ee8d3c
 URL:https://www.udc.edu/events/
 CATEGORIES:TLN picks,Schools,Economy,Government and democracy
 STATUS:CONFIRMED
@@ -676,7 +670,7 @@ DESCRIPTION:Te head of Air Combat Command joins the Atlantic Council to dis
   https://www.atlanticcouncil.org/event/general-adrian-spain-on-regaining-a
  ir-superiority-in-a-contested-era/\n\nListed by The Local National's D.C. 
  Conference Calendar. Confirm details with the organizer before you go.\nht
- tps://offset-three-six.github.io/tln-dc-conferences/#e-7f2321bf5bb0
+ tps://thelocalnational.com/conferences/#e-7f2321bf5bb0
 URL:https://www.atlanticcouncil.org/event/general-adrian-spain-on-regaining
  -air-superiority-in-a-contested-era/
 STATUS:CONFIRMED
@@ -698,8 +692,8 @@ DESCRIPTION:The AEI calendar feed doesn't say whether this is in person\; s
  nizer: American Enterprise Institute\nEvent page: https://www.aei.org/even
  ts/how-reagans-military-buildup-won-the-cold-war-a-conversation-with-roger
  -zakheim/\n\nListed by The Local National's D.C. Conference Calendar. Conf
- irm details with the organizer before you go.\nhttps://offset-three-six.gi
- thub.io/tln-dc-conferences/#e-da9437b3c9f3
+ irm details with the organizer before you go.\nhttps://thelocalnational.co
+ m/conferences/#e-da9437b3c9f3
 URL:https://www.aei.org/events/how-reagans-military-buildup-won-the-cold-wa
  r-a-conversation-with-roger-zakheim/
 STATUS:CONFIRMED
@@ -726,8 +720,7 @@ DESCRIPTION:The 106th annual meeting of the Transportation Research Board:
  ent page: https://www.nationalacademies.org/events/887\nRegister: https://
  www.nationalacademies.org/events/887/registration-2\n\nListed by The Local
   National's D.C. Conference Calendar. Confirm details with the organizer b
- efore you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-e3
- 06f59d9ee1
+ efore you go.\nhttps://thelocalnational.com/conferences/#e-e306f59d9ee1
 URL:https://www.nationalacademies.org/events/887
 CATEGORIES:TLN picks,Major conferences,Transit,Economy,Government and democ
  racy
@@ -752,8 +745,8 @@ DESCRIPTION:Ten-day public auto show with new\, electric and concept vehicl
  st: One-day tickets\; on sale from Nov. 27\nEvent page: https://www.washin
  gtonautoshow.com/show-information/\nRegister: https://www.washingtonautosh
  ow.com/tickets/\n\nListed by The Local National's D.C. Conference Calendar
- . Confirm details with the organizer before you go.\nhttps://offset-three-
- six.github.io/tln-dc-conferences/#e-9ab547f89d4e
+ . Confirm details with the organizer before you go.\nhttps://thelocalnatio
+ nal.com/conferences/#e-9ab547f89d4e
 URL:https://www.washingtonautoshow.com/show-information/
 CATEGORIES:Major conferences,Transit,Economy
 STATUS:CONFIRMED
@@ -777,8 +770,8 @@ DESCRIPTION:Daylong annual summit of lawyers\, former officials and scholar
  ocietyfortheruleoflaw.org/srl-summit-2027/\nRegister: https://www.eventbri
  te.com/e/2027-society-for-the-rule-of-law-summit-tickets-2004031747905\n\n
  Listed by The Local National's D.C. Conference Calendar. Confirm details w
- ith the organizer before you go.\nhttps://offset-three-six.github.io/tln-d
- c-conferences/#e-6b92d31e069e
+ ith the organizer before you go.\nhttps://thelocalnational.com/conferences
+ /#e-6b92d31e069e
 URL:https://societyfortheruleoflaw.org/srl-summit-2027/
 CATEGORIES:Government and democracy
 STATUS:CONFIRMED
@@ -804,8 +797,8 @@ DESCRIPTION:Apex Defense gathers military personnel\, acquisition professio
  ; eligible military\, government and media free…\nEvent page: https://ev
  entsdc.com/events/apex-2027\nRegister: https://forms.reg.buzz/apex-defense
  -2027/page/step-1\n\nListed by The Local National's D.C. Conference Calend
- ar. Confirm details with the organizer before you go.\nhttps://offset-thre
- e-six.github.io/tln-dc-conferences/#e-56b0a95d3624
+ ar. Confirm details with the organizer before you go.\nhttps://thelocalnat
+ ional.com/conferences/#e-56b0a95d3624
 URL:https://eventsdc.com/events/apex-2027
 CATEGORIES:Major conferences,Economy
 STATUS:CONFIRMED
@@ -826,8 +819,8 @@ DESCRIPTION:When: Friday\, Jan. 29\, 2027\, 9 a.m. to 5 p.m.\nWhere: Old No
  niversity: Georgetown Humanities Initiative\nFormat: In person\nEvent page
  : https://events.georgetown.edu/live/events/44148-futures-of-theory-a-dayl
  ong-symposium-on-the\n\nListed by The Local National's D.C. Conference Cal
- endar. Confirm details with the organizer before you go.\nhttps://offset-t
- hree-six.github.io/tln-dc-conferences/#e-c547c92f9b0c
+ endar. Confirm details with the organizer before you go.\nhttps://thelocal
+ national.com/conferences/#e-c547c92f9b0c
 URL:https://events.georgetown.edu/live/events/44148-futures-of-theory-a-day
  long-symposium-on-the
 STATUS:CONFIRMED
@@ -850,7 +843,7 @@ DESCRIPTION:The main federal advocacy event for community colleges. More th
  ciation of Community College Trustees (ACCT)\nFormat: In person\nEvent pag
  e: https://www.acct.org/events/nls\n\nListed by The Local National's D.C. 
  Conference Calendar. Confirm details with the organizer before you go.\nht
- tps://offset-three-six.github.io/tln-dc-conferences/#e-1c4e5d837946
+ tps://thelocalnational.com/conferences/#e-1c4e5d837946
 URL:https://www.acct.org/events/nls
 CATEGORIES:Major conferences,Schools,Economy,Government and democracy
 STATUS:CONFIRMED
@@ -876,7 +869,7 @@ DESCRIPTION:Get ready for 2 days of discussions\, presentations\, & network
  om/e/2027-howard-university-african-studies-international-conference-ticke
  ts-1990338326513?aff=oddtdtcreator\n\nListed by The Local National's D.C. 
  Conference Calendar. Confirm details with the organizer before you go.\nht
- tps://offset-three-six.github.io/tln-dc-conferences/#e-010fce3ee13a
+ tps://thelocalnational.com/conferences/#e-010fce3ee13a
 URL:https://events.howard.edu/event/howard-university-african-studies-inter
  national-conference-2027
 CATEGORIES:Major conferences,Economy
@@ -901,7 +894,7 @@ DESCRIPTION:Please join us as students from across programs and schools sha
  nEvent page: https://events.georgetown.edu/global-cities/event/41606-ninth
  -annual-ggci-student-research-summit\n\nListed by The Local National's D.C
  . Conference Calendar. Confirm details with the organizer before you go.\n
- https://offset-three-six.github.io/tln-dc-conferences/#e-121d3370be6a
+ https://thelocalnational.com/conferences/#e-121d3370be6a
 URL:https://events.georgetown.edu/global-cities/event/41606-ninth-annual-gg
  ci-student-research-summit
 CATEGORIES:Housing,Schools,Health
@@ -926,8 +919,8 @@ DESCRIPTION:Annual Washington gathering where nearly 2\,000 elected and app
  mat: In person\nEvent page: https://www.naco.org/event/2027-naco-legislati
  ve-conference\nRegister: https://member.naco.org/Events/Register/e5ebc3f0-
  dda2-f111-b8dd-7ced8d6e6157\n\nListed by The Local National's D.C. Confere
- nce Calendar. Confirm details with the organizer before you go.\nhttps://o
- ffset-three-six.github.io/tln-dc-conferences/#e-cba63390de1c
+ nce Calendar. Confirm details with the organizer before you go.\nhttps://t
+ helocalnational.com/conferences/#e-cba63390de1c
 URL:https://www.naco.org/event/2027-naco-legislative-conference
 CATEGORIES:TLN picks,Major conferences,Economy,Government and democracy
 STATUS:CONFIRMED
@@ -951,7 +944,7 @@ DESCRIPTION:Seventh annual summit of the center-right pro-democracy group P
  -2027-summit/\nRegister: https://www.eventbrite.com/e/2027-principles-firs
  t-summit-tickets-2004091356195\n\nListed by The Local National's D.C. Conf
  erence Calendar. Confirm details with the organizer before you go.\nhttps:
- //offset-three-six.github.io/tln-dc-conferences/#e-0ae3073a5f71
+ //thelocalnational.com/conferences/#e-0ae3073a5f71
 URL:https://www.principlesfirst.us/summit/principles-first-2027-summit/
 CATEGORIES:Major conferences,Government and democracy
 STATUS:CONFIRMED

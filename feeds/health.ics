@@ -12,11 +12,10 @@ DESCRIPTION:Health care\, public health\, hospitals and mental health. Free
   to use\, embed and republish with credit to The Local National (thelocaln
  ational.com). Confirm details with the organizer before you go.
 X-WR-TIMEZONE:America/New_York
-URL:https://offset-three-six.github.io/tln-dc-conferences/
+URL:https://thelocalnational.com/conferences/
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-SOURCE;VALUE=URI:https://offset-three-six.github.io/tln-dc-conferences/feed
- s/health.ics
+SOURCE;VALUE=URI:https://calendar.thelocalnational.com/feeds/health.ics
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -56,7 +55,7 @@ DESCRIPTION:Artificial intelligence is fundamentally rewiring how tasks in
  ge: https://events.georgetown.edu/live/events/43110-sixth-annual-ai-in-act
  ion-conference-who-does-what\n\nListed by The Local National's D.C. Confer
  ence Calendar. Confirm details with the organizer before you go.\nhttps://
- offset-three-six.github.io/tln-dc-conferences/#e-64e4764f470b
+ thelocalnational.com/conferences/#e-64e4764f470b
 URL:https://events.georgetown.edu/live/events/43110-sixth-annual-ai-in-acti
  on-conference-who-does-what
 CATEGORIES:Health,Economy
@@ -82,8 +81,7 @@ DESCRIPTION:The nation faces a severe\, longstanding shortage of direct car
  vent page: https://bipartisanpolicy.org/event/aging-of-america-supporting-
  family-caregivers-and-direct-care-workers/\n\nListed by The Local National
  's D.C. Conference Calendar. Confirm details with the organizer before you
-  go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-bcec09ca118
- e
+  go.\nhttps://thelocalnational.com/conferences/#e-bcec09ca118e
 URL:https://bipartisanpolicy.org/event/aging-of-america-supporting-family-c
  aregivers-and-direct-care-workers/
 CATEGORIES:Health,Economy
@@ -104,8 +102,8 @@ DESCRIPTION:When: Wednesday\, Dec. 2\, 9:30 a.m.\nWhere: Washington\, DC\nO
  rganizer: Brookings Institution\nEvent page: https://www.brookings.edu/eve
  nts/can-ai-build-more-shared-power-and-trust-in-health-for-black-communiti
  es/\n\nListed by The Local National's D.C. Conference Calendar. Confirm de
- tails with the organizer before you go.\nhttps://offset-three-six.github.i
- o/tln-dc-conferences/#e-edeaea70bb3e
+ tails with the organizer before you go.\nhttps://thelocalnational.com/conf
+ erences/#e-edeaea70bb3e
 URL:https://www.brookings.edu/events/can-ai-build-more-shared-power-and-tru
  st-in-health-for-black-communities/
 CATEGORIES:Health,Economy
@@ -129,8 +127,8 @@ DESCRIPTION:Everyone should have the opportunity to age with health and fin
  p.m.\nWhere: Washington\, DC\nOrganizer: Urban Institute\nEvent page: http
  s://www.urban.org/events/see-how-older-adults-are-faring-your-state-and-co
  unty\n\nListed by The Local National's D.C. Conference Calendar. Confirm d
- etails with the organizer before you go.\nhttps://offset-three-six.github.
- io/tln-dc-conferences/#e-a8e680b4a94e
+ etails with the organizer before you go.\nhttps://thelocalnational.com/con
+ ferences/#e-a8e680b4a94e
 URL:https://www.urban.org/events/see-how-older-adults-are-faring-your-state
  -and-county
 CATEGORIES:Health
@@ -156,8 +154,7 @@ DESCRIPTION:Three days of food and agriculture policy events on the Hill an
  eries/\nRegister: https://www.eventbrite.com/e/2nd-annual-food-and-agricul
  ture-policy-summit-week-tickets-1995499841744\n\nListed by The Local Natio
  nal's D.C. Conference Calendar. Confirm details with the organizer before 
- you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-e3ebd10d
- 292a
+ you go.\nhttps://thelocalnational.com/conferences/#e-e3ebd10d292a
 URL:https://foodtank.com/event/2nd-annual-food-agriculture-policy-week-full
  -series/
 CATEGORIES:Major conferences,Health,Economy
@@ -182,8 +179,8 @@ DESCRIPTION:Communities across the Gulf Coast face growing health risks fro
  p.m.\nWhere: Washington\, DC\nOrganizer: Urban Institute\nEvent page: http
  s://www.urban.org/events/using-climate-scenarios-build-health-resilience-g
  ulf-coast-communities\n\nListed by The Local National's D.C. Conference Ca
- lendar. Confirm details with the organizer before you go.\nhttps://offset-
- three-six.github.io/tln-dc-conferences/#e-e8e855ac50ab
+ lendar. Confirm details with the organizer before you go.\nhttps://theloca
+ lnational.com/conferences/#e-e8e855ac50ab
 URL:https://www.urban.org/events/using-climate-scenarios-build-health-resil
  ience-gulf-coast-communities
 CATEGORIES:Health
@@ -209,8 +206,8 @@ DESCRIPTION:Join Food Tank\, the Global Food Institute at George Washington
  nnual-food-and-agriculture-policy-summit\nRegister: https://www.eventbrite
  .com/e/2nd-annual-food-and-agriculture-policy-summit-week-tickets-19954998
  41744\n\nListed by The Local National's D.C. Conference Calendar. Confirm 
- details with the organizer before you go.\nhttps://offset-three-six.github
- .io/tln-dc-conferences/#e-8600e6ef1688
+ details with the organizer before you go.\nhttps://thelocalnational.com/co
+ nferences/#e-8600e6ef1688
 URL:https://calendar.gwu.edu/event/2nd-annual-food-and-agriculture-policy-s
  ummit
 CATEGORIES:Health
@@ -235,7 +232,7 @@ DESCRIPTION:Please join us as students from across programs and schools sha
  nEvent page: https://events.georgetown.edu/global-cities/event/41606-ninth
  -annual-ggci-student-research-summit\n\nListed by The Local National's D.C
  . Conference Calendar. Confirm details with the organizer before you go.\n
- https://offset-three-six.github.io/tln-dc-conferences/#e-121d3370be6a
+ https://thelocalnational.com/conferences/#e-121d3370be6a
 URL:https://events.georgetown.edu/global-cities/event/41606-ninth-annual-gg
  ci-student-research-summit
 CATEGORIES:Housing,Schools,Health

@@ -12,11 +12,10 @@ DESCRIPTION:Housing\, homelessness\, zoning\, rent and development. Free to
   use\, embed and republish with credit to The Local National (thelocalnati
  onal.com). Confirm details with the organizer before you go.
 X-WR-TIMEZONE:America/New_York
-URL:https://offset-three-six.github.io/tln-dc-conferences/
+URL:https://thelocalnational.com/conferences/
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-SOURCE;VALUE=URI:https://offset-three-six.github.io/tln-dc-conferences/feed
- s/housing.ics
+SOURCE;VALUE=URI:https://calendar.thelocalnational.com/feeds/housing.ics
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -52,7 +51,7 @@ DESCRIPTION:Please join us as students from across programs and schools sha
  nEvent page: https://events.georgetown.edu/global-cities/event/41606-ninth
  -annual-ggci-student-research-summit\n\nListed by The Local National's D.C
  . Conference Calendar. Confirm details with the organizer before you go.\n
- https://offset-three-six.github.io/tln-dc-conferences/#e-121d3370be6a
+ https://thelocalnational.com/conferences/#e-121d3370be6a
 URL:https://events.georgetown.edu/global-cities/event/41606-ninth-annual-gg
  ci-student-research-summit
 CATEGORIES:Housing,Schools,Health

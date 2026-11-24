@@ -12,11 +12,10 @@ DESCRIPTION:Elections\, democracy\, the courts\, Congress and city governme
  nt. Free to use\, embed and republish with credit to The Local National (t
  helocalnational.com). Confirm details with the organizer before you go.
 X-WR-TIMEZONE:America/New_York
-URL:https://offset-three-six.github.io/tln-dc-conferences/
+URL:https://thelocalnational.com/conferences/
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-SOURCE;VALUE=URI:https://offset-three-six.github.io/tln-dc-conferences/feed
- s/governance.ics
+SOURCE;VALUE=URI:https://calendar.thelocalnational.com/feeds/governance.ics
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -53,7 +52,7 @@ DESCRIPTION:In the culminating event to mark the Urban Institute’s Center
   https://www.urban.org/events/launching-center-nonprofits-and-philanthropy
  s-democracy-and-civil-society-initiative\n\nListed by The Local National's
   D.C. Conference Calendar. Confirm details with the organizer before you g
- o.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-6dc328fa8e4d
+ o.\nhttps://thelocalnational.com/conferences/#e-6dc328fa8e4d
 URL:https://www.urban.org/events/launching-center-nonprofits-and-philanthro
  pys-democracy-and-civil-society-initiative
 CATEGORIES:Transit,Government and democracy
@@ -77,7 +76,7 @@ DESCRIPTION:This is a citywide listening session in which young people and
  nizer: University of the District of Columbia\nFormat: In person\nEvent pa
  ge: https://www.udc.edu/events/\n\nListed by The Local National's D.C. Con
  ference Calendar. Confirm details with the organizer before you go.\nhttps
- ://offset-three-six.github.io/tln-dc-conferences/#e-ed850afb9929
+ ://thelocalnational.com/conferences/#e-ed850afb9929
 URL:https://www.udc.edu/events/
 CATEGORIES:TLN picks,Schools,Government and democracy
 STATUS:CONFIRMED
@@ -100,7 +99,7 @@ DESCRIPTION:The AEI calendar feed doesn't say whether this is in person\; s
  he-second-annual-laurence-h-silberman-lecture-on-constitutional-governance
  -with-judge-jeffrey-s-sutton/\n\nListed by The Local National's D.C. Confe
  rence Calendar. Confirm details with the organizer before you go.\nhttps:/
- /offset-three-six.github.io/tln-dc-conferences/#e-0e6b725617f8
+ /thelocalnational.com/conferences/#e-0e6b725617f8
 URL:https://www.aei.org/events/the-second-annual-laurence-h-silberman-lectu
  re-on-constitutional-governance-with-judge-jeffrey-s-sutton/
 CATEGORIES:Government and democracy
@@ -124,8 +123,8 @@ DESCRIPTION:In a time of rapid change and evolving challenges to our electo
  m. to 4 p.m.\nWhere: Washington\, DC\nOrganizer: Bipartisan Policy Center\
  nEvent page: https://bipartisanpolicy.org/event/2026-elections-summit/\n\n
  Listed by The Local National's D.C. Conference Calendar. Confirm details w
- ith the organizer before you go.\nhttps://offset-three-six.github.io/tln-d
- c-conferences/#e-4de7a3febabc
+ ith the organizer before you go.\nhttps://thelocalnational.com/conferences
+ /#e-4de7a3febabc
 URL:https://bipartisanpolicy.org/event/2026-elections-summit/
 CATEGORIES:Government and democracy
 STATUS:CONFIRMED
@@ -146,8 +145,7 @@ DESCRIPTION:When: Tuesday\, Dec. 8\, 10 a.m.\nWhere: Washington\, DC\nOrgan
  reimagining-global-economic-governance-challenges-and-opportunities-in-a-s
  hifting-geopolitical-and-technological-landscape/\n\nListed by The Local N
  ational's D.C. Conference Calendar. Confirm details with the organizer bef
- ore you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-2855
- 8e198d55
+ ore you go.\nhttps://thelocalnational.com/conferences/#e-28558e198d55
 URL:https://www.brookings.edu/events/reimagining-global-economic-governance
  -challenges-and-opportunities-in-a-shifting-geopolitical-and-technological
  -landscape/
@@ -175,8 +173,8 @@ DESCRIPTION:The DC Chamber's signature year-end event. It reviews the year\
  Cost: Members $150\; non-members $215\nEvent page: https://dcchamber.org/e
  vents/2026-annual-meeting-and-chairmans-innaugural-breakfast/\n\nListed by
   The Local National's D.C. Conference Calendar. Confirm details with the o
- rganizer before you go.\nhttps://offset-three-six.github.io/tln-dc-confere
- nces/#e-d4f06558b8ae
+ rganizer before you go.\nhttps://thelocalnational.com/conferences/#e-d4f06
+ 558b8ae
 URL:https://dcchamber.org/events/2026-annual-meeting-and-chairmans-innaugur
  al-breakfast/
 CATEGORIES:TLN picks,Economy,Government and democracy
@@ -201,8 +199,8 @@ DESCRIPTION:The Place-Based Professional Learning Community (PLC) aims to c
  p.m.\nWhere: UDC Building 72\, Room W100 - Auditorium\nOrganizer: Universi
  ty of the District of Columbia\nFormat: In person\nEvent page: https://www
  .udc.edu/events/\n\nListed by The Local National's D.C. Conference Calenda
- r. Confirm details with the organizer before you go.\nhttps://offset-three
- -six.github.io/tln-dc-conferences/#e-66cea4ee8d3c
+ r. Confirm details with the organizer before you go.\nhttps://thelocalnati
+ onal.com/conferences/#e-66cea4ee8d3c
 URL:https://www.udc.edu/events/
 CATEGORIES:TLN picks,Schools,Economy,Government and democracy
 STATUS:CONFIRMED
@@ -229,8 +227,7 @@ DESCRIPTION:The 106th annual meeting of the Transportation Research Board:
  ent page: https://www.nationalacademies.org/events/887\nRegister: https://
  www.nationalacademies.org/events/887/registration-2\n\nListed by The Local
   National's D.C. Conference Calendar. Confirm details with the organizer b
- efore you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-e3
- 06f59d9ee1
+ efore you go.\nhttps://thelocalnational.com/conferences/#e-e306f59d9ee1
 URL:https://www.nationalacademies.org/events/887
 CATEGORIES:TLN picks,Major conferences,Transit,Economy,Government and democ
  racy
@@ -255,8 +252,8 @@ DESCRIPTION:Daylong annual summit of lawyers\, former officials and scholar
  ocietyfortheruleoflaw.org/srl-summit-2027/\nRegister: https://www.eventbri
  te.com/e/2027-society-for-the-rule-of-law-summit-tickets-2004031747905\n\n
  Listed by The Local National's D.C. Conference Calendar. Confirm details w
- ith the organizer before you go.\nhttps://offset-three-six.github.io/tln-d
- c-conferences/#e-6b92d31e069e
+ ith the organizer before you go.\nhttps://thelocalnational.com/conferences
+ /#e-6b92d31e069e
 URL:https://societyfortheruleoflaw.org/srl-summit-2027/
 CATEGORIES:Government and democracy
 STATUS:CONFIRMED
@@ -279,7 +276,7 @@ DESCRIPTION:The main federal advocacy event for community colleges. More th
  ciation of Community College Trustees (ACCT)\nFormat: In person\nEvent pag
  e: https://www.acct.org/events/nls\n\nListed by The Local National's D.C. 
  Conference Calendar. Confirm details with the organizer before you go.\nht
- tps://offset-three-six.github.io/tln-dc-conferences/#e-1c4e5d837946
+ tps://thelocalnational.com/conferences/#e-1c4e5d837946
 URL:https://www.acct.org/events/nls
 CATEGORIES:Major conferences,Schools,Economy,Government and democracy
 STATUS:CONFIRMED
@@ -303,8 +300,8 @@ DESCRIPTION:Annual Washington gathering where nearly 2\,000 elected and app
  mat: In person\nEvent page: https://www.naco.org/event/2027-naco-legislati
  ve-conference\nRegister: https://member.naco.org/Events/Register/e5ebc3f0-
  dda2-f111-b8dd-7ced8d6e6157\n\nListed by The Local National's D.C. Confere
- nce Calendar. Confirm details with the organizer before you go.\nhttps://o
- ffset-three-six.github.io/tln-dc-conferences/#e-cba63390de1c
+ nce Calendar. Confirm details with the organizer before you go.\nhttps://t
+ helocalnational.com/conferences/#e-cba63390de1c
 URL:https://www.naco.org/event/2027-naco-legislative-conference
 CATEGORIES:TLN picks,Major conferences,Economy,Government and democracy
 STATUS:CONFIRMED
@@ -328,7 +325,7 @@ DESCRIPTION:Seventh annual summit of the center-right pro-democracy group P
  -2027-summit/\nRegister: https://www.eventbrite.com/e/2027-principles-firs
  t-summit-tickets-2004091356195\n\nListed by The Local National's D.C. Conf
  erence Calendar. Confirm details with the organizer before you go.\nhttps:
- //offset-three-six.github.io/tln-dc-conferences/#e-0ae3073a5f71
+ //thelocalnational.com/conferences/#e-0ae3073a5f71
 URL:https://www.principlesfirst.us/summit/principles-first-2027-summit/
 CATEGORIES:Major conferences,Government and democracy
 STATUS:CONFIRMED

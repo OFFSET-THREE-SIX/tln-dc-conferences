@@ -2,7 +2,7 @@
     Paste this anywhere on a web page:
 
       <div data-tln-conferences data-theme="housing" data-limit="5"></div>
-      <script src="https://offset-three-six.github.io/tln-dc-conferences/widget.js" async></script>
+      <script src="https://calendar.thelocalnational.com/widget.js" async></script>
 
     Options (all optional):
       data-theme   a calendar slug such as housing, transit or tln-picks (default: all events)

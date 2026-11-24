@@ -14,11 +14,10 @@ DESCRIPTION:Home rule\, statehood\, self-government and congressional overs
   Local National (thelocalnational.com). Confirm details with the organizer
   before you go.
 X-WR-TIMEZONE:America/New_York
-URL:https://offset-three-six.github.io/tln-dc-conferences/
+URL:https://thelocalnational.com/conferences/
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-SOURCE;VALUE=URI:https://offset-three-six.github.io/tln-dc-conferences/feed
- s/home-rule.ics
+SOURCE;VALUE=URI:https://calendar.thelocalnational.com/feeds/home-rule.ics
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT

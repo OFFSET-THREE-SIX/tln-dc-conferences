@@ -12,11 +12,10 @@ DESCRIPTION:Schools\, education policy\, students and teachers. Free to use
  \, embed and republish with credit to The Local National (thelocalnational
  .com). Confirm details with the organizer before you go.
 X-WR-TIMEZONE:America/New_York
-URL:https://offset-three-six.github.io/tln-dc-conferences/
+URL:https://thelocalnational.com/conferences/
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-SOURCE;VALUE=URI:https://offset-three-six.github.io/tln-dc-conferences/feed
- s/schools.ics
+SOURCE;VALUE=URI:https://calendar.thelocalnational.com/feeds/schools.ics
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -52,7 +51,7 @@ DESCRIPTION:Join the American Studies Department for this year's Interrogat
  on\nEvent page: https://calendar.gwu.edu/event/interrogating-gw-an-america
  n-studies-undergraduate-conference\n\nListed by The Local National's D.C. 
  Conference Calendar. Confirm details with the organizer before you go.\nht
- tps://offset-three-six.github.io/tln-dc-conferences/#e-def7f1432b1e
+ tps://thelocalnational.com/conferences/#e-def7f1432b1e
 URL:https://calendar.gwu.edu/event/interrogating-gw-an-american-studies-und
  ergraduate-conference
 CATEGORIES:Schools
@@ -76,7 +75,7 @@ DESCRIPTION:This is a citywide listening session in which young people and
  nizer: University of the District of Columbia\nFormat: In person\nEvent pa
  ge: https://www.udc.edu/events/\n\nListed by The Local National's D.C. Con
  ference Calendar. Confirm details with the organizer before you go.\nhttps
- ://offset-three-six.github.io/tln-dc-conferences/#e-ed850afb9929
+ ://thelocalnational.com/conferences/#e-ed850afb9929
 URL:https://www.udc.edu/events/
 CATEGORIES:TLN picks,Schools,Government and democracy
 STATUS:CONFIRMED
@@ -100,8 +99,8 @@ DESCRIPTION:The Place-Based Professional Learning Community (PLC) aims to c
  p.m.\nWhere: UDC Building 72\, Room W100 - Auditorium\nOrganizer: Universi
  ty of the District of Columbia\nFormat: In person\nEvent page: https://www
  .udc.edu/events/\n\nListed by The Local National's D.C. Conference Calenda
- r. Confirm details with the organizer before you go.\nhttps://offset-three
- -six.github.io/tln-dc-conferences/#e-66cea4ee8d3c
+ r. Confirm details with the organizer before you go.\nhttps://thelocalnati
+ onal.com/conferences/#e-66cea4ee8d3c
 URL:https://www.udc.edu/events/
 CATEGORIES:TLN picks,Schools,Economy,Government and democracy
 STATUS:CONFIRMED
@@ -124,7 +123,7 @@ DESCRIPTION:The main federal advocacy event for community colleges. More th
  ciation of Community College Trustees (ACCT)\nFormat: In person\nEvent pag
  e: https://www.acct.org/events/nls\n\nListed by The Local National's D.C. 
  Conference Calendar. Confirm details with the organizer before you go.\nht
- tps://offset-three-six.github.io/tln-dc-conferences/#e-1c4e5d837946
+ tps://thelocalnational.com/conferences/#e-1c4e5d837946
 URL:https://www.acct.org/events/nls
 CATEGORIES:Major conferences,Schools,Economy,Government and democracy
 STATUS:CONFIRMED
@@ -148,7 +147,7 @@ DESCRIPTION:Please join us as students from across programs and schools sha
  nEvent page: https://events.georgetown.edu/global-cities/event/41606-ninth
  -annual-ggci-student-research-summit\n\nListed by The Local National's D.C
  . Conference Calendar. Confirm details with the organizer before you go.\n
- https://offset-three-six.github.io/tln-dc-conferences/#e-121d3370be6a
+ https://thelocalnational.com/conferences/#e-121d3370be6a
 URL:https://events.georgetown.edu/global-cities/event/41606-ninth-annual-gg
  ci-student-research-summit
 CATEGORIES:Housing,Schools,Health

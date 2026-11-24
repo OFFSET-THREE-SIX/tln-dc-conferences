@@ -12,11 +12,10 @@ DESCRIPTION:Multi-day conferences\, conventions and summits. Free to use\,
  embed and republish with credit to The Local National (thelocalnational.co
  m). Confirm details with the organizer before you go.
 X-WR-TIMEZONE:America/New_York
-URL:https://offset-three-six.github.io/tln-dc-conferences/
+URL:https://thelocalnational.com/conferences/
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
-SOURCE;VALUE=URI:https://offset-three-six.github.io/tln-dc-conferences/feed
- s/major.ics
+SOURCE;VALUE=URI:https://calendar.thelocalnational.com/feeds/major.ics
 BEGIN:VTIMEZONE
 TZID:America/New_York
 BEGIN:DAYLIGHT
@@ -53,8 +52,7 @@ DESCRIPTION:Three days of food and agriculture policy events on the Hill an
  eries/\nRegister: https://www.eventbrite.com/e/2nd-annual-food-and-agricul
  ture-policy-summit-week-tickets-1995499841744\n\nListed by The Local Natio
  nal's D.C. Conference Calendar. Confirm details with the organizer before 
- you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-e3ebd10d
- 292a
+ you go.\nhttps://thelocalnational.com/conferences/#e-e3ebd10d292a
 URL:https://foodtank.com/event/2nd-annual-food-agriculture-policy-week-full
  -series/
 CATEGORIES:Major conferences,Health,Economy
@@ -82,8 +80,7 @@ DESCRIPTION:The 106th annual meeting of the Transportation Research Board:
  ent page: https://www.nationalacademies.org/events/887\nRegister: https://
  www.nationalacademies.org/events/887/registration-2\n\nListed by The Local
   National's D.C. Conference Calendar. Confirm details with the organizer b
- efore you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-e3
- 06f59d9ee1
+ efore you go.\nhttps://thelocalnational.com/conferences/#e-e306f59d9ee1
 URL:https://www.nationalacademies.org/events/887
 CATEGORIES:TLN picks,Major conferences,Transit,Economy,Government and democ
  racy
@@ -108,8 +105,8 @@ DESCRIPTION:Ten-day public auto show with new\, electric and concept vehicl
  st: One-day tickets\; on sale from Nov. 27\nEvent page: https://www.washin
  gtonautoshow.com/show-information/\nRegister: https://www.washingtonautosh
  ow.com/tickets/\n\nListed by The Local National's D.C. Conference Calendar
- . Confirm details with the organizer before you go.\nhttps://offset-three-
- six.github.io/tln-dc-conferences/#e-9ab547f89d4e
+ . Confirm details with the organizer before you go.\nhttps://thelocalnatio
+ nal.com/conferences/#e-9ab547f89d4e
 URL:https://www.washingtonautoshow.com/show-information/
 CATEGORIES:Major conferences,Transit,Economy
 STATUS:CONFIRMED
@@ -135,8 +132,8 @@ DESCRIPTION:Apex Defense gathers military personnel\, acquisition professio
  ; eligible military\, government and media free…\nEvent page: https://ev
  entsdc.com/events/apex-2027\nRegister: https://forms.reg.buzz/apex-defense
  -2027/page/step-1\n\nListed by The Local National's D.C. Conference Calend
- ar. Confirm details with the organizer before you go.\nhttps://offset-thre
- e-six.github.io/tln-dc-conferences/#e-56b0a95d3624
+ ar. Confirm details with the organizer before you go.\nhttps://thelocalnat
+ ional.com/conferences/#e-56b0a95d3624
 URL:https://eventsdc.com/events/apex-2027
 CATEGORIES:Major conferences,Economy
 STATUS:CONFIRMED
@@ -159,7 +156,7 @@ DESCRIPTION:The main federal advocacy event for community colleges. More th
  ciation of Community College Trustees (ACCT)\nFormat: In person\nEvent pag
  e: https://www.acct.org/events/nls\n\nListed by The Local National's D.C. 
  Conference Calendar. Confirm details with the organizer before you go.\nht
- tps://offset-three-six.github.io/tln-dc-conferences/#e-1c4e5d837946
+ tps://thelocalnational.com/conferences/#e-1c4e5d837946
 URL:https://www.acct.org/events/nls
 CATEGORIES:Major conferences,Schools,Economy,Government and democracy
 STATUS:CONFIRMED
@@ -185,7 +182,7 @@ DESCRIPTION:Get ready for 2 days of discussions\, presentations\, & network
  om/e/2027-howard-university-african-studies-international-conference-ticke
  ts-1990338326513?aff=oddtdtcreator\n\nListed by The Local National's D.C. 
  Conference Calendar. Confirm details with the organizer before you go.\nht
- tps://offset-three-six.github.io/tln-dc-conferences/#e-010fce3ee13a
+ tps://thelocalnational.com/conferences/#e-010fce3ee13a
 URL:https://events.howard.edu/event/howard-university-african-studies-inter
  national-conference-2027
 CATEGORIES:Major conferences,Economy
@@ -210,8 +207,8 @@ DESCRIPTION:Annual Washington gathering where nearly 2\,000 elected and app
  mat: In person\nEvent page: https://www.naco.org/event/2027-naco-legislati
  ve-conference\nRegister: https://member.naco.org/Events/Register/e5ebc3f0-
  dda2-f111-b8dd-7ced8d6e6157\n\nListed by The Local National's D.C. Confere
- nce Calendar. Confirm details with the organizer before you go.\nhttps://o
- ffset-three-six.github.io/tln-dc-conferences/#e-cba63390de1c
+ nce Calendar. Confirm details with the organizer before you go.\nhttps://t
+ helocalnational.com/conferences/#e-cba63390de1c
 URL:https://www.naco.org/event/2027-naco-legislative-conference
 CATEGORIES:TLN picks,Major conferences,Economy,Government and democracy
 STATUS:CONFIRMED
@@ -235,7 +232,7 @@ DESCRIPTION:Seventh annual summit of the center-right pro-democracy group P
  -2027-summit/\nRegister: https://www.eventbrite.com/e/2027-principles-firs
  t-summit-tickets-2004091356195\n\nListed by The Local National's D.C. Conf
  erence Calendar. Confirm details with the organizer before you go.\nhttps:
- //offset-three-six.github.io/tln-dc-conferences/#e-0ae3073a5f71
+ //thelocalnational.com/conferences/#e-0ae3073a5f71
 URL:https://www.principlesfirst.us/summit/principles-first-2027-summit/
 CATEGORIES:Major conferences,Government and democracy
 STATUS:CONFIRMED
