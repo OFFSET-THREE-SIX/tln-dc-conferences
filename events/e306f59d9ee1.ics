@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e306f59d9ee1@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270115
+SUMMARY:2027 TRB Annual Meeting
+LOCATION:Walter E. Washington Convention Center and Marriott Marquis\, 801 
+ Allen Y. Lew Place NW\, Washington\, DC 20001
+DESCRIPTION:The 106th annual meeting of the Transportation Research Board: 
+ 500+ sessions and workshops and 100+ technical committee meetings across e
+ very transportation mode. Thousands of transportation officials\, research
+ ers and industry representatives attend.\n\nWhen: Jan. 10–14\, 2027\nWhe
+ re: Walter E. Washington Convention Center and Marriott Marquis\, 801 Alle
+ n Y. Lew Place NW\, Washington\, DC 20001\nOrganizer: Transportation Resea
+ rch Board (National Academies)\nFormat: In person\nCost: Early-bird closed
+  Nov. 18\; advance registration Nov. 19 to Jan. 7\; onsite from Jan. 8\nEv
+ ent page: https://www.nationalacademies.org/events/887\nRegister: https://
+ www.nationalacademies.org/events/887/registration-2\n\nListed by The Local
+  National's D.C. Conference Calendar. Confirm details with the organizer b
+ efore you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-e3
+ 06f59d9ee1
+URL:https://www.nationalacademies.org/events/887
+CATEGORIES:TLN picks,Major conferences,Transit,Economy,Government and democ
+ racy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

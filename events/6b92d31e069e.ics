@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6b92d31e069e@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20270125T090000
+DTEND;TZID=America/New_York:20270125T203000
+SUMMARY:2027 Society for the Rule of Law Summit
+LOCATION:The Ritz-Carlton\, Washington\, DC\, 1150 22nd Street NW\, Washing
+ ton\, DC 20037
+DESCRIPTION:Daylong annual summit of lawyers\, former officials and scholar
+ s on the rule of law\, executive power and the courts.\n\nWhen: Monday\, J
+ an. 25\, 2027\, 9 a.m. to 8:30 p.m.\nWhere: The Ritz-Carlton\, Washington\
+ , DC\, 1150 22nd Street NW\, Washington\, DC 20037\nOrganizer: Society for
+  the Rule of Law\nFormat: In person\nCost: Ticketed\nEvent page: https://s
+ ocietyfortheruleoflaw.org/srl-summit-2027/\nRegister: https://www.eventbri
+ te.com/e/2027-society-for-the-rule-of-law-summit-tickets-2004031747905\n\n
+ Listed by The Local National's D.C. Conference Calendar. Confirm details w
+ ith the organizer before you go.\nhttps://offset-three-six.github.io/tln-d
+ c-conferences/#e-6b92d31e069e
+URL:https://societyfortheruleoflaw.org/srl-summit-2027/
+CATEGORIES:Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a49011b8595a@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261207T150000
+DTEND;TZID=America/New_York:20261207T170000
+SUMMARY:Tomorrow’s fleet: Revitalizing US shipbuilding and the maritime i
+ ndustrial base
+LOCATION:Atlantic Council Headquarters\, 1400 L Street NW • Floor 11\, Wa
+ shington\, DC
+DESCRIPTION:Former Secretary of the Navy Kenneth Braithwaite and former Act
+ ing Deputy Secretary of Defense Christine Fox discuss the Revitalizing US 
+ Shipbuilding Task Force’s newly released final report.\n\nWhen: Monday\,
+  Dec. 7\, 3–5 p.m.\nWhere: Atlantic Council Headquarters\, 1400 L Street
+  NW • Floor 11\, Washington\, DC\nOrganizer: Atlantic Council\nFormat: I
+ n person\nEvent page: https://www.atlanticcouncil.org/event/tomorrows-flee
+ t-revitalizing-us-shipbuilding-and-the-maritime-industrial-base/\n\nListed
+  by The Local National's D.C. Conference Calendar. Confirm details with th
+ e organizer before you go.\nhttps://offset-three-six.github.io/tln-dc-conf
+ erences/#e-a49011b8595a
+URL:https://www.atlanticcouncil.org/event/tomorrows-fleet-revitalizing-us-s
+ hipbuilding-and-the-maritime-industrial-base/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

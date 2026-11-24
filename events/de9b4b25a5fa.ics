@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:de9b4b25a5fa@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261130T090000
+DTEND;TZID=America/New_York:20261130T110000
+SUMMARY:Energy\, trade\, and the US-Canada partnership: A conversation with
+  Canada’s minister of energy and natural resources
+LOCATION:Washington\, DC
+DESCRIPTION:When: Monday\, Nov. 30\, 9 a.m.\nWhere: Washington\, DC\nOrgani
+ zer: Brookings Institution\nEvent page: https://www.brookings.edu/events/e
+ nergy-trade-and-the-us-canada-partnership-a-conversation-with-canadas-mini
+ ster-of-energy-and-natural-resources/\n\nListed by The Local National's D.
+ C. Conference Calendar. Confirm details with the organizer before you go.\
+ nhttps://offset-three-six.github.io/tln-dc-conferences/#e-de9b4b25a5fa
+URL:https://www.brookings.edu/events/energy-trade-and-the-us-canada-partner
+ ship-a-conversation-with-canadas-minister-of-energy-and-natural-resources/
+CATEGORIES:Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

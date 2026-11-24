@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1c4e5d837946@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270211
+SUMMARY:2027 Community College National Legislative Summit
+LOCATION:Marriott Marquis Washington\, DC\, 901 Massachusetts Avenue NW\, W
+ ashington\, DC 20001
+DESCRIPTION:The main federal advocacy event for community colleges. More th
+ an 1\,000 trustees\, presidents and students meet in Washington to lobby C
+ ongress.\n\nWhen: Feb. 7–10\, 2027\nWhere: Marriott Marquis Washington\,
+  DC\, 901 Massachusetts Avenue NW\, Washington\, DC 20001\nOrganizer: Asso
+ ciation of Community College Trustees (ACCT)\nFormat: In person\nEvent pag
+ e: https://www.acct.org/events/nls\n\nListed by The Local National's D.C. 
+ Conference Calendar. Confirm details with the organizer before you go.\nht
+ tps://offset-three-six.github.io/tln-dc-conferences/#e-1c4e5d837946
+URL:https://www.acct.org/events/nls
+CATEGORIES:Major conferences,Schools,Economy,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8cebd13d5967@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261203T130000
+DTEND;TZID=America/New_York:20261203T161500
+SUMMARY:Who Shares in the Gains? Income\, Wealth\, and How Communities Can 
+ Thrive as AI Advances
+LOCATION:Washington\, DC
+DESCRIPTION:Wealth in the United States is more concentrated today than at 
+ any point in decades. Income covers daily needs\, but wealth helps familie
+ s weather shocks and pass security on to the next generation. That distinc
+ tion may matter more as artificial intelligence and robotics change how we
+  work\, potentially shifting returns…\n\nWhen: Thursday\, Dec. 3\, 1–4
+ :15 p.m.\nWhere: Washington\, DC\nOrganizer: Urban Institute\nEvent page: 
+ https://www.urban.org/events/who-shares-gains-income-wealth-and-how-commun
+ ities-can-thrive-ai-advances\n\nListed by The Local National's D.C. Confer
+ ence Calendar. Confirm details with the organizer before you go.\nhttps://
+ offset-three-six.github.io/tln-dc-conferences/#e-8cebd13d5967
+URL:https://www.urban.org/events/who-shares-gains-income-wealth-and-how-com
+ munities-can-thrive-ai-advances
+CATEGORIES:Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

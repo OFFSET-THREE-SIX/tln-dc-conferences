@@ -1,0 +1,87 @@
+name: Submit an event
+description: Suggest a conference, summit or public forum in Washington, D.C. for the calendar.
+title: "Event: "
+labels: ["event-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping build The Local National's D.C. Conference Calendar. We list in-person and hybrid
+        conferences, summits, forums and major public events in D.C. and nearby. We check every submission
+        against the organizer's own page before listing it.
+  - type: input
+    id: title
+    attributes:
+      label: Event name
+    validations:
+      required: true
+  - type: input
+    id: dates
+    attributes:
+      label: Date(s)
+      description: For example, Dec. 11, 2026, or Jan. 10 to 14, 2027.
+    validations:
+      required: true
+  - type: input
+    id: time
+    attributes:
+      label: Start and end time (Eastern)
+      placeholder: 8 a.m. to 11 a.m.
+  - type: input
+    id: venue
+    attributes:
+      label: Venue and address
+    validations:
+      required: true
+  - type: input
+    id: organizer
+    attributes:
+      label: Organizer
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Event or registration page
+      description: The organizer's official page. We use it to verify the details.
+    validations:
+      required: true
+  - type: dropdown
+    id: format
+    attributes:
+      label: Format
+      options:
+        - In person
+        - In person and online (hybrid)
+    validations:
+      required: true
+  - type: dropdown
+    id: topics
+    attributes:
+      label: Topics
+      multiple: true
+      options:
+        - Housing
+        - Schools
+        - Home rule
+        - Federal workforce
+        - Public safety
+        - Transit
+        - Health
+        - Economy
+        - Government and democracy
+  - type: input
+    id: cost
+    attributes:
+      label: Cost
+      placeholder: Free, or $25 general admission
+  - type: textarea
+    id: summary
+    attributes:
+      label: Short description
+      description: Two or three sentences on what the event is and who it is for.
+  - type: markdown
+    attributes:
+      value: |
+        Submissions are public GitHub issues, so please don't include private contact details. We'll reply
+        here in the comments if we have questions.

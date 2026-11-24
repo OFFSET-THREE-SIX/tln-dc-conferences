@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:da9437b3c9f3@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T170000
+SUMMARY:How Reagan’s Military Buildup Won the Cold War: A Conversation wi
+ th Roger Zakheim
+LOCATION:American Enterprise Institute
+DESCRIPTION:The AEI calendar feed doesn't say whether this is in person\; s
+ ome AEI events are online only\, so check the event page.\n\nWhen: Thursda
+ y\, Jan. 7\, 2027\, 4–5 p.m.\nWhere: American Enterprise Institute\nOrga
+ nizer: American Enterprise Institute\nEvent page: https://www.aei.org/even
+ ts/how-reagans-military-buildup-won-the-cold-war-a-conversation-with-roger
+ -zakheim/\n\nListed by The Local National's D.C. Conference Calendar. Conf
+ irm details with the organizer before you go.\nhttps://offset-three-six.gi
+ thub.io/tln-dc-conferences/#e-da9437b3c9f3
+URL:https://www.aei.org/events/how-reagans-military-buildup-won-the-cold-wa
+ r-a-conversation-with-roger-zakheim/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

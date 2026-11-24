@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:d4f06558b8ae@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261211T080000
+DTEND;TZID=America/New_York:20261211T110000
+SUMMARY:DC Chamber 2026 Annual Meeting and Chairman's Inaugural Breakfast
+LOCATION:Walter E. Washington Convention Center\, 801 Allen Y. Lew Place NW
+ \, Washington\, DC 20001
+DESCRIPTION:The DC Chamber's signature year-end event. It reviews the year\
+ , welcomes new board members\, inaugurates the incoming board chair and se
+ ts the business community's agenda for 2027. Remarks from Chamber Presiden
+ t and CEO Chinyere Hubbard. The Chamber's social posts list the breakfast 
+ and program as 9 to 11 a.m.\n\nWhen: Friday\, Dec. 11\, 8–11 a.m.\nWhere
+ : Walter E. Washington Convention Center\, 801 Allen Y. Lew Place NW\, Was
+ hington\, DC 20001\nOrganizer: DC Chamber of Commerce\nFormat: In person\n
+ Cost: Members $150\; non-members $215\nEvent page: https://dcchamber.org/e
+ vents/2026-annual-meeting-and-chairmans-innaugural-breakfast/\n\nListed by
+  The Local National's D.C. Conference Calendar. Confirm details with the o
+ rganizer before you go.\nhttps://offset-three-six.github.io/tln-dc-confere
+ nces/#e-d4f06558b8ae
+URL:https://dcchamber.org/events/2026-annual-meeting-and-chairmans-innaugur
+ al-breakfast/
+CATEGORIES:TLN picks,Economy,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

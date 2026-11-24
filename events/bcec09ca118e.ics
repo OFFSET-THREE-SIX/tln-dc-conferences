@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bcec09ca118e@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261201T120000
+DTEND;TZID=America/New_York:20261201T130000
+SUMMARY:Aging of America: Supporting Family Caregivers and Direct Care Work
+ ers
+LOCATION:Washington\, DC
+DESCRIPTION:The nation faces a severe\, longstanding shortage of direct car
+ e workers to serve older adults and Americans with disabilities. Increasin
+ g need\, uncompetitive wages\, high turnover\, and a fragmented system hav
+ e left too few workers to meet growing demand. Family caregivers are often
+  left to fill gaps in care\, which can…\n\nWhen: Tuesday\, Dec. 1\, noon
+  to 1 p.m.\nWhere: Washington\, DC\nOrganizer: Bipartisan Policy Center\nE
+ vent page: https://bipartisanpolicy.org/event/aging-of-america-supporting-
+ family-caregivers-and-direct-care-workers/\n\nListed by The Local National
+ 's D.C. Conference Calendar. Confirm details with the organizer before you
+  go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-bcec09ca118
+ e
+URL:https://bipartisanpolicy.org/event/aging-of-america-supporting-family-c
+ aregivers-and-direct-care-workers/
+CATEGORIES:Health,Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

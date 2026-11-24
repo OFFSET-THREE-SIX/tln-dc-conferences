@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:a8e680b4a94e@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261207T130000
+DTEND;TZID=America/New_York:20261207T140000
+SUMMARY:See How Older Adults Are Faring in Your State and County
+LOCATION:Washington\, DC
+DESCRIPTION:Everyone should have the opportunity to age with health and fin
+ ancial security\, but some older adults are more likely than others to fac
+ e financial insecurity\, inadequate access to health care\, and unmet need
+ s for long-term care. Join Urban Institute researchers for a presentation 
+ of the new AARP-Urban Institute Aging…\n\nWhen: Monday\, Dec. 7\, 1–2 
+ p.m.\nWhere: Washington\, DC\nOrganizer: Urban Institute\nEvent page: http
+ s://www.urban.org/events/see-how-older-adults-are-faring-your-state-and-co
+ unty\n\nListed by The Local National's D.C. Conference Calendar. Confirm d
+ etails with the organizer before you go.\nhttps://offset-three-six.github.
+ io/tln-dc-conferences/#e-a8e680b4a94e
+URL:https://www.urban.org/events/see-how-older-adults-are-faring-your-state
+ -and-county
+CATEGORIES:Health
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

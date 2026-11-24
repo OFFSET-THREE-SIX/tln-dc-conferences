@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:66cea4ee8d3c@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261214T100000
+DTEND;TZID=America/New_York:20261214T140000
+SUMMARY:Office of the Deputy Mayor for Education's "Congress Heights Place-
+ Based Professional Learning Community" Meeting
+LOCATION:UDC Building 72\, Room W100 - Auditorium
+DESCRIPTION:Event Name: Congress Heights "PLC" Meeting Event Locator: 2026-
+ AAJGDA The Place-Based Professional Learning Community (PLC) aims to creat
+ e a cross-sector coalition of leaders working towards improving long-term 
+ outcomes for children and their families. Through school and neighborhood 
+ collaboration\, participants will…\n\nWhen: Monday\, Dec. 14\, 10 a.m. t
+ o 2 p.m.\nWhere: UDC Building 72\, Room W100 - Auditorium\nOrganizer: Univ
+ ersity of the District of Columbia\nFormat: In person\nEvent page: https:/
+ /www.udc.edu/events/\n\nListed by The Local National's D.C. Conference Cal
+ endar. Confirm details with the organizer before you go.\nhttps://offset-t
+ hree-six.github.io/tln-dc-conferences/#e-66cea4ee8d3c
+URL:https://www.udc.edu/events/
+CATEGORIES:TLN picks,Schools,Economy,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

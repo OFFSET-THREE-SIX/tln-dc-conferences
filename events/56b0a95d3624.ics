@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:56b0a95d3624@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270129
+SUMMARY:Apex 2027
+LOCATION:Walter E. Washington Convention Center\, 801 Allen Y. Lew Place NW
+ \, Washington\, DC 20001
+DESCRIPTION:Apex Defense gathers military personnel\, acquisition professio
+ nals\, technology companies and investors to work on operational challenge
+ s and defense innovation. Admission is limited to eligible attendees.\n\nW
+ hen: Jan. 27–28\, 2027\nWhere: Walter E. Washington Convention Center\, 
+ 801 Allen Y. Lew Place NW\, Washington\, DC 20001\nOrganizer: Clarion Defe
+ nce & Security\, in collaboration with Hudson Institute\nFormat: In person
+ \nCost: Industry $850\; small tech businesses and VC $500\; academia $400\
+ ; eligible military\, government and media free…\nEvent page: https://ev
+ entsdc.com/events/apex-2027\nRegister: https://forms.reg.buzz/apex-defense
+ -2027/page/step-1\n\nListed by The Local National's D.C. Conference Calend
+ ar. Confirm details with the organizer before you go.\nhttps://offset-thre
+ e-six.github.io/tln-dc-conferences/#e-56b0a95d3624
+URL:https://eventsdc.com/events/apex-2027
+CATEGORIES:Major conferences,Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

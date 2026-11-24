@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:63b16b6e62f3@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261207T120000
+DTEND;TZID=America/New_York:20261207T130000
+SUMMARY:December First Monday Forum: Sports Diplomacy Award
+LOCATION:Elliott School of International Affairs\, 1957 E Street\, NW\, Roo
+ m 602\, Washington\, D.C. 20052
+DESCRIPTION:The Public Diplomacy Council of America's December First Monday
+  Forum will honor Atlanta and Boston\, the recipients of the Council's spe
+ cial Sports Diplomacy Award. Prof. Jay Wang of the University of Southern 
+ California will keynote the event\, which will also include remarks by rep
+ resentatives of the two award…\n\nWhen: Monday\, Dec. 7\, noon to 1 p.m.
+ \nWhere: Elliott School of International Affairs\, 1957 E Street\, NW\, Ro
+ om 602\, Washington\, D.C. 20052\nOrganizer: George Washington University\
+ nFormat: In person\nCost: Free\nEvent page: https://calendar.gwu.edu/event
+ /december-first-monday-forum-sports-diplomacy-award\n\nListed by The Local
+  National's D.C. Conference Calendar. Confirm details with the organizer b
+ efore you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-63
+ b16b6e62f3
+URL:https://calendar.gwu.edu/event/december-first-monday-forum-sports-diplo
+ macy-award
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

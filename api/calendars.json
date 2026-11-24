@@ -1,0 +1,188 @@
+{
+ "name": "D.C. Conference Calendar",
+ "publisher": "The Local National",
+ "page_url": "https://offset-three-six.github.io/tln-dc-conferences/",
+ "updated": "2026-11-24T09:40:04-05:00",
+ "calendars": [
+  {
+   "slug": "all",
+   "name": "All events",
+   "kind": "all",
+   "feed_name": "The Local National: D.C. Conferences",
+   "description": "Every conference, summit and public forum on the calendar.",
+   "count": 37,
+   "links": {
+    "ics": "https://offset-three-six.github.io/tln-dc-conferences/feeds/all.ics",
+    "webcal": "webcal://offset-three-six.github.io/tln-dc-conferences/feeds/all.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fall.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fall.ics&name=The%20Local%20National%3A%20D.C.%20Conferences",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fall.ics&name=The%20Local%20National%3A%20D.C.%20Conferences"
+   }
+  },
+  {
+   "slug": "tln-picks",
+   "name": "TLN picks",
+   "kind": "segment",
+   "feed_name": "TLN D.C. Conferences: TLN picks",
+   "description": "The events most relevant to The Local National's beat: D.C. stories that show where national issues are headed.",
+   "count": 5,
+   "links": {
+    "ics": "https://offset-three-six.github.io/tln-dc-conferences/feeds/tln-picks.ics",
+    "webcal": "webcal://offset-three-six.github.io/tln-dc-conferences/feeds/tln-picks.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Ftln-picks.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Ftln-picks.ics&name=TLN%20D.C.%20Conferences%3A%20TLN%20picks",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Ftln-picks.ics&name=TLN%20D.C.%20Conferences%3A%20TLN%20picks"
+   }
+  },
+  {
+   "slug": "major",
+   "name": "Major conferences",
+   "kind": "segment",
+   "feed_name": "TLN D.C. Conferences: Major conferences",
+   "description": "Multi-day conferences, conventions and summits.",
+   "count": 8,
+   "links": {
+    "ics": "https://offset-three-six.github.io/tln-dc-conferences/feeds/major.ics",
+    "webcal": "webcal://offset-three-six.github.io/tln-dc-conferences/feeds/major.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fmajor.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fmajor.ics&name=TLN%20D.C.%20Conferences%3A%20Major%20conferences",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fmajor.ics&name=TLN%20D.C.%20Conferences%3A%20Major%20conferences"
+   }
+  },
+  {
+   "slug": "housing",
+   "name": "Housing",
+   "kind": "theme",
+   "feed_name": "TLN D.C. Conferences: Housing",
+   "description": "Housing, homelessness, zoning, rent and development.",
+   "count": 1,
+   "links": {
+    "ics": "https://offset-three-six.github.io/tln-dc-conferences/feeds/housing.ics",
+    "webcal": "webcal://offset-three-six.github.io/tln-dc-conferences/feeds/housing.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fhousing.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fhousing.ics&name=TLN%20D.C.%20Conferences%3A%20Housing",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fhousing.ics&name=TLN%20D.C.%20Conferences%3A%20Housing"
+   }
+  },
+  {
+   "slug": "schools",
+   "name": "Schools",
+   "kind": "theme",
+   "feed_name": "TLN D.C. Conferences: Schools",
+   "description": "Schools, education policy, students and teachers.",
+   "count": 5,
+   "links": {
+    "ics": "https://offset-three-six.github.io/tln-dc-conferences/feeds/schools.ics",
+    "webcal": "webcal://offset-three-six.github.io/tln-dc-conferences/feeds/schools.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fschools.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fschools.ics&name=TLN%20D.C.%20Conferences%3A%20Schools",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fschools.ics&name=TLN%20D.C.%20Conferences%3A%20Schools"
+   }
+  },
+  {
+   "slug": "home-rule",
+   "name": "Home rule",
+   "kind": "theme",
+   "feed_name": "TLN D.C. Conferences: Home rule",
+   "description": "Home rule, statehood, self-government and congressional oversight of the District.",
+   "count": 0,
+   "links": {
+    "ics": "https://offset-three-six.github.io/tln-dc-conferences/feeds/home-rule.ics",
+    "webcal": "webcal://offset-three-six.github.io/tln-dc-conferences/feeds/home-rule.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fhome-rule.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fhome-rule.ics&name=TLN%20D.C.%20Conferences%3A%20Home%20rule",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fhome-rule.ics&name=TLN%20D.C.%20Conferences%3A%20Home%20rule"
+   }
+  },
+  {
+   "slug": "federal-workforce",
+   "name": "Federal workforce",
+   "kind": "theme",
+   "feed_name": "TLN D.C. Conferences: Federal workforce",
+   "description": "Federal workers, the civil service and the government workforce.",
+   "count": 0,
+   "links": {
+    "ics": "https://offset-three-six.github.io/tln-dc-conferences/feeds/federal-workforce.ics",
+    "webcal": "webcal://offset-three-six.github.io/tln-dc-conferences/feeds/federal-workforce.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Ffederal-workforce.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Ffederal-workforce.ics&name=TLN%20D.C.%20Conferences%3A%20Federal%20workforce",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Ffederal-workforce.ics&name=TLN%20D.C.%20Conferences%3A%20Federal%20workforce"
+   }
+  },
+  {
+   "slug": "public-safety",
+   "name": "Public safety",
+   "kind": "theme",
+   "feed_name": "TLN D.C. Conferences: Public safety",
+   "description": "Public safety, policing, crime, courts and criminal justice.",
+   "count": 0,
+   "links": {
+    "ics": "https://offset-three-six.github.io/tln-dc-conferences/feeds/public-safety.ics",
+    "webcal": "webcal://offset-three-six.github.io/tln-dc-conferences/feeds/public-safety.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fpublic-safety.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fpublic-safety.ics&name=TLN%20D.C.%20Conferences%3A%20Public%20safety",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fpublic-safety.ics&name=TLN%20D.C.%20Conferences%3A%20Public%20safety"
+   }
+  },
+  {
+   "slug": "transit",
+   "name": "Transit",
+   "kind": "theme",
+   "feed_name": "TLN D.C. Conferences: Transit",
+   "description": "Metro, buses, streets, transportation and infrastructure.",
+   "count": 3,
+   "links": {
+    "ics": "https://offset-three-six.github.io/tln-dc-conferences/feeds/transit.ics",
+    "webcal": "webcal://offset-three-six.github.io/tln-dc-conferences/feeds/transit.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Ftransit.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Ftransit.ics&name=TLN%20D.C.%20Conferences%3A%20Transit",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Ftransit.ics&name=TLN%20D.C.%20Conferences%3A%20Transit"
+   }
+  },
+  {
+   "slug": "health",
+   "name": "Health",
+   "kind": "theme",
+   "feed_name": "TLN D.C. Conferences: Health",
+   "description": "Health care, public health, hospitals and mental health.",
+   "count": 8,
+   "links": {
+    "ics": "https://offset-three-six.github.io/tln-dc-conferences/feeds/health.ics",
+    "webcal": "webcal://offset-three-six.github.io/tln-dc-conferences/feeds/health.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fhealth.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fhealth.ics&name=TLN%20D.C.%20Conferences%3A%20Health",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fhealth.ics&name=TLN%20D.C.%20Conferences%3A%20Health"
+   }
+  },
+  {
+   "slug": "economy",
+   "name": "Economy",
+   "kind": "theme",
+   "feed_name": "TLN D.C. Conferences: Economy",
+   "description": "Jobs, wages, business, budgets, trade and technology.",
+   "count": 17,
+   "links": {
+    "ics": "https://offset-three-six.github.io/tln-dc-conferences/feeds/economy.ics",
+    "webcal": "webcal://offset-three-six.github.io/tln-dc-conferences/feeds/economy.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Feconomy.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Feconomy.ics&name=TLN%20D.C.%20Conferences%3A%20Economy",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Feconomy.ics&name=TLN%20D.C.%20Conferences%3A%20Economy"
+   }
+  },
+  {
+   "slug": "governance",
+   "name": "Government and democracy",
+   "kind": "theme",
+   "feed_name": "TLN D.C. Conferences: Government and democracy",
+   "description": "Elections, democracy, the courts, Congress and city government.",
+   "count": 12,
+   "links": {
+    "ics": "https://offset-three-six.github.io/tln-dc-conferences/feeds/governance.ics",
+    "webcal": "webcal://offset-three-six.github.io/tln-dc-conferences/feeds/governance.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fgovernance.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fgovernance.ics&name=TLN%20D.C.%20Conferences%3A%20Government%20and%20democracy",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Foffset-three-six.github.io%2Ftln-dc-conferences%2Ffeeds%2Fgovernance.ics&name=TLN%20D.C.%20Conferences%3A%20Government%20and%20democracy"
+   }
+  }
+ ]
+}

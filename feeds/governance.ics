@@ -1,0 +1,338 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TLN D.C. Conferences: Government and democracy
+NAME:TLN D.C. Conferences: Government and democracy
+X-WR-CALDESC:Elections\, democracy\, the courts\, Congress and city governm
+ ent. Free to use\, embed and republish with credit to The Local National (
+ thelocalnational.com). Confirm details with the organizer before you go.
+DESCRIPTION:Elections\, democracy\, the courts\, Congress and city governme
+ nt. Free to use\, embed and republish with credit to The Local National (t
+ helocalnational.com). Confirm details with the organizer before you go.
+X-WR-TIMEZONE:America/New_York
+URL:https://offset-three-six.github.io/tln-dc-conferences/
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+SOURCE;VALUE=URI:https://offset-three-six.github.io/tln-dc-conferences/feed
+ s/governance.ics
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6dc328fa8e4d@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261201T130000
+DTEND;TZID=America/New_York:20261201T160000
+SUMMARY:Launching the Center on Nonprofits and Philanthropy’s Democracy a
+ nd Civil Society Initiative
+LOCATION:Washington\, DC
+DESCRIPTION:In the culminating event to mark the Urban Institute’s Center
+  on Nonprofits and Philanthropy’s 30th anniversary\, leaders in research
+ \, philanthropy\, policy\, sector infrastructure\, and more will come toge
+ ther for the launch of the center’s Democracy and Civil Society Initiati
+ ve. The event will feature three panels…\n\nWhen: Tuesday\, Dec. 1\, 1
+ –4 p.m.\nWhere: Washington\, DC\nOrganizer: Urban Institute\nEvent page:
+  https://www.urban.org/events/launching-center-nonprofits-and-philanthropy
+ s-democracy-and-civil-society-initiative\n\nListed by The Local National's
+  D.C. Conference Calendar. Confirm details with the organizer before you g
+ o.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-6dc328fa8e4d
+URL:https://www.urban.org/events/launching-center-nonprofits-and-philanthro
+ pys-democracy-and-civil-society-initiative
+CATEGORIES:Transit,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ed850afb9929@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261202T173000
+DTEND;TZID=America/New_York:20261202T203000
+SUMMARY:Janeese Lewis George Youth/Student Forum
+LOCATION:UDC Building 56\, Room 110 - Executive Conference Room
+DESCRIPTION:Event Name: Janeese Lewis George Youth/Student Forum Event Loca
+ tor: 2026-AAJADC This is a citywide listening session in which young peopl
+ e and college students will express their needs and concerns to incoming m
+ ayor Janeese Lewis George and her team. Dr. Amanda Huron's POLI 336 will b
+ e working to help organize this…\n\nWhen: Wednesday\, Dec. 2\, 5:30–8:
+ 30 p.m.\nWhere: UDC Building 56\, Room 110 - Executive Conference Room\nOr
+ ganizer: University of the District of Columbia\nFormat: In person\nEvent 
+ page: https://www.udc.edu/events/\n\nListed by The Local National's D.C. C
+ onference Calendar. Confirm details with the organizer before you go.\nhtt
+ ps://offset-three-six.github.io/tln-dc-conferences/#e-ed850afb9929
+URL:https://www.udc.edu/events/
+CATEGORIES:TLN picks,Schools,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0e6b725617f8@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261203T170000
+DTEND;TZID=America/New_York:20261203T181500
+SUMMARY:The Second Annual Laurence H. Silberman Lecture on Constitutional G
+ overnance with Judge Jeffrey S. Sutton
+LOCATION:American Enterprise Institute
+DESCRIPTION:The AEI calendar feed doesn't say whether this is in person\; s
+ ome AEI events are online only\, so check the event page.\n\nWhen: Thursda
+ y\, Dec. 3\, 5–6:15 p.m.\nWhere: American Enterprise Institute\nOrganize
+ r: American Enterprise Institute\nEvent page: https://www.aei.org/events/t
+ he-second-annual-laurence-h-silberman-lecture-on-constitutional-governance
+ -with-judge-jeffrey-s-sutton/\n\nListed by The Local National's D.C. Confe
+ rence Calendar. Confirm details with the organizer before you go.\nhttps:/
+ /offset-three-six.github.io/tln-dc-conferences/#e-0e6b725617f8
+URL:https://www.aei.org/events/the-second-annual-laurence-h-silberman-lectu
+ re-on-constitutional-governance-with-judge-jeffrey-s-sutton/
+CATEGORIES:Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4de7a3febabc@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261207T090000
+DTEND;TZID=America/New_York:20261207T160000
+SUMMARY:2026 Elections Summit
+LOCATION:Washington\, DC
+DESCRIPTION:In a time of rapid change and evolving challenges to our electo
+ ral processes\, collective reflection and forward-looking strategy are mor
+ e important than ever. BPC’s 2026 Elections Summit will convene a divers
+ e group of election practitioners\, policymakers\, and thought leaders to 
+ debrief the November election and chart…\n\nWhen: Monday\, Dec. 7\, 9 a.
+ m. to 4 p.m.\nWhere: Washington\, DC\nOrganizer: Bipartisan Policy Center\
+ nEvent page: https://bipartisanpolicy.org/event/2026-elections-summit/\n\n
+ Listed by The Local National's D.C. Conference Calendar. Confirm details w
+ ith the organizer before you go.\nhttps://offset-three-six.github.io/tln-d
+ c-conferences/#e-4de7a3febabc
+URL:https://bipartisanpolicy.org/event/2026-elections-summit/
+CATEGORIES:Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:28558e198d55@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261208T100000
+DTEND;TZID=America/New_York:20261208T120000
+SUMMARY:Reimagining global economic governance: Challenges and opportunitie
+ s in a shifting geopolitical and technological landscape
+LOCATION:Washington\, DC
+DESCRIPTION:When: Tuesday\, Dec. 8\, 10 a.m.\nWhere: Washington\, DC\nOrgan
+ izer: Brookings Institution\nEvent page: https://www.brookings.edu/events/
+ reimagining-global-economic-governance-challenges-and-opportunities-in-a-s
+ hifting-geopolitical-and-technological-landscape/\n\nListed by The Local N
+ ational's D.C. Conference Calendar. Confirm details with the organizer bef
+ ore you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-2855
+ 8e198d55
+URL:https://www.brookings.edu/events/reimagining-global-economic-governance
+ -challenges-and-opportunities-in-a-shifting-geopolitical-and-technological
+ -landscape/
+CATEGORIES:Economy,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d4f06558b8ae@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261211T080000
+DTEND;TZID=America/New_York:20261211T110000
+SUMMARY:DC Chamber 2026 Annual Meeting and Chairman's Inaugural Breakfast
+LOCATION:Walter E. Washington Convention Center\, 801 Allen Y. Lew Place NW
+ \, Washington\, DC 20001
+DESCRIPTION:The DC Chamber's signature year-end event. It reviews the year\
+ , welcomes new board members\, inaugurates the incoming board chair and se
+ ts the business community's agenda for 2027. Remarks from Chamber Presiden
+ t and CEO Chinyere Hubbard. The Chamber's social posts list the breakfast 
+ and program as 9 to 11 a.m.\n\nWhen: Friday\, Dec. 11\, 8–11 a.m.\nWhere
+ : Walter E. Washington Convention Center\, 801 Allen Y. Lew Place NW\, Was
+ hington\, DC 20001\nOrganizer: DC Chamber of Commerce\nFormat: In person\n
+ Cost: Members $150\; non-members $215\nEvent page: https://dcchamber.org/e
+ vents/2026-annual-meeting-and-chairmans-innaugural-breakfast/\n\nListed by
+  The Local National's D.C. Conference Calendar. Confirm details with the o
+ rganizer before you go.\nhttps://offset-three-six.github.io/tln-dc-confere
+ nces/#e-d4f06558b8ae
+URL:https://dcchamber.org/events/2026-annual-meeting-and-chairmans-innaugur
+ al-breakfast/
+CATEGORIES:TLN picks,Economy,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:66cea4ee8d3c@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261214T100000
+DTEND;TZID=America/New_York:20261214T140000
+SUMMARY:Office of the Deputy Mayor for Education's "Congress Heights Place-
+ Based Professional Learning Community" Meeting
+LOCATION:UDC Building 72\, Room W100 - Auditorium
+DESCRIPTION:Event Name: Congress Heights "PLC" Meeting Event Locator: 2026-
+ AAJGDA The Place-Based Professional Learning Community (PLC) aims to creat
+ e a cross-sector coalition of leaders working towards improving long-term 
+ outcomes for children and their families. Through school and neighborhood 
+ collaboration\, participants will…\n\nWhen: Monday\, Dec. 14\, 10 a.m. t
+ o 2 p.m.\nWhere: UDC Building 72\, Room W100 - Auditorium\nOrganizer: Univ
+ ersity of the District of Columbia\nFormat: In person\nEvent page: https:/
+ /www.udc.edu/events/\n\nListed by The Local National's D.C. Conference Cal
+ endar. Confirm details with the organizer before you go.\nhttps://offset-t
+ hree-six.github.io/tln-dc-conferences/#e-66cea4ee8d3c
+URL:https://www.udc.edu/events/
+CATEGORIES:TLN picks,Schools,Economy,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e306f59d9ee1@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270115
+SUMMARY:2027 TRB Annual Meeting
+LOCATION:Walter E. Washington Convention Center and Marriott Marquis\, 801 
+ Allen Y. Lew Place NW\, Washington\, DC 20001
+DESCRIPTION:The 106th annual meeting of the Transportation Research Board: 
+ 500+ sessions and workshops and 100+ technical committee meetings across e
+ very transportation mode. Thousands of transportation officials\, research
+ ers and industry representatives attend.\n\nWhen: Jan. 10–14\, 2027\nWhe
+ re: Walter E. Washington Convention Center and Marriott Marquis\, 801 Alle
+ n Y. Lew Place NW\, Washington\, DC 20001\nOrganizer: Transportation Resea
+ rch Board (National Academies)\nFormat: In person\nCost: Early-bird closed
+  Nov. 18\; advance registration Nov. 19 to Jan. 7\; onsite from Jan. 8\nEv
+ ent page: https://www.nationalacademies.org/events/887\nRegister: https://
+ www.nationalacademies.org/events/887/registration-2\n\nListed by The Local
+  National's D.C. Conference Calendar. Confirm details with the organizer b
+ efore you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-e3
+ 06f59d9ee1
+URL:https://www.nationalacademies.org/events/887
+CATEGORIES:TLN picks,Major conferences,Transit,Economy,Government and democ
+ racy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6b92d31e069e@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20270125T090000
+DTEND;TZID=America/New_York:20270125T203000
+SUMMARY:2027 Society for the Rule of Law Summit
+LOCATION:The Ritz-Carlton\, Washington\, DC\, 1150 22nd Street NW\, Washing
+ ton\, DC 20037
+DESCRIPTION:Daylong annual summit of lawyers\, former officials and scholar
+ s on the rule of law\, executive power and the courts.\n\nWhen: Monday\, J
+ an. 25\, 2027\, 9 a.m. to 8:30 p.m.\nWhere: The Ritz-Carlton\, Washington\
+ , DC\, 1150 22nd Street NW\, Washington\, DC 20037\nOrganizer: Society for
+  the Rule of Law\nFormat: In person\nCost: Ticketed\nEvent page: https://s
+ ocietyfortheruleoflaw.org/srl-summit-2027/\nRegister: https://www.eventbri
+ te.com/e/2027-society-for-the-rule-of-law-summit-tickets-2004031747905\n\n
+ Listed by The Local National's D.C. Conference Calendar. Confirm details w
+ ith the organizer before you go.\nhttps://offset-three-six.github.io/tln-d
+ c-conferences/#e-6b92d31e069e
+URL:https://societyfortheruleoflaw.org/srl-summit-2027/
+CATEGORIES:Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1c4e5d837946@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270211
+SUMMARY:2027 Community College National Legislative Summit
+LOCATION:Marriott Marquis Washington\, DC\, 901 Massachusetts Avenue NW\, W
+ ashington\, DC 20001
+DESCRIPTION:The main federal advocacy event for community colleges. More th
+ an 1\,000 trustees\, presidents and students meet in Washington to lobby C
+ ongress.\n\nWhen: Feb. 7–10\, 2027\nWhere: Marriott Marquis Washington\,
+  DC\, 901 Massachusetts Avenue NW\, Washington\, DC 20001\nOrganizer: Asso
+ ciation of Community College Trustees (ACCT)\nFormat: In person\nEvent pag
+ e: https://www.acct.org/events/nls\n\nListed by The Local National's D.C. 
+ Conference Calendar. Confirm details with the organizer before you go.\nht
+ tps://offset-three-six.github.io/tln-dc-conferences/#e-1c4e5d837946
+URL:https://www.acct.org/events/nls
+CATEGORIES:Major conferences,Schools,Economy,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cba63390de1c@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270224
+SUMMARY:2027 NACo Legislative Conference
+LOCATION:Washington Hilton\, 1919 Connecticut Avenue NW\, Washington\, DC 2
+ 0009
+DESCRIPTION:Annual Washington gathering where nearly 2\,000 elected and app
+ ointed county officials meet federal decision-makers and press their feder
+ al priorities. An optional pre-conference runs Feb. 19.\n\nWhen: Feb. 20
+ –23\, 2027\nWhere: Washington Hilton\, 1919 Connecticut Avenue NW\, Wash
+ ington\, DC 20009\nOrganizer: National Association of Counties (NACo)\nFor
+ mat: In person\nEvent page: https://www.naco.org/event/2027-naco-legislati
+ ve-conference\nRegister: https://member.naco.org/Events/Register/e5ebc3f0-
+ dda2-f111-b8dd-7ced8d6e6157\n\nListed by The Local National's D.C. Confere
+ nce Calendar. Confirm details with the organizer before you go.\nhttps://o
+ ffset-three-six.github.io/tln-dc-conferences/#e-cba63390de1c
+URL:https://www.naco.org/event/2027-naco-legislative-conference
+CATEGORIES:TLN picks,Major conferences,Economy,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0ae3073a5f71@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270301
+SUMMARY:Principles First 2027 Summit
+LOCATION:The Watergate Hotel\, 2650 Virginia Avenue NW\, Washington\, DC 20
+ 037
+DESCRIPTION:Seventh annual summit of the center-right pro-democracy group P
+ rinciples First\, with speakers\, panels and exhibitors.\n\nWhen: Feb. 26
+ –28\, 2027\nWhere: The Watergate Hotel\, 2650 Virginia Avenue NW\, Washi
+ ngton\, DC 20037\nOrganizer: Principles First\nFormat: In person\nCost: Ti
+ cketed\nEvent page: https://www.principlesfirst.us/summit/principles-first
+ -2027-summit/\nRegister: https://www.eventbrite.com/e/2027-principles-firs
+ t-summit-tickets-2004091356195\n\nListed by The Local National's D.C. Conf
+ erence Calendar. Confirm details with the organizer before you go.\nhttps:
+ //offset-three-six.github.io/tln-dc-conferences/#e-0ae3073a5f71
+URL:https://www.principlesfirst.us/summit/principles-first-2027-summit/
+CATEGORIES:Major conferences,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

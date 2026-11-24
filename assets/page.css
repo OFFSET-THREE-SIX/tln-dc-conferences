@@ -1,0 +1,31 @@
+/* Standalone page and embed chrome for the D.C. Conference Calendar. */
+:root { color-scheme: light; }
+body.tlncc-page, body.tlncc-embed { margin: 0; background: #F3EBDD; color: #1A1714; font-family: Newsreader, Georgia, 'Times New Roman', serif; line-height: 1.5; -webkit-text-size-adjust: 100%; }
+.wrap { max-width: 860px; margin: 0 auto; padding: 0 1.1rem; }
+.masthead { background: #1A1714; color: #F3EBDD; border-bottom: 4px solid #BF2A1E; }
+.masthead .wrap { display: flex; align-items: center; justify-content: space-between; gap: 1rem; min-height: 3.6rem; }
+.brand { font: 700 1.3rem/1 Fraunces, Georgia, serif; color: #F3EBDD; text-decoration: none; letter-spacing: -.01em; }
+.masthead nav { display: flex; gap: 1rem; }
+.masthead nav a { font: 700 .75rem/1 Archivo, Helvetica, Arial, sans-serif; color: #E9DFCB; text-decoration: none; text-transform: uppercase; letter-spacing: .1em; }
+.masthead nav a:hover { color: #fff; }
+.intro { padding: 2rem 0 1.4rem; }
+.kicker { font: 800 .75rem/1 Archivo, Helvetica, Arial, sans-serif; letter-spacing: .14em; text-transform: uppercase; color: #BF2A1E; margin: 0 0 .7rem; }
+.intro h1 { font: 700 clamp(2.1rem, 8vw, 3.4rem)/1.02 Fraunces, Georgia, serif; margin: 0 0 .8rem; letter-spacing: -.02em; }
+.dek { font-size: 1.2rem; line-height: 1.45; margin: 0 0 .8rem; max-width: 38em; }
+.stamp { font: .8125rem/1.45 Archivo, Helvetica, Arial, sans-serif; color: #5C554B; margin: 0; }
+.tlncc-page .tlncc-tools { position: sticky; top: 0; z-index: 10; background: #F3EBDD; }
+.about { margin: 3rem 0 2rem; display: grid; gap: 1.75rem; border-top: 3px solid #1A1714; padding-top: 1.5rem; }
+.about h2 { font: 700 1.35rem/1.2 Fraunces, Georgia, serif; margin: 0 0 .45rem; }
+.about p { margin: 0 0 .7rem; font-size: 1.05rem; line-height: 1.55; }
+.about ul { margin: 0 0 .65rem; padding-left: 1.1rem; }
+.about li { margin: .2rem 0; }
+.about pre { background: #FFFDF8; border: 1px solid rgba(26, 23, 20, .16); padding: .75rem; overflow: auto; font: .75rem/1.5 ui-monospace, Menlo, Consolas, monospace; white-space: pre-wrap; word-break: break-all; margin: .4rem 0 .9rem; }
+.about a { color: #BF2A1E; }
+.about .small { font: .8125rem/1.5 Archivo, Helvetica, Arial, sans-serif; color: #5C554B; }
+.sitefoot { border-top: 1px solid rgba(26, 23, 20, .16); padding: 1.25rem 0 2.5rem; font: .8125rem/1.5 Archivo, Helvetica, Arial, sans-serif; color: #5C554B; }
+.sitefoot a { color: inherit; }
+@media (min-width: 760px) { .about { grid-template-columns: 1fr 1fr; } .about .wide { grid-column: 1 / -1; } }
+.embedhead { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; padding: 1rem 1rem .6rem; font: 600 .8125rem/1.2 Archivo, Helvetica, Arial, sans-serif; color: #5C554B; }
+.embedhead strong { font: 700 1.2rem/1.1 Fraunces, Georgia, serif; color: #1A1714; }
+.embedhead a { color: #BF2A1E; }
+.tlncc-embed .tlncc { padding: 0 1rem 1rem; }

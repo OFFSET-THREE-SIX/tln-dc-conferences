@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e3ebd10d292a@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261211
+SUMMARY:2nd Annual Food and Agriculture Policy Week
+LOCATION:Capitol Hill and George Washington University\, Washington\, DC
+DESCRIPTION:Three days of food and agriculture policy events on the Hill an
+ d at GW with 70+ speakers. Includes GW's Dec. 10 Food and Agriculture Poli
+ cy Summit\, listed separately.\n\nWhen: Dec. 8–10\nWhere: Capitol Hill a
+ nd George Washington University\, Washington\, DC\nOrganizer: Food Tank\, 
+ Global Food Institute at GW\, José Andrés\, Culinary Institute of Americ
+ a\, Sprouts Healthy Communities Foundation\nFormat: In person\nEvent page:
+  https://foodtank.com/event/2nd-annual-food-agriculture-policy-week-full-s
+ eries/\nRegister: https://www.eventbrite.com/e/2nd-annual-food-and-agricul
+ ture-policy-summit-week-tickets-1995499841744\n\nListed by The Local Natio
+ nal's D.C. Conference Calendar. Confirm details with the organizer before 
+ you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-e3ebd10d
+ 292a
+URL:https://foodtank.com/event/2nd-annual-food-agriculture-policy-week-full
+ -series/
+CATEGORIES:Major conferences,Health,Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

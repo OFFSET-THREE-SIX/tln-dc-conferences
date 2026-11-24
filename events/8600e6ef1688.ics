@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:8600e6ef1688@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:2nd Annual Food and Agriculture Policy Summit
+LOCATION:Dorothy Betts Theater
+DESCRIPTION:Join Food Tank\, the Global Food Institute at George Washington
+  University\, José Andrés\, the United Nations Food and Agriculture Orga
+ nization\, the Culinary Institute of America\, the Food is Medicine Instit
+ ute at Tufts University\, ReFED\, American Frozen Food Institute\, Oatly\,
+  Driscoll’s\, and the Sprouts Healthy…\n\nWhen: Thursday\, Dec. 10\nWh
+ ere: Dorothy Betts Theater\nOrganizer: George Washington University\nForma
+ t: In person\nCost: Free\nEvent page: https://calendar.gwu.edu/event/2nd-a
+ nnual-food-and-agriculture-policy-summit\nRegister: https://www.eventbrite
+ .com/e/2nd-annual-food-and-agriculture-policy-summit-week-tickets-19954998
+ 41744\n\nListed by The Local National's D.C. Conference Calendar. Confirm 
+ details with the organizer before you go.\nhttps://offset-three-six.github
+ .io/tln-dc-conferences/#e-8600e6ef1688
+URL:https://calendar.gwu.edu/event/2nd-annual-food-and-agriculture-policy-s
+ ummit
+CATEGORIES:Health
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6dc328fa8e4d@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261201T130000
+DTEND;TZID=America/New_York:20261201T160000
+SUMMARY:Launching the Center on Nonprofits and Philanthropy’s Democracy a
+ nd Civil Society Initiative
+LOCATION:Washington\, DC
+DESCRIPTION:In the culminating event to mark the Urban Institute’s Center
+  on Nonprofits and Philanthropy’s 30th anniversary\, leaders in research
+ \, philanthropy\, policy\, sector infrastructure\, and more will come toge
+ ther for the launch of the center’s Democracy and Civil Society Initiati
+ ve. The event will feature three panels…\n\nWhen: Tuesday\, Dec. 1\, 1
+ –4 p.m.\nWhere: Washington\, DC\nOrganizer: Urban Institute\nEvent page:
+  https://www.urban.org/events/launching-center-nonprofits-and-philanthropy
+ s-democracy-and-civil-society-initiative\n\nListed by The Local National's
+  D.C. Conference Calendar. Confirm details with the organizer before you g
+ o.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-6dc328fa8e4d
+URL:https://www.urban.org/events/launching-center-nonprofits-and-philanthro
+ pys-democracy-and-civil-society-initiative
+CATEGORIES:Transit,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

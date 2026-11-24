@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:010fce3ee13a@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270214
+SUMMARY:Howard University African Studies International Conference 2027
+LOCATION:Howard University
+DESCRIPTION:Get ready for 2 days of discussions\, presentations\, & network
+ ing at the Howard University African Studies International Conference. The
+  Howard University African Studies International Conference is set for Feb
+ ruary 12 - 13\, 2027\, under the theme: "AI and Transformation in Global A
+ frica." The Department of African…\n\nWhen: Feb. 12–13\, 2027\nWhere: 
+ Howard University\nOrganizer: Howard University\nFormat: In person and onl
+ ine\nEvent page: https://events.howard.edu/event/howard-university-african
+ -studies-international-conference-2027\nRegister: https://www.eventbrite.c
+ om/e/2027-howard-university-african-studies-international-conference-ticke
+ ts-1990338326513?aff=oddtdtcreator\n\nListed by The Local National's D.C. 
+ Conference Calendar. Confirm details with the organizer before you go.\nht
+ tps://offset-three-six.github.io/tln-dc-conferences/#e-010fce3ee13a
+URL:https://events.howard.edu/event/howard-university-african-studies-inter
+ national-conference-2027
+CATEGORIES:Major conferences,Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

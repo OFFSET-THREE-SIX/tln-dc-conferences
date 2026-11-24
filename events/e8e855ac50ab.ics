@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e8e855ac50ab@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261209T130000
+DTEND;TZID=America/New_York:20261209T141500
+SUMMARY:Using Climate Scenarios to Build Health Resilience in Gulf Coast Co
+ mmunities
+LOCATION:Washington\, DC
+DESCRIPTION:Communities across the Gulf Coast face growing health risks fro
+ m hurricanes\, extreme heat\, flooding\, and other climate-related disaste
+ rs. As local leaders work to strengthen disaster preparedness and resilien
+ ce\, scenario planning can help communities grapple with uncertain futures
+  and develop more equitable and…\n\nWhen: Wednesday\, Dec. 9\, 1–2:15 
+ p.m.\nWhere: Washington\, DC\nOrganizer: Urban Institute\nEvent page: http
+ s://www.urban.org/events/using-climate-scenarios-build-health-resilience-g
+ ulf-coast-communities\n\nListed by The Local National's D.C. Conference Ca
+ lendar. Confirm details with the organizer before you go.\nhttps://offset-
+ three-six.github.io/tln-dc-conferences/#e-e8e855ac50ab
+URL:https://www.urban.org/events/using-climate-scenarios-build-health-resil
+ ience-gulf-coast-communities
+CATEGORIES:Health
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

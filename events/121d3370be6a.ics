@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:121d3370be6a@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20270219T130000
+DTEND;TZID=America/New_York:20270219T150000
+SUMMARY:Ninth Annual GGCI Student Research Summit
+LOCATION:To be confirmed.\, Georgetown University\, Washington\, DC
+DESCRIPTION:Please join us as students from across programs and schools sha
+ re their original research\, covering topics including rapid urbanization\
+ , technology adoption\, affordable housing\, transport systems\, and urban
+  environmental health.\n\nWhen: Friday\, Feb. 19\, 2027\, 1 p.m.\nWhere: T
+ o be confirmed.\, Georgetown University\, Washington\, DC\nOrganizer: Geor
+ getown University: Georgetown Global Cities Initiative\nFormat: In person\
+ nEvent page: https://events.georgetown.edu/global-cities/event/41606-ninth
+ -annual-ggci-student-research-summit\n\nListed by The Local National's D.C
+ . Conference Calendar. Confirm details with the organizer before you go.\n
+ https://offset-three-six.github.io/tln-dc-conferences/#e-121d3370be6a
+URL:https://events.georgetown.edu/global-cities/event/41606-ninth-annual-gg
+ ci-student-research-summit
+CATEGORIES:Housing,Schools,Health
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

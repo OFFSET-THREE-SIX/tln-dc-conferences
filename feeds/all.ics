@@ -1,0 +1,961 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Local National: D.C. Conferences
+NAME:The Local National: D.C. Conferences
+X-WR-CALDESC:Every conference\, summit and public forum on the calendar. Fr
+ ee to use\, embed and republish with credit to The Local National (theloca
+ lnational.com). Confirm details with the organizer before you go.
+DESCRIPTION:Every conference\, summit and public forum on the calendar. Fre
+ e to use\, embed and republish with credit to The Local National (thelocal
+ national.com). Confirm details with the organizer before you go.
+X-WR-TIMEZONE:America/New_York
+URL:https://offset-three-six.github.io/tln-dc-conferences/
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+SOURCE;VALUE=URI:https://offset-three-six.github.io/tln-dc-conferences/feed
+ s/all.ics
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:de9b4b25a5fa@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261130T090000
+DTEND;TZID=America/New_York:20261130T110000
+SUMMARY:Energy\, trade\, and the US-Canada partnership: A conversation with
+  Canada’s minister of energy and natural resources
+LOCATION:Washington\, DC
+DESCRIPTION:When: Monday\, Nov. 30\, 9 a.m.\nWhere: Washington\, DC\nOrgani
+ zer: Brookings Institution\nEvent page: https://www.brookings.edu/events/e
+ nergy-trade-and-the-us-canada-partnership-a-conversation-with-canadas-mini
+ ster-of-energy-and-natural-resources/\n\nListed by The Local National's D.
+ C. Conference Calendar. Confirm details with the organizer before you go.\
+ nhttps://offset-three-six.github.io/tln-dc-conferences/#e-de9b4b25a5fa
+URL:https://www.brookings.edu/events/energy-trade-and-the-us-canada-partner
+ ship-a-conversation-with-canadas-minister-of-energy-and-natural-resources/
+CATEGORIES:Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:64e4764f470b@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261201T090000
+DTEND;TZID=America/New_York:20261201T173000
+SUMMARY:Sixth Annual AI in Action Conference: Who Does What? AI\, Trade\, a
+ nd Work
+LOCATION:Fisher Colloquium\, Rafik B. Hariri Building\, Georgetown Universi
+ ty\, Washington\, DC
+DESCRIPTION:Artificial intelligence is fundamentally rewiring how tasks in 
+ goods\, services\, and ideas are distributed across firms\, borders\, and 
+ human-machine teams. This conference co-hosted with the World Bank convene
+ s leading minds to examine how AI is shifting trade costs\, redefining com
+ parative advantage\, and reshaping the…\n\nWhen: Tuesday\, Dec. 1\, 9 a.
+ m. to 5:30 p.m.\nWhere: Fisher Colloquium\, Rafik B. Hariri Building\, Geo
+ rgetown University\, Washington\, DC\nOrganizer: Georgetown University: Ce
+ nter for Business & Public Policy\nFormat: In person\nCost: Free\nEvent pa
+ ge: https://events.georgetown.edu/live/events/43110-sixth-annual-ai-in-act
+ ion-conference-who-does-what\n\nListed by The Local National's D.C. Confer
+ ence Calendar. Confirm details with the organizer before you go.\nhttps://
+ offset-three-six.github.io/tln-dc-conferences/#e-64e4764f470b
+URL:https://events.georgetown.edu/live/events/43110-sixth-annual-ai-in-acti
+ on-conference-who-does-what
+CATEGORIES:Health,Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bcec09ca118e@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261201T120000
+DTEND;TZID=America/New_York:20261201T130000
+SUMMARY:Aging of America: Supporting Family Caregivers and Direct Care Work
+ ers
+LOCATION:Washington\, DC
+DESCRIPTION:The nation faces a severe\, longstanding shortage of direct car
+ e workers to serve older adults and Americans with disabilities. Increasin
+ g need\, uncompetitive wages\, high turnover\, and a fragmented system hav
+ e left too few workers to meet growing demand. Family caregivers are often
+  left to fill gaps in care\, which can…\n\nWhen: Tuesday\, Dec. 1\, noon
+  to 1 p.m.\nWhere: Washington\, DC\nOrganizer: Bipartisan Policy Center\nE
+ vent page: https://bipartisanpolicy.org/event/aging-of-america-supporting-
+ family-caregivers-and-direct-care-workers/\n\nListed by The Local National
+ 's D.C. Conference Calendar. Confirm details with the organizer before you
+  go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-bcec09ca118
+ e
+URL:https://bipartisanpolicy.org/event/aging-of-america-supporting-family-c
+ aregivers-and-direct-care-workers/
+CATEGORIES:Health,Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6dc328fa8e4d@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261201T130000
+DTEND;TZID=America/New_York:20261201T160000
+SUMMARY:Launching the Center on Nonprofits and Philanthropy’s Democracy a
+ nd Civil Society Initiative
+LOCATION:Washington\, DC
+DESCRIPTION:In the culminating event to mark the Urban Institute’s Center
+  on Nonprofits and Philanthropy’s 30th anniversary\, leaders in research
+ \, philanthropy\, policy\, sector infrastructure\, and more will come toge
+ ther for the launch of the center’s Democracy and Civil Society Initiati
+ ve. The event will feature three panels…\n\nWhen: Tuesday\, Dec. 1\, 1
+ –4 p.m.\nWhere: Washington\, DC\nOrganizer: Urban Institute\nEvent page:
+  https://www.urban.org/events/launching-center-nonprofits-and-philanthropy
+ s-democracy-and-civil-society-initiative\n\nListed by The Local National's
+  D.C. Conference Calendar. Confirm details with the organizer before you g
+ o.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-6dc328fa8e4d
+URL:https://www.urban.org/events/launching-center-nonprofits-and-philanthro
+ pys-democracy-and-civil-society-initiative
+CATEGORIES:Transit,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:340b4678e070@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261201T133000
+DTEND;TZID=America/New_York:20261201T170000
+SUMMARY:Polar Opposites? Geopolitics in the Arctic and Antarctic
+LOCATION:Atlantic Council Headquarters\, 1400 L Street NW • Floor 11\, Wa
+ shington\, DC
+DESCRIPTION:At the inaugural Atlantic Council Polar Forum\, experts examine
+  how great power competition is reshaping both the Arctic and Antarctic\, 
+ and how policymakers can turn growing attention into concrete action.\n\nW
+ hen: Tuesday\, Dec. 1\, 1:30–5 p.m.\nWhere: Atlantic Council Headquarter
+ s\, 1400 L Street NW • Floor 11\, Washington\, DC\nOrganizer: Atlantic C
+ ouncil\nFormat: In person\nEvent page: https://www.atlanticcouncil.org/eve
+ nt/polar-opposites-geopolitics-in-the-arctic-and-antarctic/\n\nListed by T
+ he Local National's D.C. Conference Calendar. Confirm details with the org
+ anizer before you go.\nhttps://offset-three-six.github.io/tln-dc-conferenc
+ es/#e-340b4678e070
+URL:https://www.atlanticcouncil.org/event/polar-opposites-geopolitics-in-th
+ e-arctic-and-antarctic/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a84c1c2db415@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261201T150000
+DTEND;TZID=America/New_York:20261201T170000
+SUMMARY:The working person’s bank account: A new proposal for universal b
+ anking
+LOCATION:Washington\, DC
+DESCRIPTION:When: Tuesday\, Dec. 1\, 3 p.m.\nWhere: Washington\, DC\nOrgani
+ zer: Brookings Institution\nEvent page: https://www.brookings.edu/events/t
+ he-working-persons-bank-account-a-new-proposal-for-universal-banking/\n\nL
+ isted by The Local National's D.C. Conference Calendar. Confirm details wi
+ th the organizer before you go.\nhttps://offset-three-six.github.io/tln-dc
+ -conferences/#e-a84c1c2db415
+URL:https://www.brookings.edu/events/the-working-persons-bank-account-a-new
+ -proposal-for-universal-banking/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:edeaea70bb3e@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261202T093000
+DTEND;TZID=America/New_York:20261202T113000
+SUMMARY:Can AI build more shared power and trust in health for Black commun
+ ities?
+LOCATION:Washington\, DC
+DESCRIPTION:When: Wednesday\, Dec. 2\, 9:30 a.m.\nWhere: Washington\, DC\nO
+ rganizer: Brookings Institution\nEvent page: https://www.brookings.edu/eve
+ nts/can-ai-build-more-shared-power-and-trust-in-health-for-black-communiti
+ es/\n\nListed by The Local National's D.C. Conference Calendar. Confirm de
+ tails with the organizer before you go.\nhttps://offset-three-six.github.i
+ o/tln-dc-conferences/#e-edeaea70bb3e
+URL:https://www.brookings.edu/events/can-ai-build-more-shared-power-and-tru
+ st-in-health-for-black-communities/
+CATEGORIES:Health,Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:def7f1432b1e@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261202T124500
+DTEND;TZID=America/New_York:20261202T151500
+SUMMARY:Interrogating GW: An American Studies Undergraduate Conference
+LOCATION:Gelman Library\, 2130 H Street NW\, Washington DC 20052
+DESCRIPTION:Join the American Studies Department for this year's Interrogat
+ ing GW Conference. Consisting of student papers and presentations\, the co
+ nference features the work of GW American Studies majors who are completin
+ g their capstone paper and project for their degree.\n\nWhen: Wednesday\, 
+ Dec. 2\, 12:45–3:15 p.m.\nWhere: Gelman Library\, 2130 H Street NW\, Was
+ hington DC 20052\nOrganizer: George Washington University\nFormat: In pers
+ on\nEvent page: https://calendar.gwu.edu/event/interrogating-gw-an-america
+ n-studies-undergraduate-conference\n\nListed by The Local National's D.C. 
+ Conference Calendar. Confirm details with the organizer before you go.\nht
+ tps://offset-three-six.github.io/tln-dc-conferences/#e-def7f1432b1e
+URL:https://calendar.gwu.edu/event/interrogating-gw-an-american-studies-und
+ ergraduate-conference
+CATEGORIES:Schools
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7eecf33724e9@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261202T160000
+DTEND;TZID=America/New_York:20261202T171500
+SUMMARY:The Myth of Transferable Skills
+LOCATION:American Enterprise Institute
+DESCRIPTION:The AEI calendar feed doesn't say whether this is in person\; s
+ ome AEI events are online only\, so check the event page.\n\nWhen: Wednesd
+ ay\, Dec. 2\, 4–5:15 p.m.\nWhere: American Enterprise Institute\nOrganiz
+ er: American Enterprise Institute\nEvent page: https://www.aei.org/events/
+ the-myth-of-transferable-skills/\n\nListed by The Local National's D.C. Co
+ nference Calendar. Confirm details with the organizer before you go.\nhttp
+ s://offset-three-six.github.io/tln-dc-conferences/#e-7eecf33724e9
+URL:https://www.aei.org/events/the-myth-of-transferable-skills/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ed850afb9929@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261202T173000
+DTEND;TZID=America/New_York:20261202T203000
+SUMMARY:Janeese Lewis George Youth/Student Forum
+LOCATION:UDC Building 56\, Room 110 - Executive Conference Room
+DESCRIPTION:Event Name: Janeese Lewis George Youth/Student Forum Event Loca
+ tor: 2026-AAJADC This is a citywide listening session in which young peopl
+ e and college students will express their needs and concerns to incoming m
+ ayor Janeese Lewis George and her team. Dr. Amanda Huron's POLI 336 will b
+ e working to help organize this…\n\nWhen: Wednesday\, Dec. 2\, 5:30–8:
+ 30 p.m.\nWhere: UDC Building 56\, Room 110 - Executive Conference Room\nOr
+ ganizer: University of the District of Columbia\nFormat: In person\nEvent 
+ page: https://www.udc.edu/events/\n\nListed by The Local National's D.C. C
+ onference Calendar. Confirm details with the organizer before you go.\nhtt
+ ps://offset-three-six.github.io/tln-dc-conferences/#e-ed850afb9929
+URL:https://www.udc.edu/events/
+CATEGORIES:TLN picks,Schools,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8cebd13d5967@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261203T130000
+DTEND;TZID=America/New_York:20261203T161500
+SUMMARY:Who Shares in the Gains? Income\, Wealth\, and How Communities Can 
+ Thrive as AI Advances
+LOCATION:Washington\, DC
+DESCRIPTION:Wealth in the United States is more concentrated today than at 
+ any point in decades. Income covers daily needs\, but wealth helps familie
+ s weather shocks and pass security on to the next generation. That distinc
+ tion may matter more as artificial intelligence and robotics change how we
+  work\, potentially shifting returns…\n\nWhen: Thursday\, Dec. 3\, 1–4
+ :15 p.m.\nWhere: Washington\, DC\nOrganizer: Urban Institute\nEvent page: 
+ https://www.urban.org/events/who-shares-gains-income-wealth-and-how-commun
+ ities-can-thrive-ai-advances\n\nListed by The Local National's D.C. Confer
+ ence Calendar. Confirm details with the organizer before you go.\nhttps://
+ offset-three-six.github.io/tln-dc-conferences/#e-8cebd13d5967
+URL:https://www.urban.org/events/who-shares-gains-income-wealth-and-how-com
+ munities-can-thrive-ai-advances
+CATEGORIES:Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0e6b725617f8@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261203T170000
+DTEND;TZID=America/New_York:20261203T181500
+SUMMARY:The Second Annual Laurence H. Silberman Lecture on Constitutional G
+ overnance with Judge Jeffrey S. Sutton
+LOCATION:American Enterprise Institute
+DESCRIPTION:The AEI calendar feed doesn't say whether this is in person\; s
+ ome AEI events are online only\, so check the event page.\n\nWhen: Thursda
+ y\, Dec. 3\, 5–6:15 p.m.\nWhere: American Enterprise Institute\nOrganize
+ r: American Enterprise Institute\nEvent page: https://www.aei.org/events/t
+ he-second-annual-laurence-h-silberman-lecture-on-constitutional-governance
+ -with-judge-jeffrey-s-sutton/\n\nListed by The Local National's D.C. Confe
+ rence Calendar. Confirm details with the organizer before you go.\nhttps:/
+ /offset-three-six.github.io/tln-dc-conferences/#e-0e6b725617f8
+URL:https://www.aei.org/events/the-second-annual-laurence-h-silberman-lectu
+ re-on-constitutional-governance-with-judge-jeffrey-s-sutton/
+CATEGORIES:Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:757248e5437d@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261204T090000
+DTEND;TZID=America/New_York:20261204T170000
+SUMMARY:18th GW China Conference
+LOCATION:The Elliott School of International Affairs\, 1957 E Street NW Was
+ hington DC 20052 US
+DESCRIPTION:The GW China Conference brings together scholars and policy exp
+ erts to examine China’s economic development\, U.S.–China economic rel
+ ations\, and their implications for the global economy. Hosted by GW’s I
+ nstitute for International Economic Policy\, the 18th annual conference wi
+ ll explore China’s green industrial…\n\nWhen: Friday\, Dec. 4\, 9 a.m.
+  to 5 p.m.\nWhere: The Elliott School of International Affairs\, 1957 E St
+ reet NW Washington DC 20052 US\nOrganizer: George Washington University\nF
+ ormat: In person and online\nEvent page: https://calendar.gwu.edu/event/18
+ th-gw-china-conference\nRegister: https://iiep.gwu.edu/18th-gw-china-confe
+ rence\n\nListed by The Local National's D.C. Conference Calendar. Confirm 
+ details with the organizer before you go.\nhttps://offset-three-six.github
+ .io/tln-dc-conferences/#e-757248e5437d
+URL:https://calendar.gwu.edu/event/18th-gw-china-conference
+CATEGORIES:Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4de7a3febabc@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261207T090000
+DTEND;TZID=America/New_York:20261207T160000
+SUMMARY:2026 Elections Summit
+LOCATION:Washington\, DC
+DESCRIPTION:In a time of rapid change and evolving challenges to our electo
+ ral processes\, collective reflection and forward-looking strategy are mor
+ e important than ever. BPC’s 2026 Elections Summit will convene a divers
+ e group of election practitioners\, policymakers\, and thought leaders to 
+ debrief the November election and chart…\n\nWhen: Monday\, Dec. 7\, 9 a.
+ m. to 4 p.m.\nWhere: Washington\, DC\nOrganizer: Bipartisan Policy Center\
+ nEvent page: https://bipartisanpolicy.org/event/2026-elections-summit/\n\n
+ Listed by The Local National's D.C. Conference Calendar. Confirm details w
+ ith the organizer before you go.\nhttps://offset-three-six.github.io/tln-d
+ c-conferences/#e-4de7a3febabc
+URL:https://bipartisanpolicy.org/event/2026-elections-summit/
+CATEGORIES:Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:63b16b6e62f3@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261207T120000
+DTEND;TZID=America/New_York:20261207T130000
+SUMMARY:December First Monday Forum: Sports Diplomacy Award
+LOCATION:Elliott School of International Affairs\, 1957 E Street\, NW\, Roo
+ m 602\, Washington\, D.C. 20052
+DESCRIPTION:The Public Diplomacy Council of America's December First Monday
+  Forum will honor Atlanta and Boston\, the recipients of the Council's spe
+ cial Sports Diplomacy Award. Prof. Jay Wang of the University of Southern 
+ California will keynote the event\, which will also include remarks by rep
+ resentatives of the two award…\n\nWhen: Monday\, Dec. 7\, noon to 1 p.m.
+ \nWhere: Elliott School of International Affairs\, 1957 E Street\, NW\, Ro
+ om 602\, Washington\, D.C. 20052\nOrganizer: George Washington University\
+ nFormat: In person\nCost: Free\nEvent page: https://calendar.gwu.edu/event
+ /december-first-monday-forum-sports-diplomacy-award\n\nListed by The Local
+  National's D.C. Conference Calendar. Confirm details with the organizer b
+ efore you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-63
+ b16b6e62f3
+URL:https://calendar.gwu.edu/event/december-first-monday-forum-sports-diplo
+ macy-award
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a8e680b4a94e@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261207T130000
+DTEND;TZID=America/New_York:20261207T140000
+SUMMARY:See How Older Adults Are Faring in Your State and County
+LOCATION:Washington\, DC
+DESCRIPTION:Everyone should have the opportunity to age with health and fin
+ ancial security\, but some older adults are more likely than others to fac
+ e financial insecurity\, inadequate access to health care\, and unmet need
+ s for long-term care. Join Urban Institute researchers for a presentation 
+ of the new AARP-Urban Institute Aging…\n\nWhen: Monday\, Dec. 7\, 1–2 
+ p.m.\nWhere: Washington\, DC\nOrganizer: Urban Institute\nEvent page: http
+ s://www.urban.org/events/see-how-older-adults-are-faring-your-state-and-co
+ unty\n\nListed by The Local National's D.C. Conference Calendar. Confirm d
+ etails with the organizer before you go.\nhttps://offset-three-six.github.
+ io/tln-dc-conferences/#e-a8e680b4a94e
+URL:https://www.urban.org/events/see-how-older-adults-are-faring-your-state
+ -and-county
+CATEGORIES:Health
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a49011b8595a@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261207T150000
+DTEND;TZID=America/New_York:20261207T170000
+SUMMARY:Tomorrow’s fleet: Revitalizing US shipbuilding and the maritime i
+ ndustrial base
+LOCATION:Atlantic Council Headquarters\, 1400 L Street NW • Floor 11\, Wa
+ shington\, DC
+DESCRIPTION:Former Secretary of the Navy Kenneth Braithwaite and former Act
+ ing Deputy Secretary of Defense Christine Fox discuss the Revitalizing US 
+ Shipbuilding Task Force’s newly released final report.\n\nWhen: Monday\,
+  Dec. 7\, 3–5 p.m.\nWhere: Atlantic Council Headquarters\, 1400 L Street
+  NW • Floor 11\, Washington\, DC\nOrganizer: Atlantic Council\nFormat: I
+ n person\nEvent page: https://www.atlanticcouncil.org/event/tomorrows-flee
+ t-revitalizing-us-shipbuilding-and-the-maritime-industrial-base/\n\nListed
+  by The Local National's D.C. Conference Calendar. Confirm details with th
+ e organizer before you go.\nhttps://offset-three-six.github.io/tln-dc-conf
+ erences/#e-a49011b8595a
+URL:https://www.atlanticcouncil.org/event/tomorrows-fleet-revitalizing-us-s
+ hipbuilding-and-the-maritime-industrial-base/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:28558e198d55@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261208T100000
+DTEND;TZID=America/New_York:20261208T120000
+SUMMARY:Reimagining global economic governance: Challenges and opportunitie
+ s in a shifting geopolitical and technological landscape
+LOCATION:Washington\, DC
+DESCRIPTION:When: Tuesday\, Dec. 8\, 10 a.m.\nWhere: Washington\, DC\nOrgan
+ izer: Brookings Institution\nEvent page: https://www.brookings.edu/events/
+ reimagining-global-economic-governance-challenges-and-opportunities-in-a-s
+ hifting-geopolitical-and-technological-landscape/\n\nListed by The Local N
+ ational's D.C. Conference Calendar. Confirm details with the organizer bef
+ ore you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-2855
+ 8e198d55
+URL:https://www.brookings.edu/events/reimagining-global-economic-governance
+ -challenges-and-opportunities-in-a-shifting-geopolitical-and-technological
+ -landscape/
+CATEGORIES:Economy,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e3ebd10d292a@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261211
+SUMMARY:2nd Annual Food and Agriculture Policy Week
+LOCATION:Capitol Hill and George Washington University\, Washington\, DC
+DESCRIPTION:Three days of food and agriculture policy events on the Hill an
+ d at GW with 70+ speakers. Includes GW's Dec. 10 Food and Agriculture Poli
+ cy Summit\, listed separately.\n\nWhen: Dec. 8–10\nWhere: Capitol Hill a
+ nd George Washington University\, Washington\, DC\nOrganizer: Food Tank\, 
+ Global Food Institute at GW\, José Andrés\, Culinary Institute of Americ
+ a\, Sprouts Healthy Communities Foundation\nFormat: In person\nEvent page:
+  https://foodtank.com/event/2nd-annual-food-agriculture-policy-week-full-s
+ eries/\nRegister: https://www.eventbrite.com/e/2nd-annual-food-and-agricul
+ ture-policy-summit-week-tickets-1995499841744\n\nListed by The Local Natio
+ nal's D.C. Conference Calendar. Confirm details with the organizer before 
+ you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-e3ebd10d
+ 292a
+URL:https://foodtank.com/event/2nd-annual-food-agriculture-policy-week-full
+ -series/
+CATEGORIES:Major conferences,Health,Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1d9591cd5245@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261209T110000
+DTEND;TZID=America/New_York:20261209T120000
+SUMMARY:A Conversation with Chairman Carr: The FCC’s New National Securit
+ y Mandate
+LOCATION:American Enterprise Institute
+DESCRIPTION:The AEI calendar feed doesn't say whether this is in person\; s
+ ome AEI events are online only\, so check the event page.\n\nWhen: Wednesd
+ ay\, Dec. 9\, 11 a.m. to noon\nWhere: American Enterprise Institute\nOrgan
+ izer: American Enterprise Institute\nEvent page: https://www.aei.org/event
+ s/a-conversation-with-chairman-carr-the-fccs-new-national-security-mandate
+ /\n\nListed by The Local National's D.C. Conference Calendar. Confirm deta
+ ils with the organizer before you go.\nhttps://offset-three-six.github.io/
+ tln-dc-conferences/#e-1d9591cd5245
+URL:https://www.aei.org/events/a-conversation-with-chairman-carr-the-fccs-n
+ ew-national-security-mandate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e8e855ac50ab@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261209T130000
+DTEND;TZID=America/New_York:20261209T141500
+SUMMARY:Using Climate Scenarios to Build Health Resilience in Gulf Coast Co
+ mmunities
+LOCATION:Washington\, DC
+DESCRIPTION:Communities across the Gulf Coast face growing health risks fro
+ m hurricanes\, extreme heat\, flooding\, and other climate-related disaste
+ rs. As local leaders work to strengthen disaster preparedness and resilien
+ ce\, scenario planning can help communities grapple with uncertain futures
+  and develop more equitable and…\n\nWhen: Wednesday\, Dec. 9\, 1–2:15 
+ p.m.\nWhere: Washington\, DC\nOrganizer: Urban Institute\nEvent page: http
+ s://www.urban.org/events/using-climate-scenarios-build-health-resilience-g
+ ulf-coast-communities\n\nListed by The Local National's D.C. Conference Ca
+ lendar. Confirm details with the organizer before you go.\nhttps://offset-
+ three-six.github.io/tln-dc-conferences/#e-e8e855ac50ab
+URL:https://www.urban.org/events/using-climate-scenarios-build-health-resil
+ ience-gulf-coast-communities
+CATEGORIES:Health
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bdd32385ba99@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261210T093000
+DTEND;TZID=America/New_York:20261210T113000
+SUMMARY:Unlocking US commercial competitiveness in nuclear energy
+LOCATION:1400 L Street\, NW\, 11th Floor\, Washington DC\, DC
+DESCRIPTION:The Atlantic Council\, in partnership with ClearPath\, is pleas
+ ed to host a conference to address US efforts in commercial diplomacy and 
+ how those efforts can ensure that energy is a core pillar of US trade prom
+ otion.\n\nWhen: Thursday\, Dec. 10\, 9:30–11:30 a.m.\nWhere: 1400 L Stre
+ et\, NW\, 11th Floor\, Washington DC\, DC\nOrganizer: Atlantic Council\nFo
+ rmat: In person\nEvent page: https://www.atlanticcouncil.org/event/unlocki
+ ng-us-commercial-competitiveness-in-nuclear-energy/\n\nListed by The Local
+  National's D.C. Conference Calendar. Confirm details with the organizer b
+ efore you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-bd
+ d32385ba99
+URL:https://www.atlanticcouncil.org/event/unlocking-us-commercial-competiti
+ veness-in-nuclear-energy/
+CATEGORIES:Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8600e6ef1688@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:2nd Annual Food and Agriculture Policy Summit
+LOCATION:Dorothy Betts Theater
+DESCRIPTION:Join Food Tank\, the Global Food Institute at George Washington
+  University\, José Andrés\, the United Nations Food and Agriculture Orga
+ nization\, the Culinary Institute of America\, the Food is Medicine Instit
+ ute at Tufts University\, ReFED\, American Frozen Food Institute\, Oatly\,
+  Driscoll’s\, and the Sprouts Healthy…\n\nWhen: Thursday\, Dec. 10\nWh
+ ere: Dorothy Betts Theater\nOrganizer: George Washington University\nForma
+ t: In person\nCost: Free\nEvent page: https://calendar.gwu.edu/event/2nd-a
+ nnual-food-and-agriculture-policy-summit\nRegister: https://www.eventbrite
+ .com/e/2nd-annual-food-and-agriculture-policy-summit-week-tickets-19954998
+ 41744\n\nListed by The Local National's D.C. Conference Calendar. Confirm 
+ details with the organizer before you go.\nhttps://offset-three-six.github
+ .io/tln-dc-conferences/#e-8600e6ef1688
+URL:https://calendar.gwu.edu/event/2nd-annual-food-and-agriculture-policy-s
+ ummit
+CATEGORIES:Health
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d4f06558b8ae@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261211T080000
+DTEND;TZID=America/New_York:20261211T110000
+SUMMARY:DC Chamber 2026 Annual Meeting and Chairman's Inaugural Breakfast
+LOCATION:Walter E. Washington Convention Center\, 801 Allen Y. Lew Place NW
+ \, Washington\, DC 20001
+DESCRIPTION:The DC Chamber's signature year-end event. It reviews the year\
+ , welcomes new board members\, inaugurates the incoming board chair and se
+ ts the business community's agenda for 2027. Remarks from Chamber Presiden
+ t and CEO Chinyere Hubbard. The Chamber's social posts list the breakfast 
+ and program as 9 to 11 a.m.\n\nWhen: Friday\, Dec. 11\, 8–11 a.m.\nWhere
+ : Walter E. Washington Convention Center\, 801 Allen Y. Lew Place NW\, Was
+ hington\, DC 20001\nOrganizer: DC Chamber of Commerce\nFormat: In person\n
+ Cost: Members $150\; non-members $215\nEvent page: https://dcchamber.org/e
+ vents/2026-annual-meeting-and-chairmans-innaugural-breakfast/\n\nListed by
+  The Local National's D.C. Conference Calendar. Confirm details with the o
+ rganizer before you go.\nhttps://offset-three-six.github.io/tln-dc-confere
+ nces/#e-d4f06558b8ae
+URL:https://dcchamber.org/events/2026-annual-meeting-and-chairmans-innaugur
+ al-breakfast/
+CATEGORIES:TLN picks,Economy,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:66cea4ee8d3c@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261214T100000
+DTEND;TZID=America/New_York:20261214T140000
+SUMMARY:Office of the Deputy Mayor for Education's "Congress Heights Place-
+ Based Professional Learning Community" Meeting
+LOCATION:UDC Building 72\, Room W100 - Auditorium
+DESCRIPTION:Event Name: Congress Heights "PLC" Meeting Event Locator: 2026-
+ AAJGDA The Place-Based Professional Learning Community (PLC) aims to creat
+ e a cross-sector coalition of leaders working towards improving long-term 
+ outcomes for children and their families. Through school and neighborhood 
+ collaboration\, participants will…\n\nWhen: Monday\, Dec. 14\, 10 a.m. t
+ o 2 p.m.\nWhere: UDC Building 72\, Room W100 - Auditorium\nOrganizer: Univ
+ ersity of the District of Columbia\nFormat: In person\nEvent page: https:/
+ /www.udc.edu/events/\n\nListed by The Local National's D.C. Conference Cal
+ endar. Confirm details with the organizer before you go.\nhttps://offset-t
+ hree-six.github.io/tln-dc-conferences/#e-66cea4ee8d3c
+URL:https://www.udc.edu/events/
+CATEGORIES:TLN picks,Schools,Economy,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7f2321bf5bb0@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261217T140000
+DTEND;TZID=America/New_York:20261217T160000
+SUMMARY:General Adrian Spain on regaining air superiority in a contested er
+ a
+LOCATION:Atlantic Council Headquarters\, 1400 L Street NW • Floor 11\, Wa
+ shington\, DC
+DESCRIPTION:Te head of Air Combat Command joins the Atlantic Council to dis
+ cuss Air Force strategic priorities.\n\nWhen: Thursday\, Dec. 17\, 2 p.m.\
+ nWhere: Atlantic Council Headquarters\, 1400 L Street NW • Floor 11\, Wa
+ shington\, DC\nOrganizer: Atlantic Council\nFormat: In person\nEvent page:
+  https://www.atlanticcouncil.org/event/general-adrian-spain-on-regaining-a
+ ir-superiority-in-a-contested-era/\n\nListed by The Local National's D.C. 
+ Conference Calendar. Confirm details with the organizer before you go.\nht
+ tps://offset-three-six.github.io/tln-dc-conferences/#e-7f2321bf5bb0
+URL:https://www.atlanticcouncil.org/event/general-adrian-spain-on-regaining
+ -air-superiority-in-a-contested-era/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:da9437b3c9f3@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20270107T160000
+DTEND;TZID=America/New_York:20270107T170000
+SUMMARY:How Reagan’s Military Buildup Won the Cold War: A Conversation wi
+ th Roger Zakheim
+LOCATION:American Enterprise Institute
+DESCRIPTION:The AEI calendar feed doesn't say whether this is in person\; s
+ ome AEI events are online only\, so check the event page.\n\nWhen: Thursda
+ y\, Jan. 7\, 2027\, 4–5 p.m.\nWhere: American Enterprise Institute\nOrga
+ nizer: American Enterprise Institute\nEvent page: https://www.aei.org/even
+ ts/how-reagans-military-buildup-won-the-cold-war-a-conversation-with-roger
+ -zakheim/\n\nListed by The Local National's D.C. Conference Calendar. Conf
+ irm details with the organizer before you go.\nhttps://offset-three-six.gi
+ thub.io/tln-dc-conferences/#e-da9437b3c9f3
+URL:https://www.aei.org/events/how-reagans-military-buildup-won-the-cold-wa
+ r-a-conversation-with-roger-zakheim/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e306f59d9ee1@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270115
+SUMMARY:2027 TRB Annual Meeting
+LOCATION:Walter E. Washington Convention Center and Marriott Marquis\, 801 
+ Allen Y. Lew Place NW\, Washington\, DC 20001
+DESCRIPTION:The 106th annual meeting of the Transportation Research Board: 
+ 500+ sessions and workshops and 100+ technical committee meetings across e
+ very transportation mode. Thousands of transportation officials\, research
+ ers and industry representatives attend.\n\nWhen: Jan. 10–14\, 2027\nWhe
+ re: Walter E. Washington Convention Center and Marriott Marquis\, 801 Alle
+ n Y. Lew Place NW\, Washington\, DC 20001\nOrganizer: Transportation Resea
+ rch Board (National Academies)\nFormat: In person\nCost: Early-bird closed
+  Nov. 18\; advance registration Nov. 19 to Jan. 7\; onsite from Jan. 8\nEv
+ ent page: https://www.nationalacademies.org/events/887\nRegister: https://
+ www.nationalacademies.org/events/887/registration-2\n\nListed by The Local
+  National's D.C. Conference Calendar. Confirm details with the organizer b
+ efore you go.\nhttps://offset-three-six.github.io/tln-dc-conferences/#e-e3
+ 06f59d9ee1
+URL:https://www.nationalacademies.org/events/887
+CATEGORIES:TLN picks,Major conferences,Transit,Economy,Government and democ
+ racy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9ab547f89d4e@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270201
+SUMMARY:2027 Washington\, D.C. Auto Show
+LOCATION:Walter E. Washington Convention Center\, 801 Allen Y. Lew Place NW
+ \, Washington\, DC 20001
+DESCRIPTION:Ten-day public auto show with new\, electric and concept vehicl
+ es. The show also runs a Public Policy Day for officials and the policy co
+ mmunity.\n\nWhen: Jan. 22–31\, 2027\nWhere: Walter E. Washington Convent
+ ion Center\, 801 Allen Y. Lew Place NW\, Washington\, DC 20001\nOrganizer:
+  Washington Area New Automobile Dealers Association\nFormat: In person\nCo
+ st: One-day tickets\; on sale from Nov. 27\nEvent page: https://www.washin
+ gtonautoshow.com/show-information/\nRegister: https://www.washingtonautosh
+ ow.com/tickets/\n\nListed by The Local National's D.C. Conference Calendar
+ . Confirm details with the organizer before you go.\nhttps://offset-three-
+ six.github.io/tln-dc-conferences/#e-9ab547f89d4e
+URL:https://www.washingtonautoshow.com/show-information/
+CATEGORIES:Major conferences,Transit,Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6b92d31e069e@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20270125T090000
+DTEND;TZID=America/New_York:20270125T203000
+SUMMARY:2027 Society for the Rule of Law Summit
+LOCATION:The Ritz-Carlton\, Washington\, DC\, 1150 22nd Street NW\, Washing
+ ton\, DC 20037
+DESCRIPTION:Daylong annual summit of lawyers\, former officials and scholar
+ s on the rule of law\, executive power and the courts.\n\nWhen: Monday\, J
+ an. 25\, 2027\, 9 a.m. to 8:30 p.m.\nWhere: The Ritz-Carlton\, Washington\
+ , DC\, 1150 22nd Street NW\, Washington\, DC 20037\nOrganizer: Society for
+  the Rule of Law\nFormat: In person\nCost: Ticketed\nEvent page: https://s
+ ocietyfortheruleoflaw.org/srl-summit-2027/\nRegister: https://www.eventbri
+ te.com/e/2027-society-for-the-rule-of-law-summit-tickets-2004031747905\n\n
+ Listed by The Local National's D.C. Conference Calendar. Confirm details w
+ ith the organizer before you go.\nhttps://offset-three-six.github.io/tln-d
+ c-conferences/#e-6b92d31e069e
+URL:https://societyfortheruleoflaw.org/srl-summit-2027/
+CATEGORIES:Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:56b0a95d3624@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270129
+SUMMARY:Apex 2027
+LOCATION:Walter E. Washington Convention Center\, 801 Allen Y. Lew Place NW
+ \, Washington\, DC 20001
+DESCRIPTION:Apex Defense gathers military personnel\, acquisition professio
+ nals\, technology companies and investors to work on operational challenge
+ s and defense innovation. Admission is limited to eligible attendees.\n\nW
+ hen: Jan. 27–28\, 2027\nWhere: Walter E. Washington Convention Center\, 
+ 801 Allen Y. Lew Place NW\, Washington\, DC 20001\nOrganizer: Clarion Defe
+ nce & Security\, in collaboration with Hudson Institute\nFormat: In person
+ \nCost: Industry $850\; small tech businesses and VC $500\; academia $400\
+ ; eligible military\, government and media free…\nEvent page: https://ev
+ entsdc.com/events/apex-2027\nRegister: https://forms.reg.buzz/apex-defense
+ -2027/page/step-1\n\nListed by The Local National's D.C. Conference Calend
+ ar. Confirm details with the organizer before you go.\nhttps://offset-thre
+ e-six.github.io/tln-dc-conferences/#e-56b0a95d3624
+URL:https://eventsdc.com/events/apex-2027
+CATEGORIES:Major conferences,Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c547c92f9b0c@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20270129T090000
+DTEND;TZID=America/New_York:20270129T170000
+SUMMARY:Futures of Theory: A Daylong Symposium on *The Barbara Johnson Coll
+ ective*
+LOCATION:Old North 205\, Georgetown University\, Washington\, DC
+DESCRIPTION:When: Friday\, Jan. 29\, 2027\, 9 a.m. to 5 p.m.\nWhere: Old No
+ rth 205\, Georgetown University\, Washington\, DC\nOrganizer: Georgetown U
+ niversity: Georgetown Humanities Initiative\nFormat: In person\nEvent page
+ : https://events.georgetown.edu/live/events/44148-futures-of-theory-a-dayl
+ ong-symposium-on-the\n\nListed by The Local National's D.C. Conference Cal
+ endar. Confirm details with the organizer before you go.\nhttps://offset-t
+ hree-six.github.io/tln-dc-conferences/#e-c547c92f9b0c
+URL:https://events.georgetown.edu/live/events/44148-futures-of-theory-a-day
+ long-symposium-on-the
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1c4e5d837946@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270211
+SUMMARY:2027 Community College National Legislative Summit
+LOCATION:Marriott Marquis Washington\, DC\, 901 Massachusetts Avenue NW\, W
+ ashington\, DC 20001
+DESCRIPTION:The main federal advocacy event for community colleges. More th
+ an 1\,000 trustees\, presidents and students meet in Washington to lobby C
+ ongress.\n\nWhen: Feb. 7–10\, 2027\nWhere: Marriott Marquis Washington\,
+  DC\, 901 Massachusetts Avenue NW\, Washington\, DC 20001\nOrganizer: Asso
+ ciation of Community College Trustees (ACCT)\nFormat: In person\nEvent pag
+ e: https://www.acct.org/events/nls\n\nListed by The Local National's D.C. 
+ Conference Calendar. Confirm details with the organizer before you go.\nht
+ tps://offset-three-six.github.io/tln-dc-conferences/#e-1c4e5d837946
+URL:https://www.acct.org/events/nls
+CATEGORIES:Major conferences,Schools,Economy,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:010fce3ee13a@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270214
+SUMMARY:Howard University African Studies International Conference 2027
+LOCATION:Howard University
+DESCRIPTION:Get ready for 2 days of discussions\, presentations\, & network
+ ing at the Howard University African Studies International Conference. The
+  Howard University African Studies International Conference is set for Feb
+ ruary 12 - 13\, 2027\, under the theme: "AI and Transformation in Global A
+ frica." The Department of African…\n\nWhen: Feb. 12–13\, 2027\nWhere: 
+ Howard University\nOrganizer: Howard University\nFormat: In person and onl
+ ine\nEvent page: https://events.howard.edu/event/howard-university-african
+ -studies-international-conference-2027\nRegister: https://www.eventbrite.c
+ om/e/2027-howard-university-african-studies-international-conference-ticke
+ ts-1990338326513?aff=oddtdtcreator\n\nListed by The Local National's D.C. 
+ Conference Calendar. Confirm details with the organizer before you go.\nht
+ tps://offset-three-six.github.io/tln-dc-conferences/#e-010fce3ee13a
+URL:https://events.howard.edu/event/howard-university-african-studies-inter
+ national-conference-2027
+CATEGORIES:Major conferences,Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:121d3370be6a@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20270219T130000
+DTEND;TZID=America/New_York:20270219T150000
+SUMMARY:Ninth Annual GGCI Student Research Summit
+LOCATION:To be confirmed.\, Georgetown University\, Washington\, DC
+DESCRIPTION:Please join us as students from across programs and schools sha
+ re their original research\, covering topics including rapid urbanization\
+ , technology adoption\, affordable housing\, transport systems\, and urban
+  environmental health.\n\nWhen: Friday\, Feb. 19\, 2027\, 1 p.m.\nWhere: T
+ o be confirmed.\, Georgetown University\, Washington\, DC\nOrganizer: Geor
+ getown University: Georgetown Global Cities Initiative\nFormat: In person\
+ nEvent page: https://events.georgetown.edu/global-cities/event/41606-ninth
+ -annual-ggci-student-research-summit\n\nListed by The Local National's D.C
+ . Conference Calendar. Confirm details with the organizer before you go.\n
+ https://offset-three-six.github.io/tln-dc-conferences/#e-121d3370be6a
+URL:https://events.georgetown.edu/global-cities/event/41606-ninth-annual-gg
+ ci-student-research-summit
+CATEGORIES:Housing,Schools,Health
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cba63390de1c@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270224
+SUMMARY:2027 NACo Legislative Conference
+LOCATION:Washington Hilton\, 1919 Connecticut Avenue NW\, Washington\, DC 2
+ 0009
+DESCRIPTION:Annual Washington gathering where nearly 2\,000 elected and app
+ ointed county officials meet federal decision-makers and press their feder
+ al priorities. An optional pre-conference runs Feb. 19.\n\nWhen: Feb. 20
+ –23\, 2027\nWhere: Washington Hilton\, 1919 Connecticut Avenue NW\, Wash
+ ington\, DC 20009\nOrganizer: National Association of Counties (NACo)\nFor
+ mat: In person\nEvent page: https://www.naco.org/event/2027-naco-legislati
+ ve-conference\nRegister: https://member.naco.org/Events/Register/e5ebc3f0-
+ dda2-f111-b8dd-7ced8d6e6157\n\nListed by The Local National's D.C. Confere
+ nce Calendar. Confirm details with the organizer before you go.\nhttps://o
+ ffset-three-six.github.io/tln-dc-conferences/#e-cba63390de1c
+URL:https://www.naco.org/event/2027-naco-legislative-conference
+CATEGORIES:TLN picks,Major conferences,Economy,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0ae3073a5f71@thelocalnational.com
+DTSTAMP:20261124T120000Z
+LAST-MODIFIED:20261124T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270301
+SUMMARY:Principles First 2027 Summit
+LOCATION:The Watergate Hotel\, 2650 Virginia Avenue NW\, Washington\, DC 20
+ 037
+DESCRIPTION:Seventh annual summit of the center-right pro-democracy group P
+ rinciples First\, with speakers\, panels and exhibitors.\n\nWhen: Feb. 26
+ –28\, 2027\nWhere: The Watergate Hotel\, 2650 Virginia Avenue NW\, Washi
+ ngton\, DC 20037\nOrganizer: Principles First\nFormat: In person\nCost: Ti
+ cketed\nEvent page: https://www.principlesfirst.us/summit/principles-first
+ -2027-summit/\nRegister: https://www.eventbrite.com/e/2027-principles-firs
+ t-summit-tickets-2004091356195\n\nListed by The Local National's D.C. Conf
+ erence Calendar. Confirm details with the organizer before you go.\nhttps:
+ //offset-three-six.github.io/tln-dc-conferences/#e-0ae3073a5f71
+URL:https://www.principlesfirst.us/summit/principles-first-2027-summit/
+CATEGORIES:Major conferences,Government and democracy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
