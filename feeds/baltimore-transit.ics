@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TLN Baltimore Conferences: Transit
+NAME:TLN Baltimore Conferences: Transit
+X-WR-CALDESC:Metro\, buses\, streets\, transportation and infrastructure. F
+ ree to use\, embed and republish with credit to The Local National (theloc
+ alnational.com). Confirm details with the organizer before you go.
+DESCRIPTION:Metro\, buses\, streets\, transportation and infrastructure. Fr
+ ee to use\, embed and republish with credit to The Local National (theloca
+ lnational.com). Confirm details with the organizer before you go.
+X-WR-TIMEZONE:America/New_York
+URL:https://thelocalnational.com/conferences/?region=baltimore
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+SOURCE;VALUE=URI:https://calendar.thelocalnational.com/feeds/baltimore-tran
+ sit.ics
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:34a33e698ad4@thelocalnational.com
+DTSTAMP:20261125T120000Z
+LAST-MODIFIED:20261125T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261208T083000
+DTEND;TZID=America/New_York:20261208T113000
+SUMMARY:Vision 2035: Building for a Better Baltimore Region
+LOCATION:The Paramount Baltimore\, 1300 Warner St\, Baltimore\, MD 21230
+DESCRIPTION:A morning forum on how public financing and private investment 
+ can unlock major projects across the Baltimore region\, from downtown to t
+ he Jones Falls and Station North. Speakers include Maryland Housing Secret
+ ary Jacob Day\, Maryland Transportation Authority Administrator Tony Bridg
+ es and Baltimore Development…\n\nWhen: Tuesday\, Dec. 8\, 8:30–11:30 a
+ .m.\nWhere: The Paramount Baltimore\, 1300 Warner St\, Baltimore\, MD 2123
+ 0\nOrganizer: Greater Baltimore Committee\nFormat: In person\nCost: $150 g
+ eneral admission\nEvent page: https://gbc.org/event/vision-2035-building-f
+ or-a-better-baltimore-region/\nRegister: https://events.blackthorn.io/en/K
+ bOkKk6/vision-2035-building-for-a-better-baltimore-region-6a2cPC2gm4RK/ove
+ rview\n\nListed by The Local National's Baltimore Conference Calendar. Con
+ firm details with the organizer before you go.\nhttps://thelocalnational.c
+ om/conferences/?region=baltimore#e-34a33e698ad4
+URL:https://gbc.org/event/vision-2035-building-for-a-better-baltimore-regio
+ n/
+CATEGORIES:TLN picks,Housing,Transit,Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

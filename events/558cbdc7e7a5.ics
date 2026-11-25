@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:558cbdc7e7a5@thelocalnational.com
+DTSTAMP:20261125T120000Z
+LAST-MODIFIED:20261125T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261206
+SUMMARY:International Conference on ADHD
+LOCATION:Baltimore Convention Center\, One West Pratt Street\, Baltimore\, 
+ MD 21201
+DESCRIPTION:The International Conference on ADHD is the largest and longest
+ -running multidisciplinary ADHD gathering in North America. What started i
+ n 1988 as a local conference has grown into an international conference cr
+ eated by and for the ADHD community\, bringing together every voice: paren
+ ts and caregivers\, clinicians…\n\nWhen: Dec. 3–5\nWhere: Baltimore Co
+ nvention Center\, One West Pratt Street\, Baltimore\, MD 21201\nOrganizer:
+  Listed by the Baltimore Convention Center\nFormat: In person\nEvent page:
+  https://www.bccenter.org/events/2026/international-conference-on-adhd\n\n
+ Listed by The Local National's Baltimore Conference Calendar. Confirm deta
+ ils with the organizer before you go.\nhttps://thelocalnational.com/confer
+ ences/?region=baltimore#e-558cbdc7e7a5
+URL:https://www.bccenter.org/events/2026/international-conference-on-adhd
+CATEGORIES:Major conferences,Health
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,188 @@
+{
+ "name": "Baltimore Conference Calendar",
+ "publisher": "The Local National",
+ "page_url": "https://thelocalnational.com/conferences/?region=baltimore",
+ "updated": "2026-11-25T09:27:19-05:00",
+ "calendars": [
+  {
+   "slug": "all",
+   "name": "All events",
+   "kind": "all",
+   "feed_name": "The Local National: Baltimore Conferences",
+   "description": "Every conference, summit and public forum on the calendar.",
+   "count": 8,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore.ics&name=The%20Local%20National%3A%20Baltimore%20Conferences",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore.ics&name=The%20Local%20National%3A%20Baltimore%20Conferences"
+   }
+  },
+  {
+   "slug": "tln-picks",
+   "name": "TLN picks",
+   "kind": "segment",
+   "feed_name": "TLN Baltimore Conferences: TLN picks",
+   "description": "The events we think matter most for The Local National's beat: Baltimore stories that show where national issues are headed.",
+   "count": 2,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-tln-picks.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-tln-picks.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-tln-picks.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-tln-picks.ics&name=TLN%20Baltimore%20Conferences%3A%20TLN%20picks",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-tln-picks.ics&name=TLN%20Baltimore%20Conferences%3A%20TLN%20picks"
+   }
+  },
+  {
+   "slug": "major",
+   "name": "Major conferences",
+   "kind": "segment",
+   "feed_name": "TLN Baltimore Conferences: Major conferences",
+   "description": "Multi-day conferences, conventions and summits.",
+   "count": 3,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-major.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-major.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-major.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-major.ics&name=TLN%20Baltimore%20Conferences%3A%20Major%20conferences",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-major.ics&name=TLN%20Baltimore%20Conferences%3A%20Major%20conferences"
+   }
+  },
+  {
+   "slug": "housing",
+   "name": "Housing",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Housing",
+   "description": "Housing, homelessness, zoning, rent and development.",
+   "count": 1,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-housing.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-housing.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-housing.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-housing.ics&name=TLN%20Baltimore%20Conferences%3A%20Housing",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-housing.ics&name=TLN%20Baltimore%20Conferences%3A%20Housing"
+   }
+  },
+  {
+   "slug": "schools",
+   "name": "Schools",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Schools",
+   "description": "Schools, education policy, students and teachers.",
+   "count": 2,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-schools.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-schools.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-schools.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-schools.ics&name=TLN%20Baltimore%20Conferences%3A%20Schools",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-schools.ics&name=TLN%20Baltimore%20Conferences%3A%20Schools"
+   }
+  },
+  {
+   "slug": "home-rule",
+   "name": "Home rule",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Home rule",
+   "description": "Home rule, statehood, self-government and congressional oversight of the District.",
+   "count": 0,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-home-rule.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-home-rule.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-home-rule.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-home-rule.ics&name=TLN%20Baltimore%20Conferences%3A%20Home%20rule",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-home-rule.ics&name=TLN%20Baltimore%20Conferences%3A%20Home%20rule"
+   }
+  },
+  {
+   "slug": "federal-workforce",
+   "name": "Federal workforce",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Federal workforce",
+   "description": "Federal workers, the civil service and the government workforce.",
+   "count": 0,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-federal-workforce.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-federal-workforce.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-federal-workforce.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-federal-workforce.ics&name=TLN%20Baltimore%20Conferences%3A%20Federal%20workforce",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-federal-workforce.ics&name=TLN%20Baltimore%20Conferences%3A%20Federal%20workforce"
+   }
+  },
+  {
+   "slug": "public-safety",
+   "name": "Public safety",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Public safety",
+   "description": "Public safety, policing, crime, courts and criminal justice.",
+   "count": 0,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-public-safety.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-public-safety.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-public-safety.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-public-safety.ics&name=TLN%20Baltimore%20Conferences%3A%20Public%20safety",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-public-safety.ics&name=TLN%20Baltimore%20Conferences%3A%20Public%20safety"
+   }
+  },
+  {
+   "slug": "transit",
+   "name": "Transit",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Transit",
+   "description": "Metro, buses, streets, transportation and infrastructure.",
+   "count": 1,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-transit.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-transit.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-transit.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-transit.ics&name=TLN%20Baltimore%20Conferences%3A%20Transit",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-transit.ics&name=TLN%20Baltimore%20Conferences%3A%20Transit"
+   }
+  },
+  {
+   "slug": "health",
+   "name": "Health",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Health",
+   "description": "Health care, public health, hospitals and mental health.",
+   "count": 2,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-health.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-health.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-health.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-health.ics&name=TLN%20Baltimore%20Conferences%3A%20Health",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-health.ics&name=TLN%20Baltimore%20Conferences%3A%20Health"
+   }
+  },
+  {
+   "slug": "economy",
+   "name": "Economy",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Economy",
+   "description": "Jobs, wages, business, budgets, trade and technology.",
+   "count": 2,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-economy.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-economy.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-economy.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-economy.ics&name=TLN%20Baltimore%20Conferences%3A%20Economy",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-economy.ics&name=TLN%20Baltimore%20Conferences%3A%20Economy"
+   }
+  },
+  {
+   "slug": "governance",
+   "name": "Government and democracy",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Government and democracy",
+   "description": "Elections, democracy, the courts, Congress and city government.",
+   "count": 1,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-governance.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-governance.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-governance.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-governance.ics&name=TLN%20Baltimore%20Conferences%3A%20Government%20and%20democracy",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-governance.ics&name=TLN%20Baltimore%20Conferences%3A%20Government%20and%20democracy"
+   }
+  }
+ ]
+}

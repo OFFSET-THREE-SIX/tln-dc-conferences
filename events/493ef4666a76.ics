@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:493ef4666a76@thelocalnational.com
+DTSTAMP:20261125T120000Z
+LAST-MODIFIED:20261125T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270116
+SUMMARY:Mid-Atlantic Nursery Trade Show
+LOCATION:Baltimore Convention Center\, One West Pratt Street\, Baltimore\, 
+ MD 21201
+DESCRIPTION:The Mid-Atlantic Nursery Trade Show (MANTS) is one of the horti
+ culture industry’s largest and most B2B trade shows. Thousands of indust
+ ry professionals gather at MANTS in January to connect\, source plants and
+  products\, discover what’s new\, and build business relationships. All 
+ education happens peer-to-peer on the…\n\nWhen: Jan. 13–15\, 2027\nWhe
+ re: Baltimore Convention Center\, One West Pratt Street\, Baltimore\, MD 2
+ 1201\nOrganizer: Listed by the Baltimore Convention Center\nFormat: In per
+ son\nEvent page: https://www.bccenter.org/events/2027/mid-atlantic-nursery
+ -trade-show\n\nListed by The Local National's Baltimore Conference Calenda
+ r. Confirm details with the organizer before you go.\nhttps://thelocalnati
+ onal.com/conferences/?region=baltimore#e-493ef4666a76
+URL:https://www.bccenter.org/events/2027/mid-atlantic-nursery-trade-show
+CATEGORIES:Major conferences,Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

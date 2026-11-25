@@ -1,0 +1,797 @@
+{
+ "name": "Baltimore Conference Calendar",
+ "publisher": "The Local National",
+ "home_url": "https://thelocalnational.com",
+ "page_url": "https://thelocalnational.com/conferences/?region=baltimore",
+ "base_url": "https://calendar.thelocalnational.com",
+ "updated": "2026-11-25T09:27:19-05:00",
+ "updated_label": "Wednesday, Nov. 25, 2026",
+ "generated_for": "2026-11-25",
+ "timezone": "America/New_York",
+ "note": "Free to use, embed and republish with credit to The Local National (thelocalnational.com). Confirm details with the organizer before you go.",
+ "submit_url": "https://github.com/OFFSET-THREE-SIX/tln-dc-conferences/issues/new?template=submit-event.yml",
+ "region": "baltimore",
+ "region_name": "Baltimore",
+ "region_note": "Baltimore city and Baltimore County are an optional second calendar. Coverage starts with the Convention Center, Towson and Morgan State; more sources will be added. D.C. subscriptions stay D.C.-only.",
+ "api": {
+  "json": "https://calendar.thelocalnational.com/api/baltimore.json",
+  "csv": "https://calendar.thelocalnational.com/api/baltimore.csv",
+  "calendars": "https://calendar.thelocalnational.com/api/baltimore-calendars.json"
+ },
+ "regions": [
+  {
+   "slug": "dc",
+   "name": "D.C.",
+   "api": "https://calendar.thelocalnational.com/api/events.json"
+  },
+  {
+   "slug": "baltimore",
+   "name": "Baltimore",
+   "api": "https://calendar.thelocalnational.com/api/baltimore.json"
+  }
+ ],
+ "calendars": [
+  {
+   "slug": "all",
+   "name": "All events",
+   "kind": "all",
+   "feed_name": "The Local National: Baltimore Conferences",
+   "description": "Every conference, summit and public forum on the calendar.",
+   "count": 8,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore.ics&name=The%20Local%20National%3A%20Baltimore%20Conferences",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore.ics&name=The%20Local%20National%3A%20Baltimore%20Conferences"
+   }
+  },
+  {
+   "slug": "tln-picks",
+   "name": "TLN picks",
+   "kind": "segment",
+   "feed_name": "TLN Baltimore Conferences: TLN picks",
+   "description": "The events we think matter most for The Local National's beat: Baltimore stories that show where national issues are headed.",
+   "count": 2,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-tln-picks.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-tln-picks.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-tln-picks.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-tln-picks.ics&name=TLN%20Baltimore%20Conferences%3A%20TLN%20picks",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-tln-picks.ics&name=TLN%20Baltimore%20Conferences%3A%20TLN%20picks"
+   }
+  },
+  {
+   "slug": "major",
+   "name": "Major conferences",
+   "kind": "segment",
+   "feed_name": "TLN Baltimore Conferences: Major conferences",
+   "description": "Multi-day conferences, conventions and summits.",
+   "count": 3,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-major.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-major.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-major.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-major.ics&name=TLN%20Baltimore%20Conferences%3A%20Major%20conferences",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-major.ics&name=TLN%20Baltimore%20Conferences%3A%20Major%20conferences"
+   }
+  },
+  {
+   "slug": "housing",
+   "name": "Housing",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Housing",
+   "description": "Housing, homelessness, zoning, rent and development.",
+   "count": 1,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-housing.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-housing.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-housing.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-housing.ics&name=TLN%20Baltimore%20Conferences%3A%20Housing",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-housing.ics&name=TLN%20Baltimore%20Conferences%3A%20Housing"
+   }
+  },
+  {
+   "slug": "schools",
+   "name": "Schools",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Schools",
+   "description": "Schools, education policy, students and teachers.",
+   "count": 2,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-schools.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-schools.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-schools.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-schools.ics&name=TLN%20Baltimore%20Conferences%3A%20Schools",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-schools.ics&name=TLN%20Baltimore%20Conferences%3A%20Schools"
+   }
+  },
+  {
+   "slug": "home-rule",
+   "name": "Home rule",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Home rule",
+   "description": "Home rule, statehood, self-government and congressional oversight of the District.",
+   "count": 0,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-home-rule.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-home-rule.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-home-rule.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-home-rule.ics&name=TLN%20Baltimore%20Conferences%3A%20Home%20rule",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-home-rule.ics&name=TLN%20Baltimore%20Conferences%3A%20Home%20rule"
+   }
+  },
+  {
+   "slug": "federal-workforce",
+   "name": "Federal workforce",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Federal workforce",
+   "description": "Federal workers, the civil service and the government workforce.",
+   "count": 0,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-federal-workforce.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-federal-workforce.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-federal-workforce.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-federal-workforce.ics&name=TLN%20Baltimore%20Conferences%3A%20Federal%20workforce",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-federal-workforce.ics&name=TLN%20Baltimore%20Conferences%3A%20Federal%20workforce"
+   }
+  },
+  {
+   "slug": "public-safety",
+   "name": "Public safety",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Public safety",
+   "description": "Public safety, policing, crime, courts and criminal justice.",
+   "count": 0,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-public-safety.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-public-safety.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-public-safety.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-public-safety.ics&name=TLN%20Baltimore%20Conferences%3A%20Public%20safety",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-public-safety.ics&name=TLN%20Baltimore%20Conferences%3A%20Public%20safety"
+   }
+  },
+  {
+   "slug": "transit",
+   "name": "Transit",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Transit",
+   "description": "Metro, buses, streets, transportation and infrastructure.",
+   "count": 1,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-transit.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-transit.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-transit.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-transit.ics&name=TLN%20Baltimore%20Conferences%3A%20Transit",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-transit.ics&name=TLN%20Baltimore%20Conferences%3A%20Transit"
+   }
+  },
+  {
+   "slug": "health",
+   "name": "Health",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Health",
+   "description": "Health care, public health, hospitals and mental health.",
+   "count": 2,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-health.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-health.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-health.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-health.ics&name=TLN%20Baltimore%20Conferences%3A%20Health",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-health.ics&name=TLN%20Baltimore%20Conferences%3A%20Health"
+   }
+  },
+  {
+   "slug": "economy",
+   "name": "Economy",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Economy",
+   "description": "Jobs, wages, business, budgets, trade and technology.",
+   "count": 2,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-economy.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-economy.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-economy.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-economy.ics&name=TLN%20Baltimore%20Conferences%3A%20Economy",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-economy.ics&name=TLN%20Baltimore%20Conferences%3A%20Economy"
+   }
+  },
+  {
+   "slug": "governance",
+   "name": "Government and democracy",
+   "kind": "theme",
+   "feed_name": "TLN Baltimore Conferences: Government and democracy",
+   "description": "Elections, democracy, the courts, Congress and city government.",
+   "count": 1,
+   "links": {
+    "ics": "https://calendar.thelocalnational.com/feeds/baltimore-governance.ics",
+    "webcal": "webcal://calendar.thelocalnational.com/feeds/baltimore-governance.ics",
+    "google": "https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-governance.ics",
+    "outlook": "https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-governance.ics&name=TLN%20Baltimore%20Conferences%3A%20Government%20and%20democracy",
+    "office": "https://outlook.office.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fbaltimore-governance.ics&name=TLN%20Baltimore%20Conferences%3A%20Government%20and%20democracy"
+   }
+  }
+ ],
+ "events": [
+  {
+   "id": "4d7327c3d18c",
+   "title": "After the Election: What's Next? A TU Community Conversation",
+   "start_date": "2026-12-02",
+   "end_date": "2026-12-02",
+   "start_time": "17:00",
+   "end_time": "19:00",
+   "all_day": false,
+   "start": "2026-12-02T17:00:00-05:00",
+   "end": "2026-12-02T19:00:00-05:00",
+   "timezone": "America/New_York",
+   "when": "Wednesday, Dec. 2, 5–7 p.m.",
+   "venue": "University Union",
+   "address": "University Union, Towson University, Towson, MD 21252, USA",
+   "city": "Towson, MD",
+   "location": "University Union, Towson University, Towson, MD 21252, USA",
+   "organizer": "Towson University",
+   "format": "in-person",
+   "format_label": "In person",
+   "cost": "",
+   "summary": "Learn from experts about the impact of the 2026 midterm election results and explore ways to continue to engage in civic life. Food provided and Tiger Stripes Eligible.",
+   "event_url": "https://events.towson.edu/event/after-the-election-whats-next-a-tu-community-conversation",
+   "registration_url": "",
+   "segments": [
+    "governance"
+   ],
+   "segment_names": [
+    "Government and democracy"
+   ],
+   "tln_pick": false,
+   "first_seen": "2026-11-25",
+   "last_updated": "2026-11-25",
+   "group": "December 2026",
+   "badge": {
+    "month": "Dec",
+    "day": "2",
+    "range": ""
+   },
+   "links": {
+    "page": "https://thelocalnational.com/conferences/?region=baltimore#e-4d7327c3d18c",
+    "ics": "https://calendar.thelocalnational.com/events/4d7327c3d18c.ics",
+    "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=After%20the%20Election%3A%20What%27s%20Next%3F%20A%20TU%20Community%20Conversation&dates=20261202T170000%2F20261202T190000&details=Learn%20from%20experts%20about%20the%20impact%20of%20the%202026%20midterm%20election%20results%20and%20explore%20ways%20to%20continue%20to%20engage%20in%20civic%20life.%20Food%20provided%20and%20Tiger%20Stripes%20Eligible.%0A%0AEvent%20page%3A%20https%3A%2F%2Fevents.towson.edu%2Fevent%2Fafter-the-election-whats-next-a-tu-community-conversation%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-4d7327c3d18c&location=University%20Union%2C%20Towson%20University%2C%20Towson%2C%20MD%2021252%2C%20USA&ctz=America%2FNew_York",
+    "outlook": "https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=After%20the%20Election%3A%20What%27s%20Next%3F%20A%20TU%20Community%20Conversation&startdt=2026-12-02T17%3A00%3A00-05%3A00&enddt=2026-12-02T19%3A00%3A00-05%3A00&allday=false&body=Learn%20from%20experts%20about%20the%20impact%20of%20the%202026%20midterm%20election%20results%20and%20explore%20ways%20to%20continue%20to%20engage%20in%20civic%20life.%20Food%20provided%20and%20Tiger%20Stripes%20Eligible.%0A%0AEvent%20page%3A%20https%3A%2F%2Fevents.towson.edu%2Fevent%2Fafter-the-election-whats-next-a-tu-community-conversation%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-4d7327c3d18c&location=University%20Union%2C%20Towson%20University%2C%20Towson%2C%20MD%2021252%2C%20USA",
+    "office": "https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=After%20the%20Election%3A%20What%27s%20Next%3F%20A%20TU%20Community%20Conversation&startdt=2026-12-02T17%3A00%3A00-05%3A00&enddt=2026-12-02T19%3A00%3A00-05%3A00&allday=false&body=Learn%20from%20experts%20about%20the%20impact%20of%20the%202026%20midterm%20election%20results%20and%20explore%20ways%20to%20continue%20to%20engage%20in%20civic%20life.%20Food%20provided%20and%20Tiger%20Stripes%20Eligible.%0A%0AEvent%20page%3A%20https%3A%2F%2Fevents.towson.edu%2Fevent%2Fafter-the-election-whats-next-a-tu-community-conversation%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-4d7327c3d18c&location=University%20Union%2C%20Towson%20University%2C%20Towson%2C%20MD%2021252%2C%20USA"
+   },
+   "schema": {
+    "@type": "Event",
+    "name": "After the Election: What's Next? A TU Community Conversation",
+    "startDate": "2026-12-02T17:00:00-05:00",
+    "endDate": "2026-12-02T19:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+     "@type": "Place",
+     "name": "University Union",
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Towson",
+      "addressRegion": "MD",
+      "addressCountry": "US",
+      "streetAddress": "University Union"
+     }
+    },
+    "organizer": {
+     "@type": "Organization",
+     "name": "Towson University"
+    },
+    "url": "https://events.towson.edu/event/after-the-election-whats-next-a-tu-community-conversation",
+    "description": "Learn from experts about the impact of the 2026 midterm election results and explore ways to continue to engage in civic life. Food provided and Tiger Stripes Eligible."
+   }
+  },
+  {
+   "id": "daa06b11ce95",
+   "title": "2026 Student December Research Conference",
+   "start_date": "2026-12-03",
+   "end_date": "2026-12-03",
+   "start_time": "12:00",
+   "end_time": "16:00",
+   "all_day": false,
+   "start": "2026-12-03T12:00:00-05:00",
+   "end": "2026-12-03T16:00:00-05:00",
+   "timezone": "America/New_York",
+   "when": "Thursday, Dec. 3, noon to 4 p.m.",
+   "venue": "Science Complex",
+   "address": "7801 York Rd Towson MD 21252",
+   "city": "Towson, MD",
+   "location": "Science Complex, 7801 York Rd Towson MD 21252",
+   "organizer": "Towson University",
+   "format": "in-person",
+   "format_label": "In person",
+   "cost": "",
+   "summary": "The Student December Research Conference will be held on Thursday, December 3, 2026 from 12 to 4 p.m. in the Science Complex atrium. The conference will feature poster presentations by students who have conducted research under the guidance of faculty and highlights the work of TU students (more info linked here)…",
+   "event_url": "https://events.towson.edu/event/2026-student-december-research-conference",
+   "registration_url": "",
+   "segments": [
+    "schools"
+   ],
+   "segment_names": [
+    "Schools"
+   ],
+   "tln_pick": false,
+   "first_seen": "2026-11-25",
+   "last_updated": "2026-11-25",
+   "group": "December 2026",
+   "badge": {
+    "month": "Dec",
+    "day": "3",
+    "range": ""
+   },
+   "links": {
+    "page": "https://thelocalnational.com/conferences/?region=baltimore#e-daa06b11ce95",
+    "ics": "https://calendar.thelocalnational.com/events/daa06b11ce95.ics",
+    "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=2026%20Student%20December%20Research%20Conference&dates=20261203T120000%2F20261203T160000&details=The%20Student%20December%20Research%20Conference%20will%20be%20held%20on%20Thursday%2C%20December%203%2C%202026%20from%2012%20to%204%20p.m.%20in%20the%20Science%20Complex%20atrium.%20The%20conference%20will%20feature%20poster%20presentations%20by%20students%20who%20have%20conducted%20research%20under%20the%20guidance%20of%20faculty%20and%20highlights%20the%20work%20of%20TU%20students%20%28more%20info%20linked%20here%29%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fevents.towson.edu%2Fevent%2F2026-student-december-research-conference%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-daa06b11ce95&location=Science%20Complex%2C%207801%20York%20Rd%20Towson%20MD%2021252&ctz=America%2FNew_York",
+    "outlook": "https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=2026%20Student%20December%20Research%20Conference&startdt=2026-12-03T12%3A00%3A00-05%3A00&enddt=2026-12-03T16%3A00%3A00-05%3A00&allday=false&body=The%20Student%20December%20Research%20Conference%20will%20be%20held%20on%20Thursday%2C%20December%203%2C%202026%20from%2012%20to%204%20p.m.%20in%20the%20Science%20Complex%20atrium.%20The%20conference%20will%20feature%20poster%20presentations%20by%20students%20who%20have%20conducted%20research%20under%20the%20guidance%20of%20faculty%20and%20highlights%20the%20work%20of%20TU%20students%20%28more%20info%20linked%20here%29%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fevents.towson.edu%2Fevent%2F2026-student-december-research-conference%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-daa06b11ce95&location=Science%20Complex%2C%207801%20York%20Rd%20Towson%20MD%2021252",
+    "office": "https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=2026%20Student%20December%20Research%20Conference&startdt=2026-12-03T12%3A00%3A00-05%3A00&enddt=2026-12-03T16%3A00%3A00-05%3A00&allday=false&body=The%20Student%20December%20Research%20Conference%20will%20be%20held%20on%20Thursday%2C%20December%203%2C%202026%20from%2012%20to%204%20p.m.%20in%20the%20Science%20Complex%20atrium.%20The%20conference%20will%20feature%20poster%20presentations%20by%20students%20who%20have%20conducted%20research%20under%20the%20guidance%20of%20faculty%20and%20highlights%20the%20work%20of%20TU%20students%20%28more%20info%20linked%20here%29%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fevents.towson.edu%2Fevent%2F2026-student-december-research-conference%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-daa06b11ce95&location=Science%20Complex%2C%207801%20York%20Rd%20Towson%20MD%2021252"
+   },
+   "schema": {
+    "@type": "Event",
+    "name": "2026 Student December Research Conference",
+    "startDate": "2026-12-03T12:00:00-05:00",
+    "endDate": "2026-12-03T16:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+     "@type": "Place",
+     "name": "Science Complex",
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Towson",
+      "addressRegion": "MD",
+      "addressCountry": "US",
+      "streetAddress": "7801 York Rd Towson MD 21252"
+     }
+    },
+    "organizer": {
+     "@type": "Organization",
+     "name": "Towson University"
+    },
+    "url": "https://events.towson.edu/event/2026-student-december-research-conference",
+    "description": "The Student December Research Conference will be held on Thursday, December 3, 2026 from 12 to 4 p.m. in the Science Complex atrium. The conference will feature poster presentations by students who have conducted research under the guidance of faculty and highlights the work of TU students (more info linked here)…"
+   }
+  },
+  {
+   "id": "558cbdc7e7a5",
+   "title": "International Conference on ADHD",
+   "start_date": "2026-12-03",
+   "end_date": "2026-12-05",
+   "start_time": "",
+   "end_time": "",
+   "all_day": true,
+   "start": "2026-12-03",
+   "end": "2026-12-05",
+   "timezone": "America/New_York",
+   "when": "Dec. 3–5",
+   "venue": "Baltimore Convention Center",
+   "address": "One West Pratt Street, Baltimore, MD 21201",
+   "city": "Baltimore, MD",
+   "location": "Baltimore Convention Center, One West Pratt Street, Baltimore, MD 21201",
+   "organizer": "Listed by the Baltimore Convention Center",
+   "format": "in-person",
+   "format_label": "In person",
+   "cost": "",
+   "summary": "The International Conference on ADHD is the largest and longest-running multidisciplinary ADHD gathering in North America. What started in 1988 as a local conference has grown into an international conference created by and for the ADHD community, bringing together every voice: parents and caregivers, clinicians…",
+   "event_url": "https://www.bccenter.org/events/2026/international-conference-on-adhd",
+   "registration_url": "",
+   "segments": [
+    "major",
+    "health"
+   ],
+   "segment_names": [
+    "Major conferences",
+    "Health"
+   ],
+   "tln_pick": false,
+   "first_seen": "2026-11-25",
+   "last_updated": "2026-11-25",
+   "group": "December 2026",
+   "badge": {
+    "month": "Dec",
+    "day": "3",
+    "range": "to Dec. 5"
+   },
+   "links": {
+    "page": "https://thelocalnational.com/conferences/?region=baltimore#e-558cbdc7e7a5",
+    "ics": "https://calendar.thelocalnational.com/events/558cbdc7e7a5.ics",
+    "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=International%20Conference%20on%20ADHD&dates=20261203%2F20261206&details=The%20International%20Conference%20on%20ADHD%20is%20the%20largest%20and%20longest-running%20multidisciplinary%20ADHD%20gathering%20in%20North%20America.%20What%20started%20in%201988%20as%20a%20local%20conference%20has%20grown%20into%20an%20international%20conference%20created%20by%20and%20for%20the%20ADHD%20community%2C%20bringing%20together%20every%20voice%3A%20parents%20and%20caregivers%2C%20clinicians%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.bccenter.org%2Fevents%2F2026%2Finternational-conference-on-adhd%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-558cbdc7e7a5&location=Baltimore%20Convention%20Center%2C%20One%20West%20Pratt%20Street%2C%20Baltimore%2C%20MD%2021201",
+    "outlook": "https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=International%20Conference%20on%20ADHD&startdt=2026-12-03&enddt=2026-12-06&allday=true&body=The%20International%20Conference%20on%20ADHD%20is%20the%20largest%20and%20longest-running%20multidisciplinary%20ADHD%20gathering%20in%20North%20America.%20What%20started%20in%201988%20as%20a%20local%20conference%20has%20grown%20into%20an%20international%20conference%20created%20by%20and%20for%20the%20ADHD%20community%2C%20bringing%20together%20every%20voice%3A%20parents%20and%20caregivers%2C%20clinicians%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.bccenter.org%2Fevents%2F2026%2Finternational-conference-on-adhd%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-558cbdc7e7a5&location=Baltimore%20Convention%20Center%2C%20One%20West%20Pratt%20Street%2C%20Baltimore%2C%20MD%2021201",
+    "office": "https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=International%20Conference%20on%20ADHD&startdt=2026-12-03&enddt=2026-12-06&allday=true&body=The%20International%20Conference%20on%20ADHD%20is%20the%20largest%20and%20longest-running%20multidisciplinary%20ADHD%20gathering%20in%20North%20America.%20What%20started%20in%201988%20as%20a%20local%20conference%20has%20grown%20into%20an%20international%20conference%20created%20by%20and%20for%20the%20ADHD%20community%2C%20bringing%20together%20every%20voice%3A%20parents%20and%20caregivers%2C%20clinicians%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.bccenter.org%2Fevents%2F2026%2Finternational-conference-on-adhd%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-558cbdc7e7a5&location=Baltimore%20Convention%20Center%2C%20One%20West%20Pratt%20Street%2C%20Baltimore%2C%20MD%2021201"
+   },
+   "schema": {
+    "@type": "Event",
+    "name": "International Conference on ADHD",
+    "startDate": "2026-12-03",
+    "endDate": "2026-12-05",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+     "@type": "Place",
+     "name": "Baltimore Convention Center",
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Baltimore",
+      "addressRegion": "MD",
+      "addressCountry": "US",
+      "streetAddress": "One West Pratt Street"
+     }
+    },
+    "organizer": {
+     "@type": "Organization",
+     "name": "Listed by the Baltimore Convention Center"
+    },
+    "url": "https://www.bccenter.org/events/2026/international-conference-on-adhd",
+    "description": "The International Conference on ADHD is the largest and longest-running multidisciplinary ADHD gathering in North America. What started in 1988 as a local conference has grown into an international conference created by and for the ADHD community, bringing together every voice: parents and caregivers, clinicians…"
+   }
+  },
+  {
+   "id": "34a33e698ad4",
+   "title": "Vision 2035: Building for a Better Baltimore Region",
+   "start_date": "2026-12-08",
+   "end_date": "2026-12-08",
+   "start_time": "08:30",
+   "end_time": "11:30",
+   "all_day": false,
+   "start": "2026-12-08T08:30:00-05:00",
+   "end": "2026-12-08T11:30:00-05:00",
+   "timezone": "America/New_York",
+   "when": "Tuesday, Dec. 8, 8:30–11:30 a.m.",
+   "venue": "The Paramount Baltimore",
+   "address": "1300 Warner St, Baltimore, MD 21230",
+   "city": "Baltimore, MD",
+   "location": "The Paramount Baltimore, 1300 Warner St, Baltimore, MD 21230",
+   "organizer": "Greater Baltimore Committee",
+   "format": "in-person",
+   "format_label": "In person",
+   "cost": "$150 general admission",
+   "summary": "A morning forum on how public financing and private investment can unlock major projects across the Baltimore region, from downtown to the Jones Falls and Station North. Speakers include Maryland Housing Secretary Jacob Day, Maryland Transportation Authority Administrator Tony Bridges and Baltimore Development…",
+   "event_url": "https://gbc.org/event/vision-2035-building-for-a-better-baltimore-region/",
+   "registration_url": "https://events.blackthorn.io/en/KbOkKk6/vision-2035-building-for-a-better-baltimore-region-6a2cPC2gm4RK/overview",
+   "segments": [
+    "tln-picks",
+    "housing",
+    "transit",
+    "economy"
+   ],
+   "segment_names": [
+    "TLN picks",
+    "Housing",
+    "Transit",
+    "Economy"
+   ],
+   "tln_pick": true,
+   "first_seen": "2026-11-25",
+   "last_updated": "2026-11-25",
+   "group": "December 2026",
+   "badge": {
+    "month": "Dec",
+    "day": "8",
+    "range": ""
+   },
+   "links": {
+    "page": "https://thelocalnational.com/conferences/?region=baltimore#e-34a33e698ad4",
+    "ics": "https://calendar.thelocalnational.com/events/34a33e698ad4.ics",
+    "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Vision%202035%3A%20Building%20for%20a%20Better%20Baltimore%20Region&dates=20261208T083000%2F20261208T113000&details=A%20morning%20forum%20on%20how%20public%20financing%20and%20private%20investment%20can%20unlock%20major%20projects%20across%20the%20Baltimore%20region%2C%20from%20downtown%20to%20the%20Jones%20Falls%20and%20Station%20North.%20Speakers%20include%20Maryland%20Housing%20Secretary%20Jacob%20Day%2C%20Maryland%20Transportation%20Authority%20Administrator%20Tony%20Bridges%20and%20Baltimore%20Development%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fgbc.org%2Fevent%2Fvision-2035-building-for-a-better-baltimore-region%2F%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-34a33e698ad4&location=The%20Paramount%20Baltimore%2C%201300%20Warner%20St%2C%20Baltimore%2C%20MD%2021230&ctz=America%2FNew_York",
+    "outlook": "https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=Vision%202035%3A%20Building%20for%20a%20Better%20Baltimore%20Region&startdt=2026-12-08T08%3A30%3A00-05%3A00&enddt=2026-12-08T11%3A30%3A00-05%3A00&allday=false&body=A%20morning%20forum%20on%20how%20public%20financing%20and%20private%20investment%20can%20unlock%20major%20projects%20across%20the%20Baltimore%20region%2C%20from%20downtown%20to%20the%20Jones%20Falls%20and%20Station%20North.%20Speakers%20include%20Maryland%20Housing%20Secretary%20Jacob%20Day%2C%20Maryland%20Transportation%20Authority%20Administrator%20Tony%20Bridges%20and%20Baltimore%20Development%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fgbc.org%2Fevent%2Fvision-2035-building-for-a-better-baltimore-region%2F%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-34a33e698ad4&location=The%20Paramount%20Baltimore%2C%201300%20Warner%20St%2C%20Baltimore%2C%20MD%2021230",
+    "office": "https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=Vision%202035%3A%20Building%20for%20a%20Better%20Baltimore%20Region&startdt=2026-12-08T08%3A30%3A00-05%3A00&enddt=2026-12-08T11%3A30%3A00-05%3A00&allday=false&body=A%20morning%20forum%20on%20how%20public%20financing%20and%20private%20investment%20can%20unlock%20major%20projects%20across%20the%20Baltimore%20region%2C%20from%20downtown%20to%20the%20Jones%20Falls%20and%20Station%20North.%20Speakers%20include%20Maryland%20Housing%20Secretary%20Jacob%20Day%2C%20Maryland%20Transportation%20Authority%20Administrator%20Tony%20Bridges%20and%20Baltimore%20Development%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fgbc.org%2Fevent%2Fvision-2035-building-for-a-better-baltimore-region%2F%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-34a33e698ad4&location=The%20Paramount%20Baltimore%2C%201300%20Warner%20St%2C%20Baltimore%2C%20MD%2021230"
+   },
+   "schema": {
+    "@type": "Event",
+    "name": "Vision 2035: Building for a Better Baltimore Region",
+    "startDate": "2026-12-08T08:30:00-05:00",
+    "endDate": "2026-12-08T11:30:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+     "@type": "Place",
+     "name": "The Paramount Baltimore",
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Baltimore",
+      "addressRegion": "MD",
+      "addressCountry": "US",
+      "streetAddress": "1300 Warner St"
+     }
+    },
+    "organizer": {
+     "@type": "Organization",
+     "name": "Greater Baltimore Committee"
+    },
+    "url": "https://gbc.org/event/vision-2035-building-for-a-better-baltimore-region/",
+    "description": "A morning forum on how public financing and private investment can unlock major projects across the Baltimore region, from downtown to the Jones Falls and Station North. Speakers include Maryland Housing Secretary Jacob Day, Maryland Transportation Authority Administrator Tony Bridges and Baltimore Development…"
+   }
+  },
+  {
+   "id": "664feea12d19",
+   "title": "Morgan CARES Annual Symposium: Strengthening Partnerships, Advancing Health",
+   "start_date": "2026-12-11",
+   "end_date": "2026-12-11",
+   "start_time": "09:00",
+   "end_time": "",
+   "all_day": false,
+   "start": "2026-12-11T09:00:00-05:00",
+   "end": "2026-12-11T11:00:00-05:00",
+   "timezone": "America/New_York",
+   "when": "Friday, Dec. 11, 9 a.m.",
+   "venue": "The A. Hoen & Co. Lithograph Building",
+   "address": "2101 E. Biddle Street, Baltimore Maryland",
+   "city": "Baltimore, MD",
+   "location": "The A. Hoen & Co. Lithograph Building, 2101 E. Biddle Street, Baltimore Maryland",
+   "organizer": "Morgan State University",
+   "format": "in-person",
+   "format_label": "In person",
+   "cost": "Free",
+   "summary": "Connect with community and academic partners to share research, exchange lessons, and advance health through partnership. Join us for the 2026 Morgan CARES Annual Symposium: Strengthening Partnerships, Advancing Health, a day celebrating how community members and academic partners are promoting health and making an…",
+   "event_url": "https://events.morgan.edu/event/morgan-cares-annual-symposium-strengthening-partnerships-advancing-health",
+   "registration_url": "",
+   "segments": [
+    "health"
+   ],
+   "segment_names": [
+    "Health"
+   ],
+   "tln_pick": false,
+   "first_seen": "2026-11-25",
+   "last_updated": "2026-11-25",
+   "group": "December 2026",
+   "badge": {
+    "month": "Dec",
+    "day": "11",
+    "range": ""
+   },
+   "links": {
+    "page": "https://thelocalnational.com/conferences/?region=baltimore#e-664feea12d19",
+    "ics": "https://calendar.thelocalnational.com/events/664feea12d19.ics",
+    "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Morgan%20CARES%20Annual%20Symposium%3A%20Strengthening%20Partnerships%2C%20Advancing%20Health&dates=20261211T090000%2F20261211T110000&details=Connect%20with%20community%20and%20academic%20partners%20to%20share%20research%2C%20exchange%20lessons%2C%20and%20advance%20health%20through%20partnership.%20Join%20us%20for%20the%202026%20Morgan%20CARES%20Annual%20Symposium%3A%20Strengthening%20Partnerships%2C%20Advancing%20Health%2C%20a%20day%20celebrating%20how%20community%20members%20and%20academic%20partners%20are%20promoting%20health%20and%20making%20an%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fevents.morgan.edu%2Fevent%2Fmorgan-cares-annual-symposium-strengthening-partnerships-advancing-health%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-664feea12d19&location=The%20A.%20Hoen%20%26%20Co.%20Lithograph%20Building%2C%202101%20E.%20Biddle%20Street%2C%20Baltimore%20Maryland&ctz=America%2FNew_York",
+    "outlook": "https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=Morgan%20CARES%20Annual%20Symposium%3A%20Strengthening%20Partnerships%2C%20Advancing%20Health&startdt=2026-12-11T09%3A00%3A00-05%3A00&enddt=2026-12-11T11%3A00%3A00-05%3A00&allday=false&body=Connect%20with%20community%20and%20academic%20partners%20to%20share%20research%2C%20exchange%20lessons%2C%20and%20advance%20health%20through%20partnership.%20Join%20us%20for%20the%202026%20Morgan%20CARES%20Annual%20Symposium%3A%20Strengthening%20Partnerships%2C%20Advancing%20Health%2C%20a%20day%20celebrating%20how%20community%20members%20and%20academic%20partners%20are%20promoting%20health%20and%20making%20an%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fevents.morgan.edu%2Fevent%2Fmorgan-cares-annual-symposium-strengthening-partnerships-advancing-health%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-664feea12d19&location=The%20A.%20Hoen%20%26%20Co.%20Lithograph%20Building%2C%202101%20E.%20Biddle%20Street%2C%20Baltimore%20Maryland",
+    "office": "https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=Morgan%20CARES%20Annual%20Symposium%3A%20Strengthening%20Partnerships%2C%20Advancing%20Health&startdt=2026-12-11T09%3A00%3A00-05%3A00&enddt=2026-12-11T11%3A00%3A00-05%3A00&allday=false&body=Connect%20with%20community%20and%20academic%20partners%20to%20share%20research%2C%20exchange%20lessons%2C%20and%20advance%20health%20through%20partnership.%20Join%20us%20for%20the%202026%20Morgan%20CARES%20Annual%20Symposium%3A%20Strengthening%20Partnerships%2C%20Advancing%20Health%2C%20a%20day%20celebrating%20how%20community%20members%20and%20academic%20partners%20are%20promoting%20health%20and%20making%20an%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fevents.morgan.edu%2Fevent%2Fmorgan-cares-annual-symposium-strengthening-partnerships-advancing-health%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-664feea12d19&location=The%20A.%20Hoen%20%26%20Co.%20Lithograph%20Building%2C%202101%20E.%20Biddle%20Street%2C%20Baltimore%20Maryland"
+   },
+   "schema": {
+    "@type": "Event",
+    "name": "Morgan CARES Annual Symposium: Strengthening Partnerships, Advancing Health",
+    "startDate": "2026-12-11T09:00:00-05:00",
+    "endDate": "2026-12-11T11:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+     "@type": "Place",
+     "name": "The A. Hoen & Co. Lithograph Building",
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Baltimore",
+      "addressRegion": "MD",
+      "addressCountry": "US",
+      "streetAddress": "2101 E. Biddle Street"
+     }
+    },
+    "organizer": {
+     "@type": "Organization",
+     "name": "Morgan State University"
+    },
+    "url": "https://events.morgan.edu/event/morgan-cares-annual-symposium-strengthening-partnerships-advancing-health",
+    "description": "Connect with community and academic partners to share research, exchange lessons, and advance health through partnership. Join us for the 2026 Morgan CARES Annual Symposium: Strengthening Partnerships, Advancing Health, a day celebrating how community members and academic partners are promoting health and making an…"
+   }
+  },
+  {
+   "id": "e5a5977be91b",
+   "title": "Baltimore City Public School Choice Fair",
+   "start_date": "2026-12-12",
+   "end_date": "2026-12-12",
+   "start_time": "",
+   "end_time": "",
+   "all_day": true,
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "timezone": "America/New_York",
+   "when": "Saturday, Dec. 12",
+   "venue": "Baltimore Convention Center",
+   "address": "One West Pratt Street, Baltimore, MD 21201",
+   "city": "Baltimore, MD",
+   "location": "Baltimore Convention Center, One West Pratt Street, Baltimore, MD 21201",
+   "organizer": "Listed by the Baltimore Convention Center",
+   "format": "in-person",
+   "format_label": "In person",
+   "cost": "",
+   "summary": "Annual School Choice Fair The kickoff for this year’s Middle & High School Choice process, starts with the Annual School Choice Fair that is scheduled to be held at the Baltimore Convention Center on December 12, 2026.",
+   "event_url": "https://www.bccenter.org/events/2026/baltimore-city-public-school-choice-fair",
+   "registration_url": "",
+   "segments": [
+    "tln-picks",
+    "schools"
+   ],
+   "segment_names": [
+    "TLN picks",
+    "Schools"
+   ],
+   "tln_pick": true,
+   "first_seen": "2026-11-25",
+   "last_updated": "2026-11-25",
+   "group": "December 2026",
+   "badge": {
+    "month": "Dec",
+    "day": "12",
+    "range": ""
+   },
+   "links": {
+    "page": "https://thelocalnational.com/conferences/?region=baltimore#e-e5a5977be91b",
+    "ics": "https://calendar.thelocalnational.com/events/e5a5977be91b.ics",
+    "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Baltimore%20City%20Public%20School%20Choice%20Fair&dates=20261212%2F20261213&details=Annual%20School%20Choice%20Fair%20The%20kickoff%20for%20this%20year%E2%80%99s%20Middle%20%26%20High%20School%20Choice%20process%2C%20starts%20with%20the%20Annual%20School%20Choice%20Fair%20that%20is%20scheduled%20to%20be%20held%20at%20the%20Baltimore%20Convention%20Center%20on%20December%2012%2C%202026.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.bccenter.org%2Fevents%2F2026%2Fbaltimore-city-public-school-choice-fair%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-e5a5977be91b&location=Baltimore%20Convention%20Center%2C%20One%20West%20Pratt%20Street%2C%20Baltimore%2C%20MD%2021201",
+    "outlook": "https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=Baltimore%20City%20Public%20School%20Choice%20Fair&startdt=2026-12-12&enddt=2026-12-13&allday=true&body=Annual%20School%20Choice%20Fair%20The%20kickoff%20for%20this%20year%E2%80%99s%20Middle%20%26%20High%20School%20Choice%20process%2C%20starts%20with%20the%20Annual%20School%20Choice%20Fair%20that%20is%20scheduled%20to%20be%20held%20at%20the%20Baltimore%20Convention%20Center%20on%20December%2012%2C%202026.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.bccenter.org%2Fevents%2F2026%2Fbaltimore-city-public-school-choice-fair%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-e5a5977be91b&location=Baltimore%20Convention%20Center%2C%20One%20West%20Pratt%20Street%2C%20Baltimore%2C%20MD%2021201",
+    "office": "https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=Baltimore%20City%20Public%20School%20Choice%20Fair&startdt=2026-12-12&enddt=2026-12-13&allday=true&body=Annual%20School%20Choice%20Fair%20The%20kickoff%20for%20this%20year%E2%80%99s%20Middle%20%26%20High%20School%20Choice%20process%2C%20starts%20with%20the%20Annual%20School%20Choice%20Fair%20that%20is%20scheduled%20to%20be%20held%20at%20the%20Baltimore%20Convention%20Center%20on%20December%2012%2C%202026.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.bccenter.org%2Fevents%2F2026%2Fbaltimore-city-public-school-choice-fair%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-e5a5977be91b&location=Baltimore%20Convention%20Center%2C%20One%20West%20Pratt%20Street%2C%20Baltimore%2C%20MD%2021201"
+   },
+   "schema": {
+    "@type": "Event",
+    "name": "Baltimore City Public School Choice Fair",
+    "startDate": "2026-12-12",
+    "endDate": "2026-12-12",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+     "@type": "Place",
+     "name": "Baltimore Convention Center",
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Baltimore",
+      "addressRegion": "MD",
+      "addressCountry": "US",
+      "streetAddress": "One West Pratt Street"
+     }
+    },
+    "organizer": {
+     "@type": "Organization",
+     "name": "Listed by the Baltimore Convention Center"
+    },
+    "url": "https://www.bccenter.org/events/2026/baltimore-city-public-school-choice-fair",
+    "description": "Annual School Choice Fair The kickoff for this year’s Middle & High School Choice process, starts with the Annual School Choice Fair that is scheduled to be held at the Baltimore Convention Center on December 12, 2026."
+   }
+  },
+  {
+   "id": "493ef4666a76",
+   "title": "Mid-Atlantic Nursery Trade Show",
+   "start_date": "2027-01-13",
+   "end_date": "2027-01-15",
+   "start_time": "",
+   "end_time": "",
+   "all_day": true,
+   "start": "2027-01-13",
+   "end": "2027-01-15",
+   "timezone": "America/New_York",
+   "when": "Jan. 13–15, 2027",
+   "venue": "Baltimore Convention Center",
+   "address": "One West Pratt Street, Baltimore, MD 21201",
+   "city": "Baltimore, MD",
+   "location": "Baltimore Convention Center, One West Pratt Street, Baltimore, MD 21201",
+   "organizer": "Listed by the Baltimore Convention Center",
+   "format": "in-person",
+   "format_label": "In person",
+   "cost": "",
+   "summary": "The Mid-Atlantic Nursery Trade Show (MANTS) is one of the horticulture industry’s largest and most B2B trade shows. Thousands of industry professionals gather at MANTS in January to connect, source plants and products, discover what’s new, and build business relationships. All education happens peer-to-peer on the…",
+   "event_url": "https://www.bccenter.org/events/2027/mid-atlantic-nursery-trade-show",
+   "registration_url": "",
+   "segments": [
+    "major",
+    "economy"
+   ],
+   "segment_names": [
+    "Major conferences",
+    "Economy"
+   ],
+   "tln_pick": false,
+   "first_seen": "2026-11-25",
+   "last_updated": "2026-11-25",
+   "group": "January 2027",
+   "badge": {
+    "month": "Jan",
+    "day": "13",
+    "range": "to Jan. 15"
+   },
+   "links": {
+    "page": "https://thelocalnational.com/conferences/?region=baltimore#e-493ef4666a76",
+    "ics": "https://calendar.thelocalnational.com/events/493ef4666a76.ics",
+    "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mid-Atlantic%20Nursery%20Trade%20Show&dates=20270113%2F20270116&details=The%20Mid-Atlantic%20Nursery%20Trade%20Show%20%28MANTS%29%20is%20one%20of%20the%20horticulture%20industry%E2%80%99s%20largest%20and%20most%20B2B%20trade%20shows.%20Thousands%20of%20industry%20professionals%20gather%20at%20MANTS%20in%20January%20to%20connect%2C%20source%20plants%20and%20products%2C%20discover%20what%E2%80%99s%20new%2C%20and%20build%20business%20relationships.%20All%20education%20happens%20peer-to-peer%20on%20the%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.bccenter.org%2Fevents%2F2027%2Fmid-atlantic-nursery-trade-show%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-493ef4666a76&location=Baltimore%20Convention%20Center%2C%20One%20West%20Pratt%20Street%2C%20Baltimore%2C%20MD%2021201",
+    "outlook": "https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=Mid-Atlantic%20Nursery%20Trade%20Show&startdt=2027-01-13&enddt=2027-01-16&allday=true&body=The%20Mid-Atlantic%20Nursery%20Trade%20Show%20%28MANTS%29%20is%20one%20of%20the%20horticulture%20industry%E2%80%99s%20largest%20and%20most%20B2B%20trade%20shows.%20Thousands%20of%20industry%20professionals%20gather%20at%20MANTS%20in%20January%20to%20connect%2C%20source%20plants%20and%20products%2C%20discover%20what%E2%80%99s%20new%2C%20and%20build%20business%20relationships.%20All%20education%20happens%20peer-to-peer%20on%20the%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.bccenter.org%2Fevents%2F2027%2Fmid-atlantic-nursery-trade-show%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-493ef4666a76&location=Baltimore%20Convention%20Center%2C%20One%20West%20Pratt%20Street%2C%20Baltimore%2C%20MD%2021201",
+    "office": "https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=Mid-Atlantic%20Nursery%20Trade%20Show&startdt=2027-01-13&enddt=2027-01-16&allday=true&body=The%20Mid-Atlantic%20Nursery%20Trade%20Show%20%28MANTS%29%20is%20one%20of%20the%20horticulture%20industry%E2%80%99s%20largest%20and%20most%20B2B%20trade%20shows.%20Thousands%20of%20industry%20professionals%20gather%20at%20MANTS%20in%20January%20to%20connect%2C%20source%20plants%20and%20products%2C%20discover%20what%E2%80%99s%20new%2C%20and%20build%20business%20relationships.%20All%20education%20happens%20peer-to-peer%20on%20the%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.bccenter.org%2Fevents%2F2027%2Fmid-atlantic-nursery-trade-show%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-493ef4666a76&location=Baltimore%20Convention%20Center%2C%20One%20West%20Pratt%20Street%2C%20Baltimore%2C%20MD%2021201"
+   },
+   "schema": {
+    "@type": "Event",
+    "name": "Mid-Atlantic Nursery Trade Show",
+    "startDate": "2027-01-13",
+    "endDate": "2027-01-15",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+     "@type": "Place",
+     "name": "Baltimore Convention Center",
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Baltimore",
+      "addressRegion": "MD",
+      "addressCountry": "US",
+      "streetAddress": "One West Pratt Street"
+     }
+    },
+    "organizer": {
+     "@type": "Organization",
+     "name": "Listed by the Baltimore Convention Center"
+    },
+    "url": "https://www.bccenter.org/events/2027/mid-atlantic-nursery-trade-show",
+    "description": "The Mid-Atlantic Nursery Trade Show (MANTS) is one of the horticulture industry’s largest and most B2B trade shows. Thousands of industry professionals gather at MANTS in January to connect, source plants and products, discover what’s new, and build business relationships. All education happens peer-to-peer on the…"
+   }
+  },
+  {
+   "id": "e23060aa8dfd",
+   "title": "Baltimore Home Show",
+   "start_date": "2027-01-23",
+   "end_date": "2027-01-24",
+   "start_time": "",
+   "end_time": "",
+   "all_day": true,
+   "start": "2027-01-23",
+   "end": "2027-01-24",
+   "timezone": "America/New_York",
+   "when": "Jan. 23–24, 2027",
+   "venue": "Baltimore Convention Center",
+   "address": "One West Pratt Street, Baltimore, MD 21201",
+   "city": "Baltimore, MD",
+   "location": "Baltimore Convention Center, One West Pratt Street, Baltimore, MD 21201",
+   "organizer": "Listed by the Baltimore Convention Center",
+   "format": "in-person",
+   "format_label": "In person",
+   "cost": "",
+   "summary": "About the Event The Home Show is designed to inspire and energize homeowners as they plan their next home improvement project—whether that’s a small update or a full renovation. The show features a wide range of home improvement professionals in a fun, interactive setting. Attendees have the opportunity to meet…",
+   "event_url": "https://www.bccenter.org/events/2027/baltimore-home-show",
+   "registration_url": "",
+   "segments": [
+    "major"
+   ],
+   "segment_names": [
+    "Major conferences"
+   ],
+   "tln_pick": false,
+   "first_seen": "2026-11-25",
+   "last_updated": "2026-11-25",
+   "group": "January 2027",
+   "badge": {
+    "month": "Jan",
+    "day": "23",
+    "range": "to Jan. 24"
+   },
+   "links": {
+    "page": "https://thelocalnational.com/conferences/?region=baltimore#e-e23060aa8dfd",
+    "ics": "https://calendar.thelocalnational.com/events/e23060aa8dfd.ics",
+    "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Baltimore%20Home%20Show&dates=20270123%2F20270125&details=About%20the%20Event%20The%20Home%20Show%20is%20designed%20to%20inspire%20and%20energize%20homeowners%20as%20they%20plan%20their%20next%20home%20improvement%20project%E2%80%94whether%20that%E2%80%99s%20a%20small%20update%20or%20a%20full%20renovation.%20The%20show%20features%20a%20wide%20range%20of%20home%20improvement%20professionals%20in%20a%20fun%2C%20interactive%20setting.%20Attendees%20have%20the%20opportunity%20to%20meet%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.bccenter.org%2Fevents%2F2027%2Fbaltimore-home-show%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-e23060aa8dfd&location=Baltimore%20Convention%20Center%2C%20One%20West%20Pratt%20Street%2C%20Baltimore%2C%20MD%2021201",
+    "outlook": "https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=Baltimore%20Home%20Show&startdt=2027-01-23&enddt=2027-01-25&allday=true&body=About%20the%20Event%20The%20Home%20Show%20is%20designed%20to%20inspire%20and%20energize%20homeowners%20as%20they%20plan%20their%20next%20home%20improvement%20project%E2%80%94whether%20that%E2%80%99s%20a%20small%20update%20or%20a%20full%20renovation.%20The%20show%20features%20a%20wide%20range%20of%20home%20improvement%20professionals%20in%20a%20fun%2C%20interactive%20setting.%20Attendees%20have%20the%20opportunity%20to%20meet%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.bccenter.org%2Fevents%2F2027%2Fbaltimore-home-show%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-e23060aa8dfd&location=Baltimore%20Convention%20Center%2C%20One%20West%20Pratt%20Street%2C%20Baltimore%2C%20MD%2021201",
+    "office": "https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=Baltimore%20Home%20Show&startdt=2027-01-23&enddt=2027-01-25&allday=true&body=About%20the%20Event%20The%20Home%20Show%20is%20designed%20to%20inspire%20and%20energize%20homeowners%20as%20they%20plan%20their%20next%20home%20improvement%20project%E2%80%94whether%20that%E2%80%99s%20a%20small%20update%20or%20a%20full%20renovation.%20The%20show%20features%20a%20wide%20range%20of%20home%20improvement%20professionals%20in%20a%20fun%2C%20interactive%20setting.%20Attendees%20have%20the%20opportunity%20to%20meet%E2%80%A6%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.bccenter.org%2Fevents%2F2027%2Fbaltimore-home-show%0A%0AFrom%20The%20Local%20National%27s%20Baltimore%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%3Fregion%3Dbaltimore%23e-e23060aa8dfd&location=Baltimore%20Convention%20Center%2C%20One%20West%20Pratt%20Street%2C%20Baltimore%2C%20MD%2021201"
+   },
+   "schema": {
+    "@type": "Event",
+    "name": "Baltimore Home Show",
+    "startDate": "2027-01-23",
+    "endDate": "2027-01-24",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+     "@type": "Place",
+     "name": "Baltimore Convention Center",
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Baltimore",
+      "addressRegion": "MD",
+      "addressCountry": "US",
+      "streetAddress": "One West Pratt Street"
+     }
+    },
+    "organizer": {
+     "@type": "Organization",
+     "name": "Listed by the Baltimore Convention Center"
+    },
+    "url": "https://www.bccenter.org/events/2027/baltimore-home-show",
+    "description": "About the Event The Home Show is designed to inspire and energize homeowners as they plan their next home improvement project—whether that’s a small update or a full renovation. The show features a wide range of home improvement professionals in a fun, interactive setting. Attendees have the opportunity to meet…"
+   }
+  }
+ ]
+}

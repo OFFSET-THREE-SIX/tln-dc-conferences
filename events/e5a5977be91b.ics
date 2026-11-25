@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e5a5977be91b@thelocalnational.com
+DTSTAMP:20261125T120000Z
+LAST-MODIFIED:20261125T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Baltimore City Public School Choice Fair
+LOCATION:Baltimore Convention Center\, One West Pratt Street\, Baltimore\, 
+ MD 21201
+DESCRIPTION:Annual School Choice Fair The kickoff for this year’s Middle 
+ & High School Choice process\, starts with the Annual School Choice Fair t
+ hat is scheduled to be held at the Baltimore Convention Center on December
+  12\, 2026.\n\nWhen: Saturday\, Dec. 12\nWhere: Baltimore Convention Cente
+ r\, One West Pratt Street\, Baltimore\, MD 21201\nOrganizer: Listed by the
+  Baltimore Convention Center\nFormat: In person\nEvent page: https://www.b
+ ccenter.org/events/2026/baltimore-city-public-school-choice-fair\n\nListed
+  by The Local National's Baltimore Conference Calendar. Confirm details wi
+ th the organizer before you go.\nhttps://thelocalnational.com/conferences/
+ ?region=baltimore#e-e5a5977be91b
+URL:https://www.bccenter.org/events/2026/baltimore-city-public-school-choic
+ e-fair
+CATEGORIES:TLN picks,Schools
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

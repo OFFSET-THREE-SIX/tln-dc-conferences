@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e23060aa8dfd@thelocalnational.com
+DTSTAMP:20261125T120000Z
+LAST-MODIFIED:20261125T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270125
+SUMMARY:Baltimore Home Show
+LOCATION:Baltimore Convention Center\, One West Pratt Street\, Baltimore\, 
+ MD 21201
+DESCRIPTION:About the Event The Home Show is designed to inspire and energi
+ ze homeowners as they plan their next home improvement project—whether t
+ hat’s a small update or a full renovation. The show features a wide rang
+ e of home improvement professionals in a fun\, interactive setting. Attend
+ ees have the opportunity to meet…\n\nWhen: Jan. 23–24\, 2027\nWhere: B
+ altimore Convention Center\, One West Pratt Street\, Baltimore\, MD 21201\
+ nOrganizer: Listed by the Baltimore Convention Center\nFormat: In person\n
+ Event page: https://www.bccenter.org/events/2027/baltimore-home-show\n\nLi
+ sted by The Local National's Baltimore Conference Calendar. Confirm detail
+ s with the organizer before you go.\nhttps://thelocalnational.com/conferen
+ ces/?region=baltimore#e-e23060aa8dfd
+URL:https://www.bccenter.org/events/2027/baltimore-home-show
+CATEGORIES:Major conferences
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

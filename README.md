@@ -4,7 +4,7 @@ Conferences, summits and public forums in Washington, D.C. that show where natio
 
 **Browse it:** https://thelocalnational.com/conferences/
 
-This repository is the public, automatically updated output of The Local National's conference tracker. Every morning it checks D.C. venues, universities, think tanks and civic groups for in-person and hybrid conferences, summits and public forums. Editors verify the largest events each week.
+This repository is the public, automatically updated output of The Local National's conference tracker. Every morning it checks D.C. venues, universities, think tanks and civic groups for in-person and hybrid conferences, summits and public forums. Baltimore is an optional second calendar, with separate data and subscriptions. Some sources need manual review; a weekly editorial sweep is not yet scheduled.
 
 ## Subscribe
 
@@ -26,6 +26,10 @@ Subscribe once and new events appear in your calendar on their own. Pick everyth
 | Government and democracy | 12 | [webcal](webcal://calendar.thelocalnational.com/feeds/governance.ics) · [Google](https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fgovernance.ics) · [Outlook](https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fgovernance.ics&name=TLN%20D.C.%20Conferences%3A%20Government%20and%20democracy) | `https://calendar.thelocalnational.com/feeds/governance.ics` |
 
 Every event on the page also has its own **Add to calendar** menu (Google, Apple, Outlook or a downloadable `.ics` file).
+
+## Baltimore (optional)
+
+D.C. remains the default. [Browse Baltimore](https://thelocalnational.com/conferences/?region=baltimore), or [subscribe to Baltimore](https://calendar.thelocalnational.com/feeds/baltimore.ics). Its open data is at [baltimore.json](https://calendar.thelocalnational.com/api/baltimore.json) and [baltimore.csv](https://calendar.thelocalnational.com/api/baltimore.csv); topic feeds use `baltimore-<slug>.ics`. A separate [D.C. + Baltimore feed](https://calendar.thelocalnational.com/feeds/dc-baltimore.ics) is available if you deliberately want both. Existing D.C. feeds and API endpoints remain D.C.-only.
 
 ## Use the data
 

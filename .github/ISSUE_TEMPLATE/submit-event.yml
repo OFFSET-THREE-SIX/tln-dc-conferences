@@ -1,5 +1,5 @@
 name: Submit an event
-description: Suggest a conference, summit or public forum in Washington, D.C. for the calendar.
+description: Suggest a conference, summit or public forum in D.C. or Baltimore for the calendar.
 title: "Event: "
 labels: ["event-submission"]
 body:
@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thanks for helping build The Local National's D.C. Conference Calendar. We list in-person and hybrid
-        conferences, summits, forums and major public events in D.C. and nearby. We check every submission
+        conferences, summits, forums and major public events in D.C. and nearby, or Baltimore city and county. We check every submission
         against the organizer's own page before listing it.
   - type: input
     id: title
@@ -27,6 +27,15 @@ body:
     attributes:
       label: Start and end time (Eastern)
       placeholder: 8 a.m. to 11 a.m.
+  - type: dropdown
+    id: region
+    attributes:
+      label: Calendar
+      options:
+        - D.C. and adjacent venues
+        - Baltimore city and Baltimore County
+    validations:
+      required: true
   - type: input
     id: venue
     attributes:

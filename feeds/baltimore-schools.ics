@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TLN Baltimore Conferences: Schools
+NAME:TLN Baltimore Conferences: Schools
+X-WR-CALDESC:Schools\, education policy\, students and teachers. Free to us
+ e\, embed and republish with credit to The Local National (thelocalnationa
+ l.com). Confirm details with the organizer before you go.
+DESCRIPTION:Schools\, education policy\, students and teachers. Free to use
+ \, embed and republish with credit to The Local National (thelocalnational
+ .com). Confirm details with the organizer before you go.
+X-WR-TIMEZONE:America/New_York
+URL:https://thelocalnational.com/conferences/?region=baltimore
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+SOURCE;VALUE=URI:https://calendar.thelocalnational.com/feeds/baltimore-scho
+ ols.ics
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:daa06b11ce95@thelocalnational.com
+DTSTAMP:20261125T120000Z
+LAST-MODIFIED:20261125T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261203T120000
+DTEND;TZID=America/New_York:20261203T160000
+SUMMARY:2026 Student December Research Conference
+LOCATION:Science Complex\, 7801 York Rd Towson MD 21252
+DESCRIPTION:The Student December Research Conference will be held on Thursd
+ ay\, December 3\, 2026 from 12 to 4 p.m. in the Science Complex atrium. Th
+ e conference will feature poster presentations by students who have conduc
+ ted research under the guidance of faculty and highlights the work of TU s
+ tudents (more info linked here)…\n\nWhen: Thursday\, Dec. 3\, noon to 4 
+ p.m.\nWhere: Science Complex\, 7801 York Rd Towson MD 21252\nOrganizer: To
+ wson University\nFormat: In person\nEvent page: https://events.towson.edu/
+ event/2026-student-december-research-conference\n\nListed by The Local Nat
+ ional's Baltimore Conference Calendar. Confirm details with the organizer 
+ before you go.\nhttps://thelocalnational.com/conferences/?region=baltimore
+ #e-daa06b11ce95
+URL:https://events.towson.edu/event/2026-student-december-research-conferen
+ ce
+CATEGORIES:Schools
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e5a5977be91b@thelocalnational.com
+DTSTAMP:20261125T120000Z
+LAST-MODIFIED:20261125T120000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Baltimore City Public School Choice Fair
+LOCATION:Baltimore Convention Center\, One West Pratt Street\, Baltimore\, 
+ MD 21201
+DESCRIPTION:Annual School Choice Fair The kickoff for this year’s Middle 
+ & High School Choice process\, starts with the Annual School Choice Fair t
+ hat is scheduled to be held at the Baltimore Convention Center on December
+  12\, 2026.\n\nWhen: Saturday\, Dec. 12\nWhere: Baltimore Convention Cente
+ r\, One West Pratt Street\, Baltimore\, MD 21201\nOrganizer: Listed by the
+  Baltimore Convention Center\nFormat: In person\nEvent page: https://www.b
+ ccenter.org/events/2026/baltimore-city-public-school-choice-fair\n\nListed
+  by The Local National's Baltimore Conference Calendar. Confirm details wi
+ th the organizer before you go.\nhttps://thelocalnational.com/conferences/
+ ?region=baltimore#e-e5a5977be91b
+URL:https://www.bccenter.org/events/2026/baltimore-city-public-school-choic
+ e-fair
+CATEGORIES:TLN picks,Schools
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

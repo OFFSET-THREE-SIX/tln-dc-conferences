@@ -23,6 +23,19 @@
 .tlncc [hidden] { display: none !important; }
 .tlncc-vh { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 
+/* City switch: ordinary links work without JavaScript. */
+.tlncc-regions { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0 0 1rem; padding: .25rem 0; }
+.tlncc-region {
+  display: inline-flex; align-items: center; justify-content: center; min-height: 2.75rem;
+  padding: .6rem 1rem; border: 1px solid var(--tlncc-ink); border-radius: 999px;
+  font: 700 .875rem/1.2 var(--tlncc-label); background: var(--tlncc-band); color: var(--tlncc-ink) !important;
+  text-decoration: none !important;
+}
+.tlncc-region:hover { background: var(--tlncc-field); }
+.tlncc-region[aria-current="page"] { background: var(--tlncc-ink); color: var(--tlncc-paper) !important; }
+.tlncc-region:focus { outline: 3px solid var(--tlncc-red); outline-offset: 3px; }
+.tlncc-region-note { margin: 0 0 1rem; font: .875rem/1.45 var(--tlncc-label); color: var(--tlncc-meta); }
+
 /* Subscribe panel */
 .tlncc-sub { background: var(--tlncc-band); border-top: 3px solid var(--tlncc-ink); padding: 1.25rem 1.1rem 1.1rem; margin: 0 0 1.5rem; }
 .tlncc-h2 { font: 700 1.45rem/1.15 var(--tlncc-display); margin: 0 0 .35rem; letter-spacing: -.01em; }

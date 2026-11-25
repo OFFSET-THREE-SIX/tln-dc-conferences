@@ -22,6 +22,7 @@
     try { wanted = new URLSearchParams(window.location.search).get('theme'); } catch (e) { wanted = null; }
     var hm = window.location.hash.match(/^#theme=([a-z0-9-]+)$/);
     if (hm) { wanted = hm[1]; }
+    if (wanted && !/^[a-z0-9-]+$/.test(wanted)) { wanted = null; }
     if (wanted && root.querySelector('.tlncc-chip[data-seg="' + wanted + '"]')) { current = wanted; }
 
     function chipName(seg) {
@@ -70,6 +71,7 @@
       if (!root.hasAttribute('data-tlncc-url') || !window.history || !window.URL) { return; }
       try {
         var u = new URL(window.location.href);
+        // Mutate only theme; preserve region and every other existing query parameter.
         if (current === 'all') { u.searchParams.delete('theme'); } else { u.searchParams.set('theme', current); }
         u.hash = '';
         window.history.replaceState(null, '', u.toString());

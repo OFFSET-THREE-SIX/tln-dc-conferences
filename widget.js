@@ -5,9 +5,10 @@
       <script src="https://calendar.thelocalnational.com/widget.js" async></script>
 
     Options (all optional):
+      data-region  dc (default) or baltimore
       data-theme   a calendar slug such as housing, transit or tln-picks (default: all events)
       data-limit   how many upcoming events to show (default 5, max 50)
-      data-title   heading text (default "D.C. conferences" plus the theme name)
+      data-title   heading text (default "D.C. conferences" or "Baltimore conferences" plus the theme name)
     Free to use with credit to The Local National. */
 (function () {
   'use strict';
@@ -53,7 +54,12 @@
 
   function safeUrl(u) { return /^(https?|webcal):\/\//i.test(u || '') ? u : '#'; }
 
+  function regionOf(target) {
+    return (target.getAttribute('data-region') || '').toLowerCase() === 'baltimore' ? 'baltimore' : 'dc';
+  }
+
   function render(target, data) {
+    var region = regionOf(target);
     var slug = (target.getAttribute('data-theme') || 'all').toLowerCase();
     var limit = Math.max(1, Math.min(50, parseInt(target.getAttribute('data-limit') || '5', 10) || 5));
     var seg = null;
@@ -67,7 +73,7 @@
     var box = el('div', 'tlnw');
     box.appendChild(el('span', 'tlnw-k', 'The Local National'));
     box.appendChild(el('span', 'tlnw-h', target.getAttribute('data-title') ||
-      ('D.C. conferences' + (seg && slug !== 'all' ? ': ' + seg.name : ''))));
+      ((region === 'baltimore' ? 'Baltimore' : 'D.C.') + ' conferences' + (seg && slug !== 'all' ? ': ' + seg.name : ''))));
     if (!events.length) {
       box.appendChild(el('p', 'tlnw-e', 'No upcoming events listed yet. Subscribe to get them as they are added.'));
     } else {
@@ -91,7 +97,8 @@
     }
     var f = el('div', 'tlnw-f');
     var all = el('a', null, 'See the full calendar');
-    all.href = safeUrl((data.page_url || base + '/') + (slug !== 'all' ? '?theme=' + encodeURIComponent(slug) : ''));
+    var page = data.page_url || base + (region === 'baltimore' ? '/baltimore/' : '/');
+    all.href = safeUrl(page + (slug !== 'all' ? (page.indexOf('?') > -1 ? '&' : '?') + 'theme=' + encodeURIComponent(slug) : ''));
     all.target = '_blank';
     all.rel = 'noopener';
     f.appendChild(all);
@@ -109,21 +116,27 @@
     var targets = document.querySelectorAll('[data-tln-conferences]');
     if (!targets.length || !base) { return; }
     addStyle();
-    fetch(base + '/api/events.json', { credentials: 'omit' })
-      .then(function (r) { if (!r.ok) { throw new Error(r.status); } return r.json(); })
-      .then(function (data) { Array.prototype.forEach.call(targets, function (t) { render(t, data); }); })
-      .catch(function () {
-        Array.prototype.forEach.call(targets, function (t) {
-          var p = el('p', 'tlnw-e');
-          var a = el('a', null, 'The Local National\u2019s D.C. Conference Calendar');
-          a.href = base + '/';
-          p.appendChild(document.createTextNode('See '));
-          p.appendChild(a);
-          p.appendChild(document.createTextNode('.'));
-          t.innerHTML = '';
-          t.appendChild(p);
+    var groups = { dc: [], baltimore: [] };
+    Array.prototype.forEach.call(targets, function (t) { groups[regionOf(t)].push(t); });
+    Object.keys(groups).forEach(function (region) {
+      var list = groups[region];
+      if (!list.length) { return; }
+      fetch(base + '/api/' + (region === 'baltimore' ? 'baltimore' : 'events') + '.json', { credentials: 'omit' })
+        .then(function (r) { if (!r.ok) { throw new Error(r.status); } return r.json(); })
+        .then(function (data) { list.forEach(function (t) { render(t, data); }); })
+        .catch(function () {
+          list.forEach(function (t) {
+            var p = el('p', 'tlnw-e');
+            var a = el('a', null, 'The Local National\u2019s ' + (region === 'baltimore' ? 'Baltimore' : 'D.C.') + ' Conference Calendar');
+            a.href = base + (region === 'baltimore' ? '/baltimore/' : '/');
+            p.appendChild(document.createTextNode('See '));
+            p.appendChild(a);
+            p.appendChild(document.createTextNode('.'));
+            t.innerHTML = '';
+            t.appendChild(p);
+          });
         });
-      });
+    });
   }
 
   if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', boot); } else { boot(); }

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:664feea12d19@thelocalnational.com
+DTSTAMP:20261125T120000Z
+LAST-MODIFIED:20261125T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261211T090000
+DTEND;TZID=America/New_York:20261211T110000
+SUMMARY:Morgan CARES Annual Symposium: Strengthening Partnerships\, Advanci
+ ng Health
+LOCATION:The A. Hoen & Co. Lithograph Building\, 2101 E. Biddle Street\, Ba
+ ltimore Maryland
+DESCRIPTION:Connect with community and academic partners to share research\
+ , exchange lessons\, and advance health through partnership. Join us for t
+ he 2026 Morgan CARES Annual Symposium: Strengthening Partnerships\, Advanc
+ ing Health\, a day celebrating how community members and academic partners
+  are promoting health and making an…\n\nWhen: Friday\, Dec. 11\, 9 a.m.\
+ nWhere: The A. Hoen & Co. Lithograph Building\, 2101 E. Biddle Street\, Ba
+ ltimore Maryland\nOrganizer: Morgan State University\nFormat: In person\nC
+ ost: Free\nEvent page: https://events.morgan.edu/event/morgan-cares-annual
+ -symposium-strengthening-partnerships-advancing-health\n\nListed by The Lo
+ cal National's Baltimore Conference Calendar. Confirm details with the org
+ anizer before you go.\nhttps://thelocalnational.com/conferences/?region=ba
+ ltimore#e-664feea12d19
+URL:https://events.morgan.edu/event/morgan-cares-annual-symposium-strengthe
+ ning-partnerships-advancing-health
+CATEGORIES:Health
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
