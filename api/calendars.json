@@ -2,7 +2,7 @@
  "name": "D.C. Conference Calendar",
  "publisher": "The Local National",
  "page_url": "https://thelocalnational.com/conferences/",
- "updated": "2026-11-25T06:00:54-05:00",
+ "updated": "2026-11-25T08:47:00-05:00",
  "calendars": [
   {
    "slug": "all",
@@ -24,7 +24,7 @@
    "name": "TLN picks",
    "kind": "segment",
    "feed_name": "TLN D.C. Conferences: TLN picks",
-   "description": "The events most relevant to The Local National's beat: D.C. stories that show where national issues are headed.",
+   "description": "The events we think matter most for The Local National's beat: D.C. stories that show where national issues are headed.",
    "count": 5,
    "links": {
     "ics": "https://calendar.thelocalnational.com/feeds/tln-picks.ics",

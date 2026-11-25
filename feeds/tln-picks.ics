@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:TLN D.C. Conferences: TLN picks
 NAME:TLN D.C. Conferences: TLN picks
-X-WR-CALDESC:The events most relevant to The Local National's beat: D.C. st
- ories that show where national issues are headed. Free to use\, embed and 
- republish with credit to The Local National (thelocalnational.com). Confir
- m details with the organizer before you go.
-DESCRIPTION:The events most relevant to The Local National's beat: D.C. sto
- ries that show where national issues are headed. Free to use\, embed and r
- epublish with credit to The Local National (thelocalnational.com). Confirm
-  details with the organizer before you go.
+X-WR-CALDESC:The events we think matter most for The Local National's beat:
+  D.C. stories that show where national issues are headed. Free to use\, em
+ bed and republish with credit to The Local National (thelocalnational.com)
+ . Confirm details with the organizer before you go.
+DESCRIPTION:The events we think matter most for The Local National's beat: 
+ D.C. stories that show where national issues are headed. Free to use\, emb
+ ed and republish with credit to The Local National (thelocalnational.com).
+  Confirm details with the organizer before you go.
 X-WR-TIMEZONE:America/New_York
 URL:https://thelocalnational.com/conferences/
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
