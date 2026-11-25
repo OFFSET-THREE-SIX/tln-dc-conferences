@@ -425,6 +425,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:9b074209626f@thelocalnational.com
+DTSTAMP:20261125T120000Z
+LAST-MODIFIED:20261125T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261207T150000
+DTEND;TZID=America/New_York:20261207T170000
+SUMMARY:The New Great Game in the Arctic
+LOCATION:American Enterprise Institute
+DESCRIPTION:The AEI calendar feed doesn't say whether this is in person\; s
+ ome AEI events are online only\, so check the event page.\n\nWhen: Monday\
+ , Dec. 7\, 3–5 p.m.\nWhere: American Enterprise Institute\nOrganizer: Am
+ erican Enterprise Institute\nEvent page: https://www.aei.org/events/the-ne
+ w-great-game-in-the-arctic/\n\nListed by The Local National's D.C. Confere
+ nce Calendar. Confirm details with the organizer before you go.\nhttps://t
+ helocalnational.com/conferences/#e-9b074209626f
+URL:https://www.aei.org/events/the-new-great-game-in-the-arctic/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:a49011b8595a@thelocalnational.com
 DTSTAMP:20261124T120000Z
 LAST-MODIFIED:20261124T120000Z
@@ -594,6 +614,28 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:b6d1c846ac13@thelocalnational.com
+DTSTAMP:20261125T120000Z
+LAST-MODIFIED:20261125T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261210T140000
+DTEND;TZID=America/New_York:20261210T150000
+SUMMARY:Cuba the Day After: From Water System Collapse to Recovery
+LOCATION:American Enterprise Institute
+DESCRIPTION:The AEI calendar feed doesn't say whether this is in person\; s
+ ome AEI events are online only\, so check the event page.\n\nWhen: Thursda
+ y\, Dec. 10\, 2–3 p.m.\nWhere: American Enterprise Institute\nOrganizer:
+  American Enterprise Institute\nEvent page: https://www.aei.org/events/cub
+ a-the-day-after-from-water-system-collapse-to-recovery/\n\nListed by The L
+ ocal National's D.C. Conference Calendar. Confirm details with the organiz
+ er before you go.\nhttps://thelocalnational.com/conferences/#e-b6d1c846ac1
+ 3
+URL:https://www.aei.org/events/cuba-the-day-after-from-water-system-collaps
+ e-to-recovery/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:8600e6ef1688@thelocalnational.com
 DTSTAMP:20261124T120000Z
 LAST-MODIFIED:20261124T120000Z
@@ -610,10 +652,10 @@ DESCRIPTION:Join Food Tank\, the Global Food Institute at George Washington
  ere: Dorothy Betts Theater\nOrganizer: George Washington University\nForma
  t: In person\nCost: Free\nEvent page: https://calendar.gwu.edu/event/2nd-a
  nnual-food-and-agriculture-policy-summit\nRegister: https://www.eventbrite
- .com/e/2nd-annual-food-and-agriculture-policy-summit-week-tickets-19954998
- 41744\n\nListed by The Local National's D.C. Conference Calendar. Confirm 
- details with the organizer before you go.\nhttps://thelocalnational.com/co
- nferences/#e-8600e6ef1688
+ .ie/e/2nd-annual-food-and-agriculture-policy-summit-washington-dc-tickets-
+ 2003702003631?aff=oddtdtcreator&keep_tld=true\n\nListed by The Local Natio
+ nal's D.C. Conference Calendar. Confirm details with the organizer before 
+ you go.\nhttps://thelocalnational.com/conferences/#e-8600e6ef1688
 URL:https://calendar.gwu.edu/event/2nd-annual-food-and-agriculture-policy-s
  ummit
 CATEGORIES:Health
@@ -679,19 +721,19 @@ DTSTAMP:20261124T120000Z
 LAST-MODIFIED:20261124T120000Z
 SEQUENCE:0
 DTSTART;TZID=America/New_York:20261217T140000
-DTEND;TZID=America/New_York:20261217T160000
+DTEND;TZID=America/New_York:20261217T150000
 SUMMARY:General Adrian Spain on regaining air superiority in a contested er
  a
 LOCATION:Atlantic Council Headquarters\, 1400 L Street NW • Floor 11\, Wa
  shington\, DC
 DESCRIPTION:The head of Air Combat Command joins the Atlantic Council to di
- scuss Air Force strategic priorities.\n\nWhen: Thursday\, Dec. 17\, 2 p.m.
- \nWhere: Atlantic Council Headquarters\, 1400 L Street NW • Floor 11\, W
- ashington\, DC\nOrganizer: Atlantic Council\nFormat: In person\nEvent page
- : https://www.atlanticcouncil.org/event/general-adrian-spain-on-regaining-
- air-superiority-in-a-contested-era/\n\nListed by The Local National's D.C.
-  Conference Calendar. Confirm details with the organizer before you go.\nh
- ttps://thelocalnational.com/conferences/#e-7f2321bf5bb0
+ scuss Air Force strategic priorities.\n\nWhen: Thursday\, Dec. 17\, 2–3 
+ p.m.\nWhere: Atlantic Council Headquarters\, 1400 L Street NW • Floor 11
+ \, Washington\, DC\nOrganizer: Atlantic Council\nFormat: In person\nEvent 
+ page: https://www.atlanticcouncil.org/event/general-adrian-spain-on-regain
+ ing-air-superiority-in-a-contested-era/\n\nListed by The Local National's 
+ D.C. Conference Calendar. Confirm details with the organizer before you go
+ .\nhttps://thelocalnational.com/conferences/#e-7f2321bf5bb0
 URL:https://www.atlanticcouncil.org/event/general-adrian-spain-on-regaining
  -air-superiority-in-a-contested-era/
 STATUS:CONFIRMED

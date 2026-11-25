@@ -12,7 +12,7 @@ Subscribe once and new events appear in your calendar on their own. Pick everyth
 
 | Calendar | Upcoming | Subscribe | Feed URL |
 |---|---|---|---|
-| All events | 38 | [webcal](webcal://calendar.thelocalnational.com/feeds/all.ics) · [Google](https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fall.ics) · [Outlook](https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fall.ics&name=The%20Local%20National%3A%20D.C.%20Conferences) | `https://calendar.thelocalnational.com/feeds/all.ics` |
+| All events | 40 | [webcal](webcal://calendar.thelocalnational.com/feeds/all.ics) · [Google](https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fall.ics) · [Outlook](https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fall.ics&name=The%20Local%20National%3A%20D.C.%20Conferences) | `https://calendar.thelocalnational.com/feeds/all.ics` |
 | TLN picks | 5 | [webcal](webcal://calendar.thelocalnational.com/feeds/tln-picks.ics) · [Google](https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Ftln-picks.ics) · [Outlook](https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Ftln-picks.ics&name=TLN%20D.C.%20Conferences%3A%20TLN%20picks) | `https://calendar.thelocalnational.com/feeds/tln-picks.ics` |
 | Major conferences | 8 | [webcal](webcal://calendar.thelocalnational.com/feeds/major.ics) · [Google](https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fmajor.ics) · [Outlook](https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fmajor.ics&name=TLN%20D.C.%20Conferences%3A%20Major%20conferences) | `https://calendar.thelocalnational.com/feeds/major.ics` |
 | Housing | 1 | [webcal](webcal://calendar.thelocalnational.com/feeds/housing.ics) · [Google](https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fhousing.ics) · [Outlook](https://outlook.live.com/calendar/0/addfromweb?url=https%3A%2F%2Fcalendar.thelocalnational.com%2Ffeeds%2Fhousing.ics&name=TLN%20D.C.%20Conferences%3A%20Housing) | `https://calendar.thelocalnational.com/feeds/housing.ics` |
@@ -65,4 +65,4 @@ On thelocalnational.com, the calendar is rendered natively by the WordPress plug
 
 ---
 
-The files here are generated; please don't edit them by hand. Updated Tuesday, Nov. 24, 2026.
+The files here are generated; please don't edit them by hand. Updated Wednesday, Nov. 25, 2026.

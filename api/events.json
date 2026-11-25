@@ -4,9 +4,9 @@
  "home_url": "https://thelocalnational.com",
  "page_url": "https://thelocalnational.com/conferences/",
  "base_url": "https://calendar.thelocalnational.com",
- "updated": "2026-11-24T11:50:16-05:00",
- "updated_label": "Tuesday, Nov. 24, 2026",
- "generated_for": "2026-11-24",
+ "updated": "2026-11-25T06:00:54-05:00",
+ "updated_label": "Wednesday, Nov. 25, 2026",
+ "generated_for": "2026-11-25",
  "timezone": "America/New_York",
  "note": "Free to use, embed and republish with credit to The Local National (thelocalnational.com). Confirm details with the organizer before you go.",
  "submit_url": "https://github.com/OFFSET-THREE-SIX/tln-dc-conferences/issues/new?template=submit-event.yml",
@@ -17,7 +17,7 @@
    "kind": "all",
    "feed_name": "The Local National: D.C. Conferences",
    "description": "Every conference, summit and public forum on the calendar.",
-   "count": 38,
+   "count": 40,
    "links": {
     "ics": "https://calendar.thelocalnational.com/feeds/all.ics",
     "webcal": "webcal://calendar.thelocalnational.com/feeds/all.ics",
@@ -1312,6 +1312,72 @@
    }
   },
   {
+   "id": "9b074209626f",
+   "title": "The New Great Game in the Arctic",
+   "start_date": "2026-12-07",
+   "end_date": "2026-12-07",
+   "start_time": "15:00",
+   "end_time": "17:00",
+   "all_day": false,
+   "start": "2026-12-07T15:00:00-05:00",
+   "end": "2026-12-07T17:00:00-05:00",
+   "timezone": "America/New_York",
+   "when": "Monday, Dec. 7, 3–5 p.m.",
+   "venue": "American Enterprise Institute",
+   "address": "",
+   "city": "Washington, DC",
+   "location": "American Enterprise Institute",
+   "organizer": "American Enterprise Institute",
+   "format": "unknown",
+   "format_label": "",
+   "cost": "",
+   "summary": "The AEI calendar feed doesn't say whether this is in person; some AEI events are online only, so check the event page.",
+   "event_url": "https://www.aei.org/events/the-new-great-game-in-the-arctic/",
+   "registration_url": "",
+   "segments": [],
+   "segment_names": [],
+   "tln_pick": false,
+   "first_seen": "2026-11-25",
+   "last_updated": "2026-11-25",
+   "group": "December 2026",
+   "badge": {
+    "month": "Dec",
+    "day": "7",
+    "range": ""
+   },
+   "links": {
+    "page": "https://thelocalnational.com/conferences/#e-9b074209626f",
+    "ics": "https://calendar.thelocalnational.com/events/9b074209626f.ics",
+    "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20New%20Great%20Game%20in%20the%20Arctic&dates=20261207T150000%2F20261207T170000&details=The%20AEI%20calendar%20feed%20doesn%27t%20say%20whether%20this%20is%20in%20person%3B%20some%20AEI%20events%20are%20online%20only%2C%20so%20check%20the%20event%20page.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.aei.org%2Fevents%2Fthe-new-great-game-in-the-arctic%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-9b074209626f&location=American%20Enterprise%20Institute&ctz=America%2FNew_York",
+    "outlook": "https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=The%20New%20Great%20Game%20in%20the%20Arctic&startdt=2026-12-07T15%3A00%3A00-05%3A00&enddt=2026-12-07T17%3A00%3A00-05%3A00&allday=false&body=The%20AEI%20calendar%20feed%20doesn%27t%20say%20whether%20this%20is%20in%20person%3B%20some%20AEI%20events%20are%20online%20only%2C%20so%20check%20the%20event%20page.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.aei.org%2Fevents%2Fthe-new-great-game-in-the-arctic%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-9b074209626f&location=American%20Enterprise%20Institute",
+    "office": "https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=The%20New%20Great%20Game%20in%20the%20Arctic&startdt=2026-12-07T15%3A00%3A00-05%3A00&enddt=2026-12-07T17%3A00%3A00-05%3A00&allday=false&body=The%20AEI%20calendar%20feed%20doesn%27t%20say%20whether%20this%20is%20in%20person%3B%20some%20AEI%20events%20are%20online%20only%2C%20so%20check%20the%20event%20page.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.aei.org%2Fevents%2Fthe-new-great-game-in-the-arctic%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-9b074209626f&location=American%20Enterprise%20Institute"
+   },
+   "schema": {
+    "@type": "Event",
+    "name": "The New Great Game in the Arctic",
+    "startDate": "2026-12-07T15:00:00-05:00",
+    "endDate": "2026-12-07T17:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+     "@type": "Place",
+     "name": "American Enterprise Institute",
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Washington",
+      "addressRegion": "DC",
+      "addressCountry": "US"
+     }
+    },
+    "organizer": {
+     "@type": "Organization",
+     "name": "American Enterprise Institute"
+    },
+    "url": "https://www.aei.org/events/the-new-great-game-in-the-arctic/",
+    "description": "The AEI calendar feed doesn't say whether this is in person; some AEI events are online only, so check the event page."
+   }
+  },
+  {
    "id": "a49011b8595a",
    "title": "Tomorrow’s fleet: Revitalizing US shipbuilding and the maritime industrial base",
    "start_date": "2026-12-07",
@@ -1797,6 +1863,72 @@
    }
   },
   {
+   "id": "b6d1c846ac13",
+   "title": "Cuba the Day After: From Water System Collapse to Recovery",
+   "start_date": "2026-12-10",
+   "end_date": "2026-12-10",
+   "start_time": "14:00",
+   "end_time": "15:00",
+   "all_day": false,
+   "start": "2026-12-10T14:00:00-05:00",
+   "end": "2026-12-10T15:00:00-05:00",
+   "timezone": "America/New_York",
+   "when": "Thursday, Dec. 10, 2–3 p.m.",
+   "venue": "American Enterprise Institute",
+   "address": "",
+   "city": "Washington, DC",
+   "location": "American Enterprise Institute",
+   "organizer": "American Enterprise Institute",
+   "format": "unknown",
+   "format_label": "",
+   "cost": "",
+   "summary": "The AEI calendar feed doesn't say whether this is in person; some AEI events are online only, so check the event page.",
+   "event_url": "https://www.aei.org/events/cuba-the-day-after-from-water-system-collapse-to-recovery/",
+   "registration_url": "",
+   "segments": [],
+   "segment_names": [],
+   "tln_pick": false,
+   "first_seen": "2026-11-25",
+   "last_updated": "2026-11-25",
+   "group": "December 2026",
+   "badge": {
+    "month": "Dec",
+    "day": "10",
+    "range": ""
+   },
+   "links": {
+    "page": "https://thelocalnational.com/conferences/#e-b6d1c846ac13",
+    "ics": "https://calendar.thelocalnational.com/events/b6d1c846ac13.ics",
+    "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cuba%20the%20Day%20After%3A%20From%20Water%20System%20Collapse%20to%20Recovery&dates=20261210T140000%2F20261210T150000&details=The%20AEI%20calendar%20feed%20doesn%27t%20say%20whether%20this%20is%20in%20person%3B%20some%20AEI%20events%20are%20online%20only%2C%20so%20check%20the%20event%20page.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.aei.org%2Fevents%2Fcuba-the-day-after-from-water-system-collapse-to-recovery%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-b6d1c846ac13&location=American%20Enterprise%20Institute&ctz=America%2FNew_York",
+    "outlook": "https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=Cuba%20the%20Day%20After%3A%20From%20Water%20System%20Collapse%20to%20Recovery&startdt=2026-12-10T14%3A00%3A00-05%3A00&enddt=2026-12-10T15%3A00%3A00-05%3A00&allday=false&body=The%20AEI%20calendar%20feed%20doesn%27t%20say%20whether%20this%20is%20in%20person%3B%20some%20AEI%20events%20are%20online%20only%2C%20so%20check%20the%20event%20page.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.aei.org%2Fevents%2Fcuba-the-day-after-from-water-system-collapse-to-recovery%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-b6d1c846ac13&location=American%20Enterprise%20Institute",
+    "office": "https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=Cuba%20the%20Day%20After%3A%20From%20Water%20System%20Collapse%20to%20Recovery&startdt=2026-12-10T14%3A00%3A00-05%3A00&enddt=2026-12-10T15%3A00%3A00-05%3A00&allday=false&body=The%20AEI%20calendar%20feed%20doesn%27t%20say%20whether%20this%20is%20in%20person%3B%20some%20AEI%20events%20are%20online%20only%2C%20so%20check%20the%20event%20page.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.aei.org%2Fevents%2Fcuba-the-day-after-from-water-system-collapse-to-recovery%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-b6d1c846ac13&location=American%20Enterprise%20Institute"
+   },
+   "schema": {
+    "@type": "Event",
+    "name": "Cuba the Day After: From Water System Collapse to Recovery",
+    "startDate": "2026-12-10T14:00:00-05:00",
+    "endDate": "2026-12-10T15:00:00-05:00",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "location": {
+     "@type": "Place",
+     "name": "American Enterprise Institute",
+     "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Washington",
+      "addressRegion": "DC",
+      "addressCountry": "US"
+     }
+    },
+    "organizer": {
+     "@type": "Organization",
+     "name": "American Enterprise Institute"
+    },
+    "url": "https://www.aei.org/events/cuba-the-day-after-from-water-system-collapse-to-recovery/",
+    "description": "The AEI calendar feed doesn't say whether this is in person; some AEI events are online only, so check the event page."
+   }
+  },
+  {
    "id": "8600e6ef1688",
    "title": "2nd Annual Food and Agriculture Policy Summit",
    "start_date": "2026-12-10",
@@ -1818,7 +1950,7 @@
    "cost": "Free",
    "summary": "Join Food Tank, the Global Food Institute at George Washington University, José Andrés, the United Nations Food and Agriculture Organization, the Culinary Institute of America, the Food is Medicine Institute at Tufts University, ReFED, American Frozen Food Institute, Oatly, Driscoll’s, and the Sprouts Healthy…",
    "event_url": "https://calendar.gwu.edu/event/2nd-annual-food-and-agriculture-policy-summit",
-   "registration_url": "https://www.eventbrite.com/e/2nd-annual-food-and-agriculture-policy-summit-week-tickets-1995499841744",
+   "registration_url": "https://www.eventbrite.ie/e/2nd-annual-food-and-agriculture-policy-summit-washington-dc-tickets-2003702003631?aff=oddtdtcreator&keep_tld=true",
    "segments": [
     "health"
    ],
@@ -2023,12 +2155,12 @@
    "start_date": "2026-12-17",
    "end_date": "2026-12-17",
    "start_time": "14:00",
-   "end_time": "",
+   "end_time": "15:00",
    "all_day": false,
    "start": "2026-12-17T14:00:00-05:00",
-   "end": "2026-12-17T16:00:00-05:00",
+   "end": "2026-12-17T15:00:00-05:00",
    "timezone": "America/New_York",
-   "when": "Thursday, Dec. 17, 2 p.m.",
+   "when": "Thursday, Dec. 17, 2–3 p.m.",
    "venue": "Atlantic Council Headquarters",
    "address": "1400 L Street NW • Floor 11, Washington, DC",
    "city": "Washington, DC",
@@ -2054,15 +2186,15 @@
    "links": {
     "page": "https://thelocalnational.com/conferences/#e-7f2321bf5bb0",
     "ics": "https://calendar.thelocalnational.com/events/7f2321bf5bb0.ics",
-    "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=General%20Adrian%20Spain%20on%20regaining%20air%20superiority%20in%20a%20contested%20era&dates=20261217T140000%2F20261217T160000&details=The%20head%20of%20Air%20Combat%20Command%20joins%20the%20Atlantic%20Council%20to%20discuss%20Air%20Force%20strategic%20priorities.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.atlanticcouncil.org%2Fevent%2Fgeneral-adrian-spain-on-regaining-air-superiority-in-a-contested-era%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-7f2321bf5bb0&location=Atlantic%20Council%20Headquarters%2C%201400%20L%20Street%20NW%20%E2%80%A2%20Floor%2011%2C%20Washington%2C%20DC&ctz=America%2FNew_York",
-    "outlook": "https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=General%20Adrian%20Spain%20on%20regaining%20air%20superiority%20in%20a%20contested%20era&startdt=2026-12-17T14%3A00%3A00-05%3A00&enddt=2026-12-17T16%3A00%3A00-05%3A00&allday=false&body=The%20head%20of%20Air%20Combat%20Command%20joins%20the%20Atlantic%20Council%20to%20discuss%20Air%20Force%20strategic%20priorities.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.atlanticcouncil.org%2Fevent%2Fgeneral-adrian-spain-on-regaining-air-superiority-in-a-contested-era%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-7f2321bf5bb0&location=Atlantic%20Council%20Headquarters%2C%201400%20L%20Street%20NW%20%E2%80%A2%20Floor%2011%2C%20Washington%2C%20DC",
-    "office": "https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=General%20Adrian%20Spain%20on%20regaining%20air%20superiority%20in%20a%20contested%20era&startdt=2026-12-17T14%3A00%3A00-05%3A00&enddt=2026-12-17T16%3A00%3A00-05%3A00&allday=false&body=The%20head%20of%20Air%20Combat%20Command%20joins%20the%20Atlantic%20Council%20to%20discuss%20Air%20Force%20strategic%20priorities.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.atlanticcouncil.org%2Fevent%2Fgeneral-adrian-spain-on-regaining-air-superiority-in-a-contested-era%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-7f2321bf5bb0&location=Atlantic%20Council%20Headquarters%2C%201400%20L%20Street%20NW%20%E2%80%A2%20Floor%2011%2C%20Washington%2C%20DC"
+    "google": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=General%20Adrian%20Spain%20on%20regaining%20air%20superiority%20in%20a%20contested%20era&dates=20261217T140000%2F20261217T150000&details=The%20head%20of%20Air%20Combat%20Command%20joins%20the%20Atlantic%20Council%20to%20discuss%20Air%20Force%20strategic%20priorities.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.atlanticcouncil.org%2Fevent%2Fgeneral-adrian-spain-on-regaining-air-superiority-in-a-contested-era%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-7f2321bf5bb0&location=Atlantic%20Council%20Headquarters%2C%201400%20L%20Street%20NW%20%E2%80%A2%20Floor%2011%2C%20Washington%2C%20DC&ctz=America%2FNew_York",
+    "outlook": "https://outlook.live.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=General%20Adrian%20Spain%20on%20regaining%20air%20superiority%20in%20a%20contested%20era&startdt=2026-12-17T14%3A00%3A00-05%3A00&enddt=2026-12-17T15%3A00%3A00-05%3A00&allday=false&body=The%20head%20of%20Air%20Combat%20Command%20joins%20the%20Atlantic%20Council%20to%20discuss%20Air%20Force%20strategic%20priorities.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.atlanticcouncil.org%2Fevent%2Fgeneral-adrian-spain-on-regaining-air-superiority-in-a-contested-era%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-7f2321bf5bb0&location=Atlantic%20Council%20Headquarters%2C%201400%20L%20Street%20NW%20%E2%80%A2%20Floor%2011%2C%20Washington%2C%20DC",
+    "office": "https://outlook.office.com/calendar/0/deeplink/compose?path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&subject=General%20Adrian%20Spain%20on%20regaining%20air%20superiority%20in%20a%20contested%20era&startdt=2026-12-17T14%3A00%3A00-05%3A00&enddt=2026-12-17T15%3A00%3A00-05%3A00&allday=false&body=The%20head%20of%20Air%20Combat%20Command%20joins%20the%20Atlantic%20Council%20to%20discuss%20Air%20Force%20strategic%20priorities.%0A%0AEvent%20page%3A%20https%3A%2F%2Fwww.atlanticcouncil.org%2Fevent%2Fgeneral-adrian-spain-on-regaining-air-superiority-in-a-contested-era%2F%0A%0AFrom%20The%20Local%20National%27s%20D.C.%20Conference%20Calendar%3A%20https%3A%2F%2Fthelocalnational.com%2Fconferences%2F%23e-7f2321bf5bb0&location=Atlantic%20Council%20Headquarters%2C%201400%20L%20Street%20NW%20%E2%80%A2%20Floor%2011%2C%20Washington%2C%20DC"
    },
    "schema": {
     "@type": "Event",
     "name": "General Adrian Spain on regaining air superiority in a contested era",
     "startDate": "2026-12-17T14:00:00-05:00",
-    "endDate": "2026-12-17T16:00:00-05:00",
+    "endDate": "2026-12-17T15:00:00-05:00",
     "eventStatus": "https://schema.org/EventScheduled",
     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
     "location": {
