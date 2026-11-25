@@ -4,7 +4,7 @@
  "home_url": "https://thelocalnational.com",
  "page_url": "https://thelocalnational.com/conferences/?region=baltimore",
  "base_url": "https://calendar.thelocalnational.com",
- "updated": "2026-11-25T09:27:19-05:00",
+ "updated": "2026-11-25T09:38:00-05:00",
  "updated_label": "Wednesday, Nov. 25, 2026",
  "generated_for": "2026-11-25",
  "timezone": "America/New_York",
@@ -12,7 +12,7 @@
  "submit_url": "https://github.com/OFFSET-THREE-SIX/tln-dc-conferences/issues/new?template=submit-event.yml",
  "region": "baltimore",
  "region_name": "Baltimore",
- "region_note": "Baltimore city and Baltimore County are an optional second calendar. Coverage starts with the Convention Center, Towson and Morgan State; more sources will be added. D.C. subscriptions stay D.C.-only.",
+ "region_note": "Baltimore city and Baltimore County are an optional second calendar. It lists events from the Convention Center, Towson and Morgan State, plus events our editors add by hand, so it is not a complete list. D.C. subscriptions stay D.C.-only.",
  "api": {
   "json": "https://calendar.thelocalnational.com/api/baltimore.json",
   "csv": "https://calendar.thelocalnational.com/api/baltimore.csv",
