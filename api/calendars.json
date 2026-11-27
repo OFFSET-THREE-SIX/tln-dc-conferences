@@ -2,7 +2,7 @@
  "name": "D.C. Conference Calendar",
  "publisher": "The Local National",
  "page_url": "https://thelocalnational.com/conferences/",
- "updated": "2026-11-25T09:27:19-05:00",
+ "updated": "2026-11-27T06:00:32-05:00",
  "calendars": [
   {
    "slug": "all",
@@ -10,7 +10,7 @@
    "kind": "all",
    "feed_name": "The Local National: D.C. Conferences",
    "description": "Every conference, summit and public forum on the calendar.",
-   "count": 40,
+   "count": 41,
    "links": {
     "ics": "https://calendar.thelocalnational.com/feeds/all.ics",
     "webcal": "webcal://calendar.thelocalnational.com/feeds/all.ics",
@@ -160,7 +160,7 @@
    "kind": "theme",
    "feed_name": "TLN D.C. Conferences: Economy",
    "description": "Jobs, wages, business, budgets, trade and technology.",
-   "count": 17,
+   "count": 18,
    "links": {
     "ics": "https://calendar.thelocalnational.com/feeds/economy.ics",
     "webcal": "webcal://calendar.thelocalnational.com/feeds/economy.ics",

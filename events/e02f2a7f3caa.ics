@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The Local National//DC Conference Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e02f2a7f3caa@thelocalnational.com
+DTSTAMP:20261127T120000Z
+LAST-MODIFIED:20261127T120000Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261201T120000
+DTEND;TZID=America/New_York:20261201T133000
+SUMMARY:Roundtable: Diasporas as Strategic Actors
+LOCATION:1957 E Street NW\, 1957 E St NW\, Washington DC 20052
+DESCRIPTION:Diasporas represent influential actors at the intersection of i
+ nternational affairs\, economic development\, entrepreneurship\, migration
+ \, and geopolitics. Beyond remittances and cultural ties\, diaspora commun
+ ities shape international business\, trade\, innovation ecosystems\, inves
+ tment flows\, talent circulation…\n\nWhen: Tuesday\, Dec. 1\, noon to 1:
+ 30 p.m.\nWhere: 1957 E Street NW\, 1957 E St NW\, Washington DC 20052\nOrg
+ anizer: George Washington University\nFormat: In person\nEvent page: https
+ ://calendar.gwu.edu/event/roundtable-diasporas-as-strategic-actors\nRegist
+ er: https://docs.google.com/forms/d/e/1FAIpQLScqvMtfuppvB8V-1AzcDA7m1VD_DP
+ 04KTppYE0NFMM8ozpu4w/viewform?usp=header\n\nListed by The Local National's
+  D.C. Conference Calendar. Confirm details with the organizer before you g
+ o.\nhttps://thelocalnational.com/conferences/#e-e02f2a7f3caa
+URL:https://calendar.gwu.edu/event/roundtable-diasporas-as-strategic-actors
+CATEGORIES:Economy
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
