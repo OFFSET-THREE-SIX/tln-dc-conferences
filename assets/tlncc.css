@@ -149,12 +149,11 @@
 }
 
 /* ---------------------------------------------------------------- Wall calendar
-   Beside the full D.C. list: a hanging month sheet with the month's photo, a day grid, and a day panel. */
+   Beside the full D.C. list: a month sheet with the month's photo, a day grid, and a day panel. */
 .tlncc.has-wall { position: relative; left: 50%; transform: translateX(-50%); width: min(1280px, calc(100vw - 2rem)); max-width: none; }
 .tlncc-layout { display: grid; gap: 2.25rem; }
 .tlncc-main { min-width: 0; }
 .tlncc-wall { min-width: 0; width: 100%; max-width: 32rem; margin: 0 auto; }
-.tlncc-hang { display: block; width: 100%; height: auto; }
 .tlncc-sheet {
   position: relative; background: var(--tlncc-card);
   box-shadow: 0 1px 0 rgba(26, 23, 20, .14), 0 4px 10px -4px rgba(26, 23, 20, .22), 0 26px 38px -20px rgba(26, 23, 20, .5);
