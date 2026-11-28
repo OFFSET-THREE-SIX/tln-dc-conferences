@@ -69,4 +69,4 @@ On thelocalnational.com, the calendar is rendered natively by the WordPress plug
 
 ---
 
-The files here are generated; please don't edit them by hand. Updated Friday, Nov. 27, 2026.
+The files here are generated; please don't edit them by hand. Updated Saturday, Nov. 28, 2026.
